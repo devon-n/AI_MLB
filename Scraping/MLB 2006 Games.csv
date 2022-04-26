@@ -1,0 +1,1040 @@
+Date,Home Odds,Vis Odds,Home,Visitor,Home PTS,Vis PTS,Home Points Dif,Home Win
+2006-10-27,2.1,1.77,St.Louis Cardinals,Detroit Tigers,4.0,2.0,2.0,True
+2006-10-26,1.87,1.95,St.Louis Cardinals,Detroit Tigers,5.0,4.0,1.0,True
+2006-10-24,1.67,2.25,St.Louis Cardinals,Detroit Tigers,5.0,0.0,5.0,True
+2006-10-22,1.55,2.5,Detroit Tigers,St.Louis Cardinals,3.0,1.0,2.0,True
+2006-10-21,1.51,2.6,Detroit Tigers,St.Louis Cardinals,2.0,7.0,-5.0,False
+2006-10-19,1.83,2.0,New York Mets,St.Louis Cardinals,1.0,3.0,-2.0,False
+2006-10-18,2.04,1.8,New York Mets,St.Louis Cardinals,4.0,2.0,2.0,True
+2006-10-17,2.15,1.73,St.Louis Cardinals,New York Mets,4.0,2.0,2.0,True
+2006-10-15,1.8,2.04,St.Louis Cardinals,New York Mets,5.0,12.0,-7.0,False
+2006-10-14,1.51,2.6,Detroit Tigers,Oakland Athletics,6.0,3.0,3.0,True
+2006-10-13,2.0,1.83,New York Mets,St.Louis Cardinals,6.0,9.0,-3.0,False
+2006-10-12,1.55,2.5,New York Mets,St.Louis Cardinals,2.0,0.0,2.0,True
+2006-10-11,1.91,1.91,Oakland Athletics,Detroit Tigers,5.0,8.0,-3.0,False
+2006-10-10,1.73,2.15,Oakland Athletics,Detroit Tigers,1.0,5.0,-4.0,False
+2006-10-08,1.53,2.54,St.Louis Cardinals,San Diego Padres,6.0,2.0,4.0,True
+2006-10-07,1.73,2.15,Los Angeles Dodgers,New York Mets,5.0,9.0,-4.0,False
+2006-10-07,1.87,1.95,St.Louis Cardinals,San Diego Padres,1.0,3.0,-2.0,False
+2006-10-07,2.04,1.8,Detroit Tigers,New York Yankees,8.0,3.0,5.0,True
+2006-10-06,2.25,1.65,Detroit Tigers,New York Yankees,6.0,0.0,6.0,True
+2006-10-06,1.67,2.25,Oakland Athletics,Minnesota Twins,8.0,3.0,5.0,True
+2006-10-05,1.68,2.22,San Diego Padres,St.Louis Cardinals,0.0,2.0,-2.0,False
+2006-10-05,1.45,2.8,New York Yankees,Detroit Tigers,3.0,4.0,-1.0,False
+2006-10-03,1.45,2.8,New York Yankees,Detroit Tigers,8.0,4.0,4.0,True
+2006-10-03,1.87,1.95,San Diego Padres,St.Louis Cardinals,1.0,5.0,-4.0,False
+2006-10-03,1.51,2.6,Minnesota Twins,Oakland Athletics,2.0,3.0,-1.0,False
+2006-10-01,1.95,1.87,Seattle Mariners,Texas Rangers,3.0,2.0,1.0,True
+2006-10-01,2.0,1.83,Los Angeles Angels,Oakland Athletics,10.0,11.0,-1.0,False
+2006-10-01,1.67,2.25,Boston Red Sox,Baltimore Orioles,9.0,0.0,9.0,True
+2006-10-01,1.55,2.5,Cleveland Indians,Tampa Bay Rays,6.0,3.0,3.0,True
+2006-10-01,1.59,2.4,New York Yankees,Toronto Blue Jays,5.0,7.0,-2.0,False
+2006-10-01,1.95,1.87,Washington Nationals,New York Mets,2.0,6.0,-4.0,False
+2006-09-30,1.77,2.1,Boston Red Sox,Baltimore Orioles,4.0,5.0,-1.0,False
+2006-09-30,1.91,1.91,Los Angeles Angels,Oakland Athletics,7.0,6.0,1.0,True
+2006-09-30,2.0,1.83,Washington Nationals,New York Mets,0.0,13.0,-13.0,False
+2006-09-30,1.87,1.95,St.Louis Cardinals,Milwaukee Brewers,3.0,2.0,1.0,True
+2006-09-30,1.87,1.95,Seattle Mariners,Texas Rangers,3.0,1.0,2.0,True
+2006-09-30,1.8,2.04,Minnesota Twins,Chicago White Sox,3.0,6.0,-3.0,False
+2006-09-29,2.04,1.8,Boston Red Sox,Baltimore Orioles,4.0,3.0,1.0,True
+2006-09-29,1.43,2.9,Detroit Tigers,Kansas City Royals,7.0,9.0,-2.0,False
+2006-09-29,1.83,2.0,Minnesota Twins,Chicago White Sox,3.0,4.0,-1.0,False
+2006-09-29,1.87,1.95,Pittsburgh Pirates,Cincinnati Reds,2.0,5.0,-3.0,False
+2006-09-29,2.1,1.77,San Francisco Giants,Los Angeles Dodgers,3.0,4.0,-1.0,False
+2006-09-29,1.5,2.65,Chicago Cubs,Colorado Rockies,2.0,5.0,-3.0,False
+2006-09-28,1.59,2.4,Cleveland Indians,Tampa Bay Rays,5.0,4.0,1.0,True
+2006-09-28,2.15,1.73,Colorado Rockies,Los Angeles Dodgers,11.0,19.0,-8.0,False
+2006-09-27,1.95,1.87,Atlanta Braves,New York Mets,13.0,1.0,12.0,True
+2006-09-27,1.87,1.95,Chicago Cubs,Milwaukee Brewers,3.0,2.0,1.0,True
+2006-09-27,2.2,1.7,Pittsburgh Pirates,Houston Astros,6.0,7.0,-1.0,False
+2006-09-27,2.0,1.83,St.Louis Cardinals,San Diego Padres,4.0,2.0,2.0,True
+2006-09-27,2.65,1.5,Washington Nationals,Philadelphia Phillies,7.0,8.0,-1.0,False
+2006-09-27,1.4,3.0,Boston Red Sox,Tampa Bay Rays,0.0,11.0,-11.0,False
+2006-09-27,1.73,2.15,Cleveland Indians,Chicago White Sox,1.0,2.0,-1.0,False
+2006-09-27,2.04,1.8,Colorado Rockies,Los Angeles Dodgers,4.0,6.0,-2.0,False
+2006-09-27,1.57,2.45,Detroit Tigers,Toronto Blue Jays,4.0,7.0,-3.0,False
+2006-09-27,1.59,2.4,Miami Marlins,Cincinnati Reds,7.0,2.0,5.0,True
+2006-09-27,1.43,2.9,Minnesota Twins,Kansas City Royals,4.0,6.0,-2.0,False
+2006-09-27,1.43,2.9,New York Yankees,Baltimore Orioles,16.0,5.0,11.0,True
+2006-09-27,1.83,2.0,San Francisco Giants,Arizona Diamondbacks,3.0,6.0,-3.0,False
+2006-09-26,1.5,2.65,Boston Red Sox,Tampa Bay Rays,5.0,1.0,4.0,True
+2006-09-26,1.48,2.7,Detroit Tigers,Toronto Blue Jays,4.0,3.0,1.0,True
+2006-09-26,1.65,2.29,Los Angeles Angels,Texas Rangers,2.0,5.0,-3.0,False
+2006-09-26,1.51,2.6,Miami Marlins,Cincinnati Reds,3.0,5.0,-2.0,False
+2006-09-26,1.27,3.9,Minnesota Twins,Kansas City Royals,3.0,2.0,1.0,True
+2006-09-26,1.43,2.9,New York Yankees,Baltimore Orioles,5.0,4.0,1.0,True
+2006-09-26,2.15,1.73,Pittsburgh Pirates,Houston Astros,4.0,7.0,-3.0,False
+2006-09-26,2.54,1.53,Washington Nationals,Philadelphia Phillies,4.0,3.0,1.0,True
+2006-09-25,2.0,1.83,Cleveland Indians,Chicago White Sox,14.0,1.0,13.0,True
+2006-09-25,1.73,2.15,Los Angeles Angels,Texas Rangers,8.0,3.0,5.0,True
+2006-09-25,1.43,2.9,Minnesota Twins,Kansas City Royals,8.0,1.0,7.0,True
+2006-09-25,1.59,2.4,San Francisco Giants,Arizona Diamondbacks,1.0,7.0,-6.0,False
+2006-09-25,1.8,2.04,Toronto Blue Jays,Boston Red Sox,5.0,0.0,5.0,True
+2006-09-25,1.48,2.7,Cincinnati Reds,Chicago Cubs,5.0,4.0,1.0,True
+2006-09-24,1.65,2.29,Los Angeles Dodgers,Arizona Diamondbacks,5.0,1.0,4.0,True
+2006-09-24,1.5,2.65,San Diego Padres,Pittsburgh Pirates,2.0,1.0,1.0,True
+2006-09-24,2.15,1.73,Colorado Rockies,Atlanta Braves,9.0,8.0,1.0,True
+2006-09-24,2.35,1.61,Kansas City Royals,Detroit Tigers,4.0,11.0,-7.0,False
+2006-09-24,1.5,2.65,Chicago White Sox,Seattle Mariners,12.0,7.0,5.0,True
+2006-09-24,1.83,2.0,Milwaukee Brewers,San Francisco Giants,5.0,3.0,2.0,True
+2006-09-24,1.67,2.25,Texas Rangers,Cleveland Indians,6.0,11.0,-5.0,False
+2006-09-24,1.95,1.87,Baltimore Orioles,Minnesota Twins,3.0,6.0,-3.0,False
+2006-09-24,2.9,1.43,Tampa Bay Rays,New York Yankees,11.0,4.0,7.0,True
+2006-09-24,1.61,2.35,Toronto Blue Jays,Boston Red Sox,13.0,4.0,9.0,True
+2006-09-23,1.73,2.15,Chicago White Sox,Seattle Mariners,11.0,7.0,4.0,True
+2006-09-23,2.25,1.67,Cincinnati Reds,Chicago Cubs,4.0,11.0,-7.0,False
+2006-09-23,1.7,2.2,Colorado Rockies,Atlanta Braves,10.0,9.0,1.0,True
+2006-09-23,1.55,2.5,Houston Astros,St.Louis Cardinals,7.0,4.0,3.0,True
+2006-09-23,1.7,2.2,Milwaukee Brewers,San Francisco Giants,10.0,8.0,2.0,True
+2006-09-23,1.5,2.65,San Diego Padres,Pittsburgh Pirates,2.0,1.0,1.0,True
+2006-09-23,2.8,1.45,Tampa Bay Rays,New York Yankees,8.0,0.0,8.0,True
+2006-09-23,1.57,2.45,Texas Rangers,Cleveland Indians,3.0,6.0,-3.0,False
+2006-09-23,1.87,1.95,Oakland Athletics,Los Angeles Angels,2.0,6.0,-4.0,False
+2006-09-22,2.0,1.83,Colorado Rockies,Atlanta Braves,6.0,4.0,2.0,True
+2006-09-22,1.77,2.1,Houston Astros,St.Louis Cardinals,6.0,5.0,1.0,True
+2006-09-22,1.48,2.7,Philadelphia Phillies,Miami Marlins,5.0,2.0,3.0,True
+2006-09-21,1.53,2.54,Chicago White Sox,Seattle Mariners,0.0,9.0,-9.0,False
+2006-09-21,2.15,1.73,Colorado Rockies,Atlanta Braves,3.0,6.0,-3.0,False
+2006-09-21,2.2,1.7,Houston Astros,St.Louis Cardinals,6.0,5.0,1.0,True
+2006-09-21,1.77,2.1,Milwaukee Brewers,San Francisco Giants,9.0,4.0,5.0,True
+2006-09-21,1.91,1.91,San Diego Padres,Arizona Diamondbacks,3.0,1.0,2.0,True
+2006-09-20,1.43,2.9,Los Angeles Dodgers,Pittsburgh Pirates,4.0,6.0,-2.0,False
+2006-09-20,1.67,2.25,Boston Red Sox,Minnesota Twins,2.0,8.0,-6.0,False
+2006-09-20,1.8,2.04,Chicago White Sox,Detroit Tigers,2.0,6.0,-4.0,False
+2006-09-20,2.25,1.67,Kansas City Royals,Los Angeles Angels,0.0,3.0,-3.0,False
+2006-09-20,2.15,1.73,Milwaukee Brewers,St.Louis Cardinals,1.0,0.0,1.0,True
+2006-09-20,2.0,1.83,New York Mets,Miami Marlins,3.0,6.0,-3.0,False
+2006-09-20,1.59,2.4,San Diego Padres,Arizona Diamondbacks,2.0,8.0,-6.0,False
+2006-09-20,1.7,2.2,Texas Rangers,Seattle Mariners,3.0,6.0,-3.0,False
+2006-09-20,1.91,1.91,Washington Nationals,Atlanta Braves,3.0,7.0,-4.0,False
+2006-09-20,1.77,2.1,Tampa Bay Rays,Baltimore Orioles,4.0,2.0,2.0,True
+2006-09-20,2.04,1.8,Colorado Rockies,San Francisco Giants,4.0,7.0,-3.0,False
+2006-09-20,1.7,2.2,Houston Astros,Cincinnati Reds,7.0,2.0,5.0,True
+2006-09-19,1.8,2.04,Boston Red Sox,Minnesota Twins,3.0,7.0,-4.0,False
+2006-09-19,1.83,2.0,Chicago White Sox,Detroit Tigers,7.0,0.0,7.0,True
+2006-09-19,2.1,1.77,Colorado Rockies,San Francisco Giants,12.0,4.0,8.0,True
+2006-09-19,1.7,2.2,Houston Astros,Cincinnati Reds,4.0,5.0,-1.0,False
+2006-09-19,1.7,2.2,Oakland Athletics,Cleveland Indians,7.0,3.0,4.0,True
+2006-09-19,1.43,2.9,Philadelphia Phillies,Chicago Cubs,4.0,1.0,3.0,True
+2006-09-19,1.7,2.2,San Diego Padres,Arizona Diamondbacks,5.0,2.0,3.0,True
+2006-09-19,2.15,1.73,Tampa Bay Rays,Baltimore Orioles,4.0,5.0,-1.0,False
+2006-09-19,1.8,2.04,Texas Rangers,Seattle Mariners,7.0,9.0,-2.0,False
+2006-09-19,2.15,1.73,Toronto Blue Jays,New York Yankees,3.0,6.0,-3.0,False
+2006-09-19,2.15,1.73,Washington Nationals,Atlanta Braves,9.0,2.0,7.0,True
+2006-09-18,1.83,2.0,Chicago White Sox,Detroit Tigers,2.0,8.0,-6.0,False
+2006-09-18,1.43,2.9,Houston Astros,Cincinnati Reds,5.0,3.0,2.0,True
+2006-09-18,1.43,2.9,Philadelphia Phillies,Chicago Cubs,6.0,11.0,-5.0,False
+2006-09-18,1.83,2.0,Washington Nationals,Atlanta Braves,1.0,6.0,-5.0,False
+2006-09-17,1.7,2.2,Los Angeles Dodgers,San Diego Padres,1.0,2.0,-1.0,False
+2006-09-17,2.2,1.7,Pittsburgh Pirates,New York Mets,3.0,0.0,3.0,True
+2006-09-17,1.91,1.91,Arizona Diamondbacks,Colorado Rockies,1.0,6.0,-5.0,False
+2006-09-17,1.95,1.87,Oakland Athletics,Chicago White Sox,5.0,4.0,1.0,True
+2006-09-17,1.61,2.35,Chicago Cubs,Cincinnati Reds,11.0,3.0,8.0,True
+2006-09-17,2.15,1.73,Kansas City Royals,Seattle Mariners,5.0,10.0,-5.0,False
+2006-09-17,2.0,1.83,Houston Astros,Philadelphia Phillies,4.0,6.0,-2.0,False
+2006-09-17,1.83,2.0,Texas Rangers,Los Angeles Angels,8.0,1.0,7.0,True
+2006-09-17,1.7,2.2,Atlanta Braves,Miami Marlins,8.0,7.0,1.0,True
+2006-09-17,1.87,1.95,Cleveland Indians,Minnesota Twins,1.0,6.0,-5.0,False
+2006-09-17,1.59,2.4,Detroit Tigers,Baltimore Orioles,8.0,12.0,-4.0,False
+2006-09-17,1.5,2.65,Toronto Blue Jays,Tampa Bay Rays,5.0,3.0,2.0,True
+2006-09-17,1.95,1.87,Washington Nationals,Milwaukee Brewers,6.0,1.0,5.0,True
+2006-09-16,1.57,2.45,Arizona Diamondbacks,Colorado Rockies,7.0,6.0,1.0,True
+2006-09-16,1.95,1.87,Atlanta Braves,Miami Marlins,2.0,1.0,1.0,True
+2006-09-16,3.1,1.38,Cleveland Indians,Minnesota Twins,1.0,4.0,-3.0,False
+2006-09-16,1.39,3.1,Detroit Tigers,Baltimore Orioles,2.0,0.0,2.0,True
+2006-09-16,1.87,1.95,Kansas City Royals,Seattle Mariners,7.0,4.0,3.0,True
+2006-09-16,2.5,1.55,Pittsburgh Pirates,New York Mets,3.0,2.0,1.0,True
+2006-09-16,2.1,1.75,Texas Rangers,Los Angeles Angels,12.0,6.0,6.0,True
+2006-09-16,1.8,2.04,Washington Nationals,Milwaukee Brewers,8.0,5.0,3.0,True
+2006-09-16,1.87,1.95,Oakland Athletics,Chicago White Sox,7.0,4.0,3.0,True
+2006-09-16,1.53,2.54,Toronto Blue Jays,Tampa Bay Rays,6.0,1.0,5.0,True
+2006-09-16,1.73,2.15,Los Angeles Dodgers,San Diego Padres,2.0,11.0,-9.0,False
+2006-09-16,1.51,2.6,New York Yankees,Boston Red Sox,7.0,5.0,2.0,True
+2006-09-16,2.15,1.73,Houston Astros,Philadelphia Phillies,2.0,7.0,-5.0,False
+2006-09-15,1.95,1.87,Cleveland Indians,Minnesota Twins,5.0,4.0,1.0,True
+2006-09-15,2.1,1.77,Kansas City Royals,Seattle Mariners,8.0,11.0,-3.0,False
+2006-09-15,2.1,1.77,Texas Rangers,Los Angeles Angels,1.0,2.0,-1.0,False
+2006-09-14,1.73,2.15,Atlanta Braves,Philadelphia Phillies,4.0,1.0,3.0,True
+2006-09-14,1.73,2.15,Baltimore Orioles,Boston Red Sox,5.0,6.0,-1.0,False
+2006-09-14,1.95,1.87,Cleveland Indians,Minnesota Twins,4.0,9.0,-5.0,False
+2006-09-14,2.1,1.77,Kansas City Royals,Seattle Mariners,10.0,8.0,2.0,True
+2006-09-14,1.33,3.4,New York Yankees,Tampa Bay Rays,7.0,4.0,3.0,True
+2006-09-14,2.1,1.77,Texas Rangers,Los Angeles Angels,1.0,2.0,-1.0,False
+2006-09-14,1.5,2.65,San Francisco Giants,Colorado Rockies,5.0,0.0,5.0,True
+2006-09-14,1.83,2.0,Cincinnati Reds,San Diego Padres,2.0,4.0,-2.0,False
+2006-09-13,1.67,2.25,Arizona Diamondbacks,Washington Nationals,4.0,2.0,2.0,True
+2006-09-13,2.04,1.8,Atlanta Braves,Philadelphia Phillies,2.0,7.0,-5.0,False
+2006-09-13,2.0,1.83,Atlanta Braves,Philadelphia Phillies,5.0,6.0,-1.0,False
+2006-09-13,1.77,2.1,Baltimore Orioles,Boston Red Sox,4.0,0.0,4.0,True
+2006-09-13,2.42,1.6,Chicago Cubs,Los Angeles Dodgers,0.0,6.0,-6.0,False
+2006-09-13,2.25,1.67,Cincinnati Reds,San Diego Padres,0.0,10.0,-10.0,False
+2006-09-13,1.45,2.8,Cleveland Indians,Kansas City Royals,2.0,6.0,-4.0,False
+2006-09-13,1.73,2.15,Detroit Tigers,Texas Rangers,3.0,11.0,-8.0,False
+2006-09-13,1.91,1.91,Miami Marlins,New York Mets,4.0,7.0,-3.0,False
+2006-09-13,1.4,3.0,New York Yankees,Tampa Bay Rays,8.0,4.0,4.0,True
+2006-09-13,2.15,1.73,Pittsburgh Pirates,Milwaukee Brewers,1.0,2.0,-1.0,False
+2006-09-13,1.73,2.15,San Francisco Giants,Colorado Rockies,8.0,9.0,-1.0,False
+2006-09-13,1.87,1.95,Seattle Mariners,Toronto Blue Jays,0.0,10.0,-10.0,False
+2006-09-13,2.15,1.73,St.Louis Cardinals,Houston Astros,1.0,5.0,-4.0,False
+2006-09-13,1.67,2.25,Minnesota Twins,Oakland Athletics,0.0,1.0,-1.0,False
+2006-09-12,1.87,1.95,Baltimore Orioles,Boston Red Sox,5.0,6.0,-1.0,False
+2006-09-12,2.1,1.77,Cincinnati Reds,San Diego Padres,5.0,4.0,1.0,True
+2006-09-12,1.45,2.8,Cleveland Indians,Kansas City Royals,3.0,5.0,-2.0,False
+2006-09-12,1.77,2.1,Minnesota Twins,Oakland Athletics,7.0,5.0,2.0,True
+2006-09-12,1.4,3.0,New York Yankees,Tampa Bay Rays,12.0,4.0,8.0,True
+2006-09-12,1.55,2.5,San Francisco Giants,Colorado Rockies,10.0,6.0,4.0,True
+2006-09-12,1.8,2.04,Seattle Mariners,Toronto Blue Jays,4.0,2.0,2.0,True
+2006-09-11,1.65,2.29,Arizona Diamondbacks,Washington Nationals,6.0,7.0,-1.0,False
+2006-09-11,1.45,2.8,Atlanta Braves,Chicago Cubs,3.0,8.0,-5.0,False
+2006-09-11,2.54,1.53,Baltimore Orioles,New York Yankees,6.0,9.0,-3.0,False
+2006-09-11,1.77,2.1,Los Angeles Angels,Chicago White Sox,2.0,3.0,-1.0,False
+2006-09-11,1.87,1.95,Seattle Mariners,Toronto Blue Jays,2.0,6.0,-4.0,False
+2006-09-10,1.73,2.15,San Francisco Giants,San Diego Padres,2.0,10.0,-8.0,False
+2006-09-10,1.7,2.2,Seattle Mariners,Texas Rangers,2.0,4.0,-2.0,False
+2006-09-10,2.5,1.55,Baltimore Orioles,New York Yankees,4.0,9.0,-5.0,False
+2006-09-10,1.5,2.65,Cincinnati Reds,Pittsburgh Pirates,4.0,2.0,2.0,True
+2006-09-10,2.45,1.57,Tampa Bay Rays,Oakland Athletics,7.0,9.0,-2.0,False
+2006-09-10,1.67,2.25,New York Mets,Los Angeles Dodgers,1.0,9.0,-8.0,False
+2006-09-10,1.61,2.35,Atlanta Braves,Chicago Cubs,2.0,1.0,1.0,True
+2006-09-09,1.73,2.15,Arizona Diamondbacks,St.Louis Cardinals,3.0,0.0,3.0,True
+2006-09-09,1.65,2.29,Cincinnati Reds,Pittsburgh Pirates,4.0,7.0,-3.0,False
+2006-09-09,1.48,2.73,Atlanta Braves,Chicago Cubs,7.0,3.0,4.0,True
+2006-09-09,1.45,2.8,Boston Red Sox,Kansas City Royals,4.0,10.0,-6.0,False
+2006-09-09,1.43,2.9,Chicago White Sox,Cleveland Indians,10.0,8.0,2.0,True
+2006-09-09,1.89,1.93,Colorado Rockies,Washington Nationals,9.0,5.0,4.0,True
+2006-09-09,1.65,2.32,Los Angeles Angels,Toronto Blue Jays,1.0,2.0,-1.0,False
+2006-09-09,2.2,1.71,Miami Marlins,Philadelphia Phillies,4.0,3.0,1.0,True
+2006-09-09,1.77,2.1,Milwaukee Brewers,Houston Astros,4.0,10.0,-6.0,False
+2006-09-09,1.89,1.93,Minnesota Twins,Detroit Tigers,2.0,1.0,1.0,True
+2006-09-09,1.73,2.15,Seattle Mariners,Texas Rangers,3.0,2.0,1.0,True
+2006-09-09,2.35,1.63,Tampa Bay Rays,Oakland Athletics,9.0,6.0,3.0,True
+2006-09-09,2.65,1.51,Baltimore Orioles,New York Yankees,2.0,3.0,-1.0,False
+2006-09-08,2.04,1.8,Arizona Diamondbacks,St.Louis Cardinals,13.0,1.0,12.0,True
+2006-09-08,1.5,2.65,Atlanta Braves,Chicago Cubs,8.0,4.0,4.0,True
+2006-09-08,1.73,2.15,Cincinnati Reds,Pittsburgh Pirates,9.0,1.0,8.0,True
+2006-09-08,1.8,2.04,Colorado Rockies,Washington Nationals,11.0,8.0,3.0,True
+2006-09-08,1.91,1.91,Los Angeles Angels,Toronto Blue Jays,4.0,1.0,3.0,True
+2006-09-08,1.77,2.1,Miami Marlins,Philadelphia Phillies,2.0,3.0,-1.0,False
+2006-09-08,2.0,1.83,Milwaukee Brewers,Houston Astros,3.0,4.0,-1.0,False
+2006-09-08,1.91,1.91,Minnesota Twins,Detroit Tigers,9.0,5.0,4.0,True
+2006-09-08,1.61,2.35,New York Mets,Los Angeles Dodgers,0.0,5.0,-5.0,False
+2006-09-08,1.87,1.95,San Francisco Giants,San Diego Padres,4.0,0.0,4.0,True
+2006-09-08,2.0,1.83,Seattle Mariners,Texas Rangers,7.0,2.0,5.0,True
+2006-09-08,2.2,1.7,Tampa Bay Rays,Oakland Athletics,6.0,8.0,-2.0,False
+2006-09-07,1.91,1.91,Arizona Diamondbacks,St.Louis Cardinals,2.0,6.0,-4.0,False
+2006-09-07,1.7,2.2,Chicago White Sox,Cleveland Indians,1.0,9.0,-8.0,False
+2006-09-07,1.73,2.15,Colorado Rockies,Washington Nationals,10.0,5.0,5.0,True
+2006-09-07,1.73,2.15,Miami Marlins,Philadelphia Phillies,8.0,14.0,-6.0,False
+2006-09-07,2.04,1.8,Minnesota Twins,Detroit Tigers,2.0,7.0,-5.0,False
+2006-09-07,1.8,2.04,New York Mets,Los Angeles Dodgers,7.0,0.0,7.0,True
+2006-09-07,1.8,2.04,Chicago Cubs,Pittsburgh Pirates,5.0,7.0,-2.0,False
+2006-09-06,2.2,1.7,Boston Red Sox,Chicago White Sox,1.0,8.0,-7.0,False
+2006-09-06,1.87,1.95,Chicago Cubs,Pittsburgh Pirates,7.0,2.0,5.0,True
+2006-09-06,2.8,1.45,Kansas City Royals,New York Yankees,3.0,8.0,-5.0,False
+2006-09-06,1.51,2.6,Miami Marlins,Arizona Diamondbacks,2.0,0.0,2.0,True
+2006-09-06,1.91,1.91,Milwaukee Brewers,Los Angeles Dodgers,1.0,2.0,-1.0,False
+2006-09-06,2.1,1.77,New York Mets,Atlanta Braves,8.0,0.0,8.0,True
+2006-09-06,1.73,2.15,San Diego Padres,Colorado Rockies,2.0,0.0,2.0,True
+2006-09-06,2.2,1.7,Tampa Bay Rays,Minnesota Twins,4.0,2.0,2.0,True
+2006-09-06,1.87,1.95,Toronto Blue Jays,Cleveland Indians,3.0,2.0,1.0,True
+2006-09-06,1.59,2.4,Los Angeles Angels,Baltimore Orioles,8.0,4.0,4.0,True
+2006-09-05,2.25,1.67,Boston Red Sox,Chicago White Sox,1.0,0.0,1.0,True
+2006-09-05,1.8,2.04,Chicago Cubs,Pittsburgh Pirates,5.0,6.0,-1.0,False
+2006-09-05,1.77,2.1,Cincinnati Reds,San Francisco Giants,3.0,0.0,3.0,True
+2006-09-05,1.55,2.5,Detroit Tigers,Seattle Mariners,3.0,4.0,-1.0,False
+2006-09-05,1.51,2.6,Miami Marlins,Arizona Diamondbacks,0.0,4.0,-4.0,False
+2006-09-05,1.95,1.87,Milwaukee Brewers,Los Angeles Dodgers,9.0,0.0,9.0,True
+2006-09-05,1.77,2.1,San Diego Padres,Colorado Rockies,5.0,4.0,1.0,True
+2006-09-05,3.2,1.36,Tampa Bay Rays,Minnesota Twins,0.0,8.0,-8.0,False
+2006-09-05,1.55,2.5,Toronto Blue Jays,Cleveland Indians,2.0,7.0,-5.0,False
+2006-09-05,2.2,1.7,Washington Nationals,St.Louis Cardinals,0.0,2.0,-2.0,False
+2006-09-05,2.92,1.42,Kansas City Royals,New York Yankees,5.0,0.0,5.0,True
+2006-09-05,1.53,2.54,Los Angeles Angels,Baltimore Orioles,5.0,2.0,3.0,True
+2006-09-05,1.73,2.15,Oakland Athletics,Texas Rangers,4.0,5.0,-1.0,False
+2006-09-04,2.8,1.45,Kansas City Royals,New York Yankees,5.0,12.0,-7.0,False
+2006-09-04,1.53,2.6,Los Angeles Angels,Baltimore Orioles,1.0,0.0,1.0,True
+2006-09-04,1.77,2.1,New York Mets,Atlanta Braves,0.0,5.0,-5.0,False
+2006-09-04,1.58,2.45,San Diego Padres,Colorado Rockies,7.0,5.0,2.0,True
+2006-09-04,2.42,1.59,Boston Red Sox,Chicago White Sox,3.0,2.0,1.0,True
+2006-09-04,1.53,2.54,Oakland Athletics,Texas Rangers,1.0,8.0,-7.0,False
+2006-09-04,1.95,1.87,Philadelphia Phillies,Houston Astros,3.0,2.0,1.0,True
+2006-09-04,1.48,2.7,Chicago Cubs,Pittsburgh Pirates,4.0,5.0,-1.0,False
+2006-09-04,2.15,1.73,Milwaukee Brewers,Los Angeles Dodgers,6.0,3.0,3.0,True
+2006-09-04,2.25,1.67,Tampa Bay Rays,Minnesota Twins,1.0,2.0,-1.0,False
+2006-09-04,1.67,2.25,Miami Marlins,Arizona Diamondbacks,8.0,5.0,3.0,True
+2006-09-04,2.25,1.67,Toronto Blue Jays,Cleveland Indians,4.0,3.0,1.0,True
+2006-09-04,2.1,1.77,Washington Nationals,St.Louis Cardinals,4.0,1.0,3.0,True
+2006-09-03,1.61,2.35,Los Angeles Dodgers,Colorado Rockies,5.0,12.0,-7.0,False
+2006-09-03,1.48,2.7,Oakland Athletics,Baltimore Orioles,10.0,1.0,9.0,True
+2006-09-03,1.77,2.1,San Diego Padres,Cincinnati Reds,2.0,1.0,1.0,True
+2006-09-03,1.67,2.25,Philadelphia Phillies,Atlanta Braves,1.0,3.0,-2.0,False
+2006-09-03,2.5,1.55,Chicago Cubs,San Francisco Giants,4.0,7.0,-3.0,False
+2006-09-03,1.53,2.54,St.Louis Cardinals,Pittsburgh Pirates,6.0,3.0,3.0,True
+2006-09-03,2.35,1.61,Kansas City Royals,Chicago White Sox,7.0,3.0,4.0,True
+2006-09-03,1.7,2.2,Boston Red Sox,Toronto Blue Jays,1.0,6.0,-5.0,False
+2006-09-03,1.95,1.87,Milwaukee Brewers,Miami Marlins,3.0,10.0,-7.0,False
+2006-09-03,1.87,1.95,Philadelphia Phillies,Atlanta Braves,8.0,7.0,1.0,True
+2006-09-03,2.29,1.65,Washington Nationals,Arizona Diamondbacks,5.0,3.0,2.0,True
+2006-09-02,1.57,2.45,Detroit Tigers,Los Angeles Angels,2.0,7.0,-5.0,False
+2006-09-02,2.1,1.77,Houston Astros,New York Mets,2.0,4.0,-2.0,False
+2006-09-02,2.4,1.59,Kansas City Royals,Chicago White Sox,3.0,5.0,-2.0,False
+2006-09-02,1.57,2.45,Los Angeles Dodgers,Colorado Rockies,14.0,5.0,9.0,True
+2006-09-02,1.77,2.1,Milwaukee Brewers,Miami Marlins,6.0,9.0,-3.0,False
+2006-09-02,1.7,2.2,Philadelphia Phillies,Atlanta Braves,3.0,4.0,-1.0,False
+2006-09-02,1.57,2.45,San Diego Padres,Cincinnati Reds,7.0,1.0,6.0,True
+2006-09-02,1.51,2.6,St.Louis Cardinals,Pittsburgh Pirates,0.0,1.0,-1.0,False
+2006-09-02,2.0,1.83,Tampa Bay Rays,Seattle Mariners,3.0,4.0,-1.0,False
+2006-09-02,1.83,2.0,Texas Rangers,Cleveland Indians,5.0,6.0,-1.0,False
+2006-09-02,1.95,1.87,Washington Nationals,Arizona Diamondbacks,7.0,6.0,1.0,True
+2006-09-02,2.1,1.77,Washington Nationals,Arizona Diamondbacks,4.0,3.0,1.0,True
+2006-09-02,1.55,2.5,Oakland Athletics,Baltimore Orioles,5.0,6.0,-1.0,False
+2006-09-02,2.29,1.65,Chicago Cubs,San Francisco Giants,2.0,4.0,-2.0,False
+2006-09-01,2.0,1.83,Houston Astros,New York Mets,7.0,8.0,-1.0,False
+2006-09-01,2.5,1.56,Kansas City Royals,Chicago White Sox,7.0,5.0,2.0,True
+2006-09-01,1.65,2.27,Los Angeles Dodgers,Colorado Rockies,6.0,3.0,3.0,True
+2006-09-01,1.73,2.15,Milwaukee Brewers,Miami Marlins,2.0,3.0,-1.0,False
+2006-09-01,1.8,2.04,Oakland Athletics,Baltimore Orioles,5.0,4.0,1.0,True
+2006-09-01,1.8,2.04,San Diego Padres,Cincinnati Reds,2.0,6.0,-4.0,False
+2006-09-01,1.43,2.87,St.Louis Cardinals,Pittsburgh Pirates,3.0,1.0,2.0,True
+2006-09-01,1.91,1.91,Tampa Bay Rays,Seattle Mariners,2.0,1.0,1.0,True
+2006-09-01,1.68,2.22,Texas Rangers,Cleveland Indians,2.0,7.0,-5.0,False
+2006-09-01,2.2,1.7,Boston Red Sox,Toronto Blue Jays,2.0,1.0,1.0,True
+2006-09-01,1.71,2.18,Detroit Tigers,Los Angeles Angels,9.0,0.0,9.0,True
+2006-09-01,1.57,2.45,New York Yankees,Minnesota Twins,8.0,1.0,7.0,True
+2006-09-01,2.04,1.8,Chicago Cubs,San Francisco Giants,6.0,2.0,4.0,True
+2006-08-31,1.5,2.65,Atlanta Braves,San Francisco Giants,6.0,8.0,-2.0,False
+2006-08-31,1.8,2.04,Colorado Rockies,New York Mets,8.0,4.0,4.0,True
+2006-08-31,1.48,2.7,Houston Astros,Milwaukee Brewers,5.0,3.0,2.0,True
+2006-08-31,1.8,2.04,St.Louis Cardinals,Miami Marlins,5.0,2.0,3.0,True
+2006-08-31,1.77,2.1,Texas Rangers,Baltimore Orioles,7.0,5.0,2.0,True
+2006-08-31,2.2,1.7,Washington Nationals,Philadelphia Phillies,6.0,5.0,1.0,True
+2006-08-31,2.45,1.57,Boston Red Sox,Toronto Blue Jays,6.0,4.0,2.0,True
+2006-08-31,1.28,3.8,Minnesota Twins,Kansas City Royals,3.0,1.0,2.0,True
+2006-08-30,1.83,2.0,Arizona Diamondbacks,San Diego Padres,1.0,4.0,-3.0,False
+2006-08-30,1.73,2.15,Atlanta Braves,San Francisco Giants,5.0,3.0,2.0,True
+2006-08-30,1.38,3.1,Chicago White Sox,Tampa Bay Rays,5.0,4.0,1.0,True
+2006-08-30,1.65,2.29,Cleveland Indians,Toronto Blue Jays,3.0,2.0,1.0,True
+2006-08-30,2.0,1.83,Colorado Rockies,New York Mets,3.0,11.0,-8.0,False
+2006-08-30,1.48,2.7,Houston Astros,Milwaukee Brewers,1.0,0.0,1.0,True
+2006-08-30,1.77,2.1,Los Angeles Dodgers,Cincinnati Reds,7.0,3.0,4.0,True
+2006-08-30,1.5,2.65,Minnesota Twins,Kansas City Royals,3.0,4.0,-1.0,False
+2006-08-30,1.53,2.54,New York Yankees,Detroit Tigers,3.0,5.0,-2.0,False
+2006-08-30,1.57,2.45,New York Yankees,Detroit Tigers,2.0,0.0,2.0,True
+2006-08-30,2.04,1.8,Seattle Mariners,Los Angeles Angels,3.0,5.0,-2.0,False
+2006-08-30,1.73,2.1,St.Louis Cardinals,Miami Marlins,13.0,6.0,7.0,True
+2006-08-30,1.73,2.15,Texas Rangers,Baltimore Orioles,4.0,7.0,-3.0,False
+2006-08-30,2.35,1.61,Washington Nationals,Philadelphia Phillies,1.0,5.0,-4.0,False
+2006-08-30,1.7,2.2,Oakland Athletics,Boston Red Sox,7.0,2.0,5.0,True
+2006-08-29,2.04,1.8,Arizona Diamondbacks,San Diego Padres,3.0,8.0,-5.0,False
+2006-08-29,1.87,1.95,Atlanta Braves,San Francisco Giants,13.0,8.0,5.0,True
+2006-08-29,1.45,2.8,Chicago White Sox,Tampa Bay Rays,12.0,9.0,3.0,True
+2006-08-29,1.53,2.54,Cleveland Indians,Toronto Blue Jays,5.0,2.0,3.0,True
+2006-08-29,2.1,1.77,Colorado Rockies,New York Mets,5.0,10.0,-5.0,False
+2006-08-29,1.5,2.65,Houston Astros,Milwaukee Brewers,10.0,3.0,7.0,True
+2006-08-29,1.7,2.2,Los Angeles Dodgers,Cincinnati Reds,6.0,5.0,1.0,True
+2006-08-29,1.5,2.63,Minnesota Twins,Kansas City Royals,0.0,2.0,-2.0,False
+2006-08-29,1.91,1.91,Oakland Athletics,Boston Red Sox,2.0,1.0,1.0,True
+2006-08-29,2.25,1.67,Pittsburgh Pirates,Chicago Cubs,7.0,6.0,1.0,True
+2006-08-29,2.29,1.65,Seattle Mariners,Los Angeles Angels,6.0,4.0,2.0,True
+2006-08-29,1.8,2.04,St.Louis Cardinals,Miami Marlins,1.0,9.0,-8.0,False
+2006-08-29,1.61,2.35,Texas Rangers,Baltimore Orioles,9.0,4.0,5.0,True
+2006-08-29,2.35,1.61,Washington Nationals,Philadelphia Phillies,6.0,10.0,-4.0,False
+2006-08-28,1.71,2.2,Arizona Diamondbacks,San Diego Padres,7.0,4.0,3.0,True
+2006-08-28,1.91,1.91,Cleveland Indians,Toronto Blue Jays,6.0,4.0,2.0,True
+2006-08-28,1.62,2.38,Los Angeles Dodgers,Cincinnati Reds,6.0,5.0,1.0,True
+2006-08-28,1.81,2.02,Miami Marlins,Milwaukee Brewers,4.0,2.0,2.0,True
+2006-08-28,1.61,2.35,Oakland Athletics,Boston Red Sox,9.0,0.0,9.0,True
+2006-08-28,1.75,2.13,Pittsburgh Pirates,Chicago Cubs,11.0,6.0,5.0,True
+2006-08-28,1.93,1.89,Seattle Mariners,Los Angeles Angels,2.0,0.0,2.0,True
+2006-08-28,1.65,2.29,New York Mets,Philadelphia Phillies,8.0,3.0,5.0,True
+2006-08-27,2.0,1.83,Arizona Diamondbacks,Los Angeles Dodgers,3.0,6.0,-3.0,False
+2006-08-27,1.77,2.1,San Francisco Giants,Cincinnati Reds,8.0,0.0,8.0,True
+2006-08-27,1.91,1.91,Seattle Mariners,Boston Red Sox,6.0,3.0,3.0,True
+2006-08-27,1.87,1.95,Los Angeles Angels,New York Yankees,8.0,11.0,-3.0,False
+2006-08-27,2.0,1.83,Colorado Rockies,San Diego Padres,6.0,3.0,3.0,True
+2006-08-27,1.6,2.4,St.Louis Cardinals,Chicago Cubs,10.0,6.0,4.0,True
+2006-08-27,1.7,2.2,Chicago White Sox,Minnesota Twins,6.0,1.0,5.0,True
+2006-08-27,1.57,2.45,Baltimore Orioles,Tampa Bay Rays,5.0,4.0,1.0,True
+2006-08-27,1.91,1.91,Pittsburgh Pirates,Houston Astros,1.0,13.0,-12.0,False
+2006-08-27,1.55,2.5,Atlanta Braves,Washington Nationals,13.0,6.0,7.0,True
+2006-08-27,1.97,1.82,Cleveland Indians,Detroit Tigers,1.0,7.0,-6.0,False
+2006-08-27,1.87,1.95,Miami Marlins,Milwaukee Brewers,4.0,3.0,1.0,True
+2006-08-27,1.55,2.5,Toronto Blue Jays,Kansas City Royals,10.0,6.0,4.0,True
+2006-08-26,2.0,1.83,Arizona Diamondbacks,Los Angeles Dodgers,3.0,4.0,-1.0,False
+2006-08-26,2.2,1.7,Chicago White Sox,Minnesota Twins,7.0,8.0,-1.0,False
+2006-08-26,2.1,1.77,Cleveland Indians,Detroit Tigers,8.0,5.0,3.0,True
+2006-08-26,1.7,2.2,Colorado Rockies,San Diego Padres,2.0,5.0,-3.0,False
+2006-08-26,1.73,2.15,Texas Rangers,Oakland Athletics,3.0,5.0,-2.0,False
+2006-08-26,1.83,2.0,San Francisco Giants,Cincinnati Reds,4.0,1.0,3.0,True
+2006-08-26,1.29,3.7,Toronto Blue Jays,Kansas City Royals,0.0,2.0,-2.0,False
+2006-08-26,1.38,3.1,Atlanta Braves,Washington Nationals,10.0,1.0,9.0,True
+2006-08-25,1.95,1.87,Arizona Diamondbacks,Los Angeles Dodgers,9.0,7.0,2.0,True
+2006-08-25,1.57,2.45,Atlanta Braves,Washington Nationals,6.0,7.0,-1.0,False
+2006-08-25,1.57,2.45,Baltimore Orioles,Tampa Bay Rays,4.0,0.0,4.0,True
+2006-08-25,1.83,2.0,Chicago White Sox,Minnesota Twins,4.0,5.0,-1.0,False
+2006-08-25,2.04,1.8,Cleveland Indians,Detroit Tigers,4.0,2.0,2.0,True
+2006-08-25,1.61,2.35,Colorado Rockies,San Diego Padres,13.0,5.0,8.0,True
+2006-08-25,1.83,2.0,Los Angeles Angels,New York Yankees,6.0,5.0,1.0,True
+2006-08-25,1.8,2.04,Miami Marlins,Milwaukee Brewers,6.0,5.0,1.0,True
+2006-08-25,2.35,1.61,Pittsburgh Pirates,Houston Astros,1.0,5.0,-4.0,False
+2006-08-25,1.91,1.91,San Francisco Giants,Cincinnati Reds,4.0,1.0,3.0,True
+2006-08-25,2.4,1.59,Seattle Mariners,Boston Red Sox,6.0,0.0,6.0,True
+2006-08-25,1.61,2.35,St.Louis Cardinals,Chicago Cubs,2.0,0.0,2.0,True
+2006-08-25,1.95,1.87,Texas Rangers,Oakland Athletics,3.0,9.0,-6.0,False
+2006-08-25,1.66,2.25,Toronto Blue Jays,Kansas City Royals,6.0,3.0,3.0,True
+2006-08-24,1.7,2.2,Los Angeles Angels,Boston Red Sox,1.0,2.0,-1.0,False
+2006-08-24,1.8,2.04,Pittsburgh Pirates,Houston Astros,5.0,3.0,2.0,True
+2006-08-24,1.87,1.95,San Francisco Giants,Cincinnati Reds,3.0,6.0,-3.0,False
+2006-08-24,1.91,1.91,Chicago Cubs,Philadelphia Phillies,11.0,2.0,9.0,True
+2006-08-24,1.73,2.15,Milwaukee Brewers,Colorado Rockies,12.0,6.0,6.0,True
+2006-08-23,1.87,1.95,Baltimore Orioles,Minnesota Twins,1.0,4.0,-3.0,False
+2006-08-23,1.91,1.91,Detroit Tigers,Chicago White Sox,5.0,7.0,-2.0,False
+2006-08-23,2.29,1.65,Kansas City Royals,Cleveland Indians,13.0,15.0,-2.0,False
+2006-08-23,1.67,2.25,Los Angeles Angels,Boston Red Sox,4.0,5.0,-1.0,False
+2006-08-23,1.7,2.2,Miami Marlins,Washington Nationals,9.0,7.0,2.0,True
+2006-08-23,1.95,1.87,San Diego Padres,Los Angeles Dodgers,7.0,2.0,5.0,True
+2006-08-23,1.91,1.91,Toronto Blue Jays,Oakland Athletics,0.0,6.0,-6.0,False
+2006-08-22,1.61,2.35,Atlanta Braves,Pittsburgh Pirates,3.0,5.0,-2.0,False
+2006-08-22,1.55,2.5,Miami Marlins,Washington Nationals,7.0,5.0,2.0,True
+2006-08-22,1.67,2.25,San Diego Padres,Los Angeles Dodgers,1.0,0.0,1.0,True
+2006-08-22,1.61,2.35,Toronto Blue Jays,Oakland Athletics,4.0,3.0,1.0,True
+2006-08-22,1.91,1.91,Baltimore Orioles,Minnesota Twins,6.0,3.0,3.0,True
+2006-08-22,1.73,2.15,Cincinnati Reds,Houston Astros,14.0,0.0,14.0,True
+2006-08-22,2.29,1.65,Kansas City Royals,Cleveland Indians,5.0,2.0,3.0,True
+2006-08-22,1.67,2.25,Los Angeles Angels,Boston Red Sox,4.0,3.0,1.0,True
+2006-08-21,1.45,2.8,Atlanta Braves,Pittsburgh Pirates,3.0,0.0,3.0,True
+2006-08-21,2.07,1.78,Chicago Cubs,Philadelphia Phillies,5.0,6.0,-1.0,False
+2006-08-21,1.8,2.05,Cincinnati Reds,Houston Astros,4.0,3.0,1.0,True
+2006-08-21,1.83,2.0,Detroit Tigers,Chicago White Sox,7.0,1.0,6.0,True
+2006-08-21,1.71,2.2,Miami Marlins,Washington Nationals,3.0,1.0,2.0,True
+2006-08-21,2.0,1.83,San Diego Padres,Los Angeles Dodgers,4.0,2.0,2.0,True
+2006-08-21,1.85,1.98,San Francisco Giants,Arizona Diamondbacks,5.0,0.0,5.0,True
+2006-08-21,2.15,1.73,Tampa Bay Rays,Texas Rangers,4.0,3.0,1.0,True
+2006-08-21,2.0,1.83,Toronto Blue Jays,Oakland Athletics,10.0,12.0,-2.0,False
+2006-08-20,1.91,1.91,Boston Red Sox,New York Yankees,5.0,8.0,-3.0,False
+2006-08-20,1.77,2.1,San Diego Padres,Arizona Diamondbacks,2.0,1.0,1.0,True
+2006-08-20,1.91,1.91,San Francisco Giants,Los Angeles Dodgers,2.0,5.0,-3.0,False
+2006-08-20,1.55,2.5,Los Angeles Angels,Seattle Mariners,3.0,2.0,1.0,True
+2006-08-20,2.29,1.65,Chicago Cubs,St.Louis Cardinals,3.0,5.0,-2.0,False
+2006-08-20,2.15,1.73,Kansas City Royals,Oakland Athletics,4.0,6.0,-2.0,False
+2006-08-20,1.57,2.45,Minnesota Twins,Chicago White Sox,7.0,3.0,4.0,True
+2006-08-20,2.2,1.7,Milwaukee Brewers,Houston Astros,1.0,3.0,-2.0,False
+2006-08-20,1.95,1.87,Baltimore Orioles,Toronto Blue Jays,2.0,9.0,-7.0,False
+2006-08-20,1.65,2.29,Philadelphia Phillies,Washington Nationals,12.0,10.0,2.0,True
+2006-08-20,1.59,2.4,Cincinnati Reds,Pittsburgh Pirates,5.0,1.0,4.0,True
+2006-08-20,2.04,1.8,Tampa Bay Rays,Cleveland Indians,4.0,9.0,-5.0,False
+2006-08-20,1.87,1.95,New York Mets,Colorado Rockies,2.0,0.0,2.0,True
+2006-08-20,1.57,2.45,Detroit Tigers,Texas Rangers,6.0,7.0,-1.0,False
+2006-08-20,1.67,2.25,Miami Marlins,Atlanta Braves,4.0,3.0,1.0,True
+2006-08-19,1.67,2.25,Cincinnati Reds,Pittsburgh Pirates,14.0,7.0,7.0,True
+2006-08-19,2.45,1.57,Kansas City Royals,Oakland Athletics,2.0,7.0,-5.0,False
+2006-08-19,1.48,2.7,Los Angeles Angels,Seattle Mariners,9.0,7.0,2.0,True
+2006-08-19,1.91,1.91,Miami Marlins,Atlanta Braves,3.0,5.0,-2.0,False
+2006-08-19,2.04,1.8,Milwaukee Brewers,Houston Astros,6.0,4.0,2.0,True
+2006-08-19,1.91,1.91,Minnesota Twins,Chicago White Sox,1.0,4.0,-3.0,False
+2006-08-19,1.91,1.91,New York Mets,Colorado Rockies,7.0,4.0,3.0,True
+2006-08-19,1.5,2.65,Philadelphia Phillies,Washington Nationals,11.0,2.0,9.0,True
+2006-08-19,1.91,1.91,San Francisco Giants,Los Angeles Dodgers,7.0,14.0,-7.0,False
+2006-08-19,2.04,1.8,Tampa Bay Rays,Cleveland Indians,3.0,5.0,-2.0,False
+2006-08-19,1.91,1.91,Baltimore Orioles,Toronto Blue Jays,15.0,0.0,15.0,True
+2006-08-19,1.91,1.91,Boston Red Sox,New York Yankees,5.0,13.0,-8.0,False
+2006-08-19,1.7,2.2,Chicago Cubs,St.Louis Cardinals,5.0,4.0,1.0,True
+2006-08-18,1.73,2.15,Cincinnati Reds,Pittsburgh Pirates,3.0,7.0,-4.0,False
+2006-08-18,1.63,2.29,Los Angeles Angels,Seattle Mariners,3.0,0.0,3.0,True
+2006-08-18,1.91,1.91,Miami Marlins,Atlanta Braves,1.0,6.0,-5.0,False
+2006-08-18,1.91,1.91,Milwaukee Brewers,Houston Astros,3.0,2.0,1.0,True
+2006-08-18,2.04,1.8,Minnesota Twins,Chicago White Sox,7.0,3.0,4.0,True
+2006-08-18,1.68,2.22,New York Mets,Colorado Rockies,6.0,3.0,3.0,True
+2006-08-18,1.57,2.45,Philadelphia Phillies,Washington Nationals,4.0,6.0,-2.0,False
+2006-08-18,1.77,2.1,San Diego Padres,Arizona Diamondbacks,8.0,2.0,6.0,True
+2006-08-18,1.83,2.0,San Francisco Giants,Los Angeles Dodgers,7.0,3.0,4.0,True
+2006-08-18,1.91,1.91,Detroit Tigers,Texas Rangers,1.0,2.0,-1.0,False
+2006-08-18,2.4,1.59,Tampa Bay Rays,Cleveland Indians,6.0,5.0,1.0,True
+2006-08-18,1.87,1.95,Chicago Cubs,St.Louis Cardinals,3.0,11.0,-8.0,False
+2006-08-17,1.75,2.13,Detroit Tigers,Texas Rangers,4.0,2.0,2.0,True
+2006-08-17,1.53,2.54,Los Angeles Angels,Seattle Mariners,5.0,2.0,3.0,True
+2006-08-17,1.65,2.29,Milwaukee Brewers,Houston Astros,3.0,7.0,-4.0,False
+2006-08-17,1.91,1.91,Tampa Bay Rays,Toronto Blue Jays,2.0,6.0,-4.0,False
+2006-08-17,1.77,2.1,San Diego Padres,San Francisco Giants,4.0,8.0,-4.0,False
+2006-08-17,2.2,1.7,Colorado Rockies,Arizona Diamondbacks,8.0,4.0,4.0,True
+2006-08-17,1.77,2.1,St.Louis Cardinals,Cincinnati Reds,2.0,1.0,1.0,True
+2006-08-17,1.3,3.5,Chicago White Sox,Kansas City Royals,5.0,4.0,1.0,True
+2006-08-17,1.43,2.9,New York Yankees,Baltimore Orioles,2.0,12.0,-10.0,False
+2006-08-17,2.04,1.8,Philadelphia Phillies,New York Mets,2.0,7.0,-5.0,False
+2006-08-17,2.0,1.83,Washington Nationals,Atlanta Braves,0.0,5.0,-5.0,False
+2006-08-16,1.91,1.91,Boston Red Sox,Detroit Tigers,6.0,4.0,2.0,True
+2006-08-16,1.33,3.4,Chicago White Sox,Kansas City Royals,4.0,10.0,-6.0,False
+2006-08-16,1.8,2.04,Colorado Rockies,Arizona Diamondbacks,5.0,9.0,-4.0,False
+2006-08-16,1.87,1.95,Minnesota Twins,Cleveland Indians,7.0,2.0,5.0,True
+2006-08-16,1.45,2.8,New York Yankees,Baltimore Orioles,2.0,3.0,-1.0,False
+2006-08-16,1.55,2.5,Oakland Athletics,Seattle Mariners,4.0,0.0,4.0,True
+2006-08-16,1.91,1.91,Philadelphia Phillies,New York Mets,3.0,0.0,3.0,True
+2006-08-16,1.95,1.87,San Diego Padres,San Francisco Giants,5.0,7.0,-2.0,False
+2006-08-16,1.73,2.15,St.Louis Cardinals,Cincinnati Reds,2.0,7.0,-5.0,False
+2006-08-16,2.29,1.65,Tampa Bay Rays,Toronto Blue Jays,8.0,3.0,5.0,True
+2006-08-16,1.87,1.95,Texas Rangers,Los Angeles Angels,9.0,3.0,6.0,True
+2006-08-16,2.29,1.65,Washington Nationals,Atlanta Braves,9.0,6.0,3.0,True
+2006-08-16,1.91,1.91,Los Angeles Dodgers,Miami Marlins,4.0,15.0,-11.0,False
+2006-08-16,1.91,1.91,Pittsburgh Pirates,Milwaukee Brewers,2.0,5.0,-3.0,False
+2006-08-15,1.7,2.2,Boston Red Sox,Detroit Tigers,2.0,3.0,-1.0,False
+2006-08-15,1.38,3.1,Chicago White Sox,Kansas City Royals,2.0,4.0,-2.0,False
+2006-08-15,1.67,2.25,Colorado Rockies,Arizona Diamondbacks,1.0,2.0,-1.0,False
+2006-08-15,1.4,3.0,Houston Astros,Chicago Cubs,6.0,8.0,-2.0,False
+2006-08-15,1.5,2.65,Minnesota Twins,Cleveland Indians,4.0,1.0,3.0,True
+2006-08-15,1.67,2.25,Oakland Athletics,Seattle Mariners,11.0,2.0,9.0,True
+2006-08-15,2.1,1.77,Philadelphia Phillies,New York Mets,11.0,4.0,7.0,True
+2006-08-15,1.91,1.91,Pittsburgh Pirates,Milwaukee Brewers,3.0,6.0,-3.0,False
+2006-08-15,1.77,2.1,San Diego Padres,San Francisco Giants,2.0,3.0,-1.0,False
+2006-08-15,1.61,2.35,St.Louis Cardinals,Cincinnati Reds,5.0,0.0,5.0,True
+2006-08-15,2.8,1.45,Tampa Bay Rays,Toronto Blue Jays,3.0,4.0,-1.0,False
+2006-08-15,1.7,2.2,Texas Rangers,Los Angeles Angels,7.0,9.0,-2.0,False
+2006-08-15,1.91,1.91,Washington Nationals,Atlanta Braves,5.0,0.0,5.0,True
+2006-08-14,1.65,2.29,Boston Red Sox,Detroit Tigers,4.0,7.0,-3.0,False
+2006-08-14,1.4,3.0,Chicago White Sox,Kansas City Royals,12.0,2.0,10.0,True
+2006-08-14,1.64,2.32,Colorado Rockies,Arizona Diamondbacks,4.0,3.0,1.0,True
+2006-08-14,1.73,2.15,Houston Astros,Chicago Cubs,0.0,3.0,-3.0,False
+2006-08-14,1.61,2.35,Oakland Athletics,Seattle Mariners,5.0,4.0,1.0,True
+2006-08-14,2.25,1.67,Philadelphia Phillies,New York Mets,13.0,0.0,13.0,True
+2006-08-14,2.15,1.73,Pittsburgh Pirates,Milwaukee Brewers,4.0,2.0,2.0,True
+2006-08-14,1.73,2.15,San Diego Padres,San Francisco Giants,0.0,1.0,-1.0,False
+2006-08-14,1.98,1.85,Washington Nationals,Atlanta Braves,4.0,10.0,-6.0,False
+2006-08-14,1.66,2.27,Los Angeles Dodgers,Miami Marlins,4.0,2.0,2.0,True
+2006-08-14,1.61,2.35,New York Yankees,Los Angeles Angels,7.0,2.0,5.0,True
+2006-08-13,1.77,2.1,Texas Rangers,Seattle Mariners,10.0,6.0,4.0,True
+2006-08-13,1.83,2.0,Arizona Diamondbacks,Miami Marlins,5.0,6.0,-1.0,False
+2006-08-13,1.61,2.35,Oakland Athletics,Tampa Bay Rays,3.0,1.0,2.0,True
+2006-08-13,1.7,2.2,Colorado Rockies,Chicago Cubs,7.0,8.0,-1.0,False
+2006-08-13,1.7,2.2,Minnesota Twins,Toronto Blue Jays,5.0,0.0,5.0,True
+2006-08-13,1.77,2.1,Houston Astros,San Diego Padres,2.0,7.0,-5.0,False
+2006-08-13,1.65,2.29,Philadelphia Phillies,Cincinnati Reds,5.0,7.0,-2.0,False
+2006-08-13,1.5,2.65,Cleveland Indians,Kansas City Royals,13.0,0.0,13.0,True
+2006-08-12,1.65,2.29,Arizona Diamondbacks,Miami Marlins,6.0,3.0,3.0,True
+2006-08-12,2.1,1.77,Atlanta Braves,Milwaukee Brewers,5.0,8.0,-3.0,False
+2006-08-12,1.7,2.2,Colorado Rockies,Chicago Cubs,8.0,4.0,4.0,True
+2006-08-12,2.02,1.82,Houston Astros,San Diego Padres,3.0,6.0,-3.0,False
+2006-08-12,1.91,1.91,Minnesota Twins,Toronto Blue Jays,0.0,4.0,-4.0,False
+2006-08-12,1.59,2.4,Oakland Athletics,Tampa Bay Rays,6.0,3.0,3.0,True
+2006-08-12,1.95,1.87,Pittsburgh Pirates,St.Louis Cardinals,3.0,2.0,1.0,True
+2006-08-12,1.77,2.1,Texas Rangers,Seattle Mariners,5.0,4.0,1.0,True
+2006-08-12,2.29,1.65,Washington Nationals,New York Mets,4.0,6.0,-2.0,False
+2006-08-12,1.65,2.29,Los Angeles Dodgers,San Francisco Giants,6.0,5.0,1.0,True
+2006-08-12,1.87,1.95,Chicago White Sox,Detroit Tigers,4.0,3.0,1.0,True
+2006-08-12,1.55,2.5,Cleveland Indians,Kansas City Royals,5.0,4.0,1.0,True
+2006-08-11,1.91,1.91,Arizona Diamondbacks,Miami Marlins,1.0,4.0,-3.0,False
+2006-08-11,1.61,2.35,Atlanta Braves,Milwaukee Brewers,2.0,1.0,1.0,True
+2006-08-11,1.58,2.4,Boston Red Sox,Baltimore Orioles,9.0,2.0,7.0,True
+2006-08-11,1.75,2.1,Chicago White Sox,Detroit Tigers,5.0,0.0,5.0,True
+2006-08-11,1.61,2.35,Colorado Rockies,Chicago Cubs,10.0,2.0,8.0,True
+2006-08-11,1.63,2.29,Houston Astros,San Diego Padres,4.0,2.0,2.0,True
+2006-08-11,1.63,2.29,Los Angeles Dodgers,San Francisco Giants,3.0,2.0,1.0,True
+2006-08-11,1.91,1.91,Minnesota Twins,Toronto Blue Jays,1.0,7.0,-6.0,False
+2006-08-11,1.65,2.29,New York Yankees,Los Angeles Angels,4.0,7.0,-3.0,False
+2006-08-11,1.63,2.29,Oakland Athletics,Tampa Bay Rays,5.0,2.0,3.0,True
+2006-08-11,1.63,2.29,Philadelphia Phillies,Cincinnati Reds,6.0,5.0,1.0,True
+2006-08-11,2.2,1.69,Pittsburgh Pirates,St.Louis Cardinals,7.0,1.0,6.0,True
+2006-08-11,2.29,1.63,Washington Nationals,New York Mets,2.0,1.0,1.0,True
+2006-08-10,2.15,1.73,Chicago White Sox,New York Yankees,5.0,4.0,1.0,True
+2006-08-10,1.91,1.91,Cleveland Indians,Los Angeles Angels,14.0,2.0,12.0,True
+2006-08-10,1.45,2.8,Houston Astros,Pittsburgh Pirates,5.0,2.0,3.0,True
+2006-08-10,3.25,1.35,Kansas City Royals,Boston Red Sox,5.0,4.0,1.0,True
+2006-08-10,1.8,2.04,Los Angeles Dodgers,Colorado Rockies,4.0,3.0,1.0,True
+2006-08-10,1.83,2.0,Minnesota Twins,Toronto Blue Jays,0.0,5.0,-5.0,False
+2006-08-10,1.61,2.35,Texas Rangers,Seattle Mariners,8.0,2.0,6.0,True
+2006-08-10,1.95,1.87,Washington Nationals,Miami Marlins,6.0,9.0,-3.0,False
+2006-08-10,1.73,2.15,Milwaukee Brewers,Chicago Cubs,8.0,6.0,2.0,True
+2006-08-10,1.8,2.04,Cincinnati Reds,St.Louis Cardinals,1.0,6.0,-5.0,False
+2006-08-09,1.83,2.0,Arizona Diamondbacks,San Francisco Giants,5.0,3.0,2.0,True
+2006-08-09,2.04,1.8,Cincinnati Reds,St.Louis Cardinals,8.0,7.0,1.0,True
+2006-08-09,2.04,1.8,Cleveland Indians,Los Angeles Angels,4.0,0.0,4.0,True
+2006-08-09,1.45,2.8,Houston Astros,Pittsburgh Pirates,14.0,1.0,13.0,True
+2006-08-09,1.45,2.8,New York Mets,San Diego Padres,4.0,3.0,1.0,True
+2006-08-09,2.04,1.8,Washington Nationals,Miami Marlins,5.0,2.0,3.0,True
+2006-08-09,1.57,2.45,Seattle Mariners,Tampa Bay Rays,2.0,0.0,2.0,True
+2006-08-09,1.77,2.1,Oakland Athletics,Texas Rangers,0.0,14.0,-14.0,False
+2006-08-09,1.87,1.95,Atlanta Braves,Philadelphia Phillies,3.0,9.0,-6.0,False
+2006-08-08,1.73,2.15,Arizona Diamondbacks,San Francisco Giants,5.0,1.0,4.0,True
+2006-08-08,1.91,1.91,Atlanta Braves,Philadelphia Phillies,3.0,1.0,2.0,True
+2006-08-08,2.0,0.0,Cleveland Indians,Los Angeles Angels,4.0,5.0,-1.0,False
+2006-08-08,1.67,2.25,Los Angeles Dodgers,Colorado Rockies,4.0,2.0,2.0,True
+2006-08-08,1.7,2.2,Milwaukee Brewers,Chicago Cubs,3.0,6.0,-3.0,False
+2006-08-08,1.65,2.29,New York Mets,San Diego Padres,3.0,2.0,1.0,True
+2006-08-08,1.51,2.6,Seattle Mariners,Tampa Bay Rays,5.0,1.0,4.0,True
+2006-08-08,1.91,1.91,Washington Nationals,Miami Marlins,2.0,4.0,-2.0,False
+2006-08-07,2.15,1.73,Arizona Diamondbacks,San Francisco Giants,4.0,8.0,-4.0,False
+2006-08-07,2.04,1.8,Atlanta Braves,Philadelphia Phillies,6.0,9.0,-3.0,False
+2006-08-07,1.8,2.04,Chicago White Sox,Los Angeles Angels,3.0,6.0,-3.0,False
+2006-08-07,1.85,1.98,Cincinnati Reds,St.Louis Cardinals,1.0,13.0,-12.0,False
+2006-08-07,2.17,1.72,Detroit Tigers,Minnesota Twins,9.0,3.0,6.0,True
+2006-08-07,1.61,2.35,Los Angeles Dodgers,Colorado Rockies,7.0,2.0,5.0,True
+2006-08-07,1.83,2.0,Oakland Athletics,Texas Rangers,7.0,4.0,3.0,True
+2006-08-07,1.61,2.35,Seattle Mariners,Tampa Bay Rays,5.0,4.0,1.0,True
+2006-08-07,1.5,2.65,Toronto Blue Jays,Baltimore Orioles,8.0,1.0,7.0,True
+2006-08-06,1.65,2.29,New York Mets,Philadelphia Phillies,8.0,1.0,7.0,True
+2006-08-06,2.0,1.83,Arizona Diamondbacks,Houston Astros,4.0,3.0,1.0,True
+2006-08-06,1.57,2.45,San Diego Padres,Washington Nationals,3.0,2.0,1.0,True
+2006-08-06,1.8,2.04,San Francisco Giants,Colorado Rockies,6.0,2.0,4.0,True
+2006-08-06,1.83,2.0,Seattle Mariners,Oakland Athletics,6.0,7.0,-1.0,False
+2006-08-06,1.8,2.04,Los Angeles Angels,Texas Rangers,9.0,1.0,8.0,True
+2006-08-06,1.91,1.91,Chicago Cubs,Pittsburgh Pirates,6.0,1.0,5.0,True
+2006-08-06,1.8,2.04,St.Louis Cardinals,Milwaukee Brewers,7.0,1.0,6.0,True
+2006-08-06,2.15,1.73,Kansas City Royals,Minnesota Twins,5.0,11.0,-6.0,False
+2006-08-06,2.29,1.65,Baltimore Orioles,New York Yankees,1.0,6.0,-5.0,False
+2006-08-06,2.31,1.63,Cincinnati Reds,Atlanta Braves,4.0,6.0,-2.0,False
+2006-08-06,2.2,1.7,Tampa Bay Rays,Boston Red Sox,7.0,6.0,1.0,True
+2006-08-06,2.04,1.8,Detroit Tigers,Cleveland Indians,1.0,0.0,1.0,True
+2006-08-06,1.77,2.1,Miami Marlins,Los Angeles Dodgers,3.0,7.0,-4.0,False
+2006-08-06,2.0,1.83,Toronto Blue Jays,Chicago White Sox,7.0,3.0,4.0,True
+2006-08-05,1.7,2.2,Detroit Tigers,Cleveland Indians,4.0,3.0,1.0,True
+2006-08-05,2.25,1.67,Kansas City Royals,Minnesota Twins,3.0,14.0,-11.0,False
+2006-08-05,1.67,2.25,Miami Marlins,Los Angeles Dodgers,2.0,10.0,-8.0,False
+2006-08-05,1.63,2.29,San Diego Padres,Washington Nationals,6.0,3.0,3.0,True
+2006-08-05,1.95,1.87,San Francisco Giants,Colorado Rockies,1.0,2.0,-1.0,False
+2006-08-05,1.95,1.87,St.Louis Cardinals,Milwaukee Brewers,4.0,3.0,1.0,True
+2006-08-05,2.15,1.73,Tampa Bay Rays,Boston Red Sox,8.0,5.0,3.0,True
+2006-08-05,2.8,1.45,Baltimore Orioles,New York Yankees,5.0,0.0,5.0,True
+2006-08-05,1.77,2.1,Chicago Cubs,Pittsburgh Pirates,7.0,5.0,2.0,True
+2006-08-05,2.1,1.77,Seattle Mariners,Oakland Athletics,2.0,5.0,-3.0,False
+2006-08-05,2.1,1.77,Toronto Blue Jays,Chicago White Sox,1.0,7.0,-6.0,False
+2006-08-05,1.55,2.5,Cincinnati Reds,Atlanta Braves,8.0,6.0,2.0,True
+2006-08-04,1.55,2.5,San Diego Padres,Washington Nationals,2.0,6.0,-4.0,False
+2006-08-04,1.91,1.91,San Francisco Giants,Colorado Rockies,2.0,5.0,-3.0,False
+2006-08-04,2.04,1.8,Arizona Diamondbacks,Houston Astros,7.0,8.0,-1.0,False
+2006-08-04,2.7,1.48,Baltimore Orioles,New York Yankees,4.0,5.0,-1.0,False
+2006-08-04,1.59,2.4,Cincinnati Reds,Atlanta Braves,5.0,4.0,1.0,True
+2006-08-04,2.95,1.42,Kansas City Royals,Minnesota Twins,5.0,8.0,-3.0,False
+2006-08-04,1.64,2.29,Los Angeles Angels,Texas Rangers,3.0,7.0,-4.0,False
+2006-08-04,1.87,1.95,Miami Marlins,Los Angeles Dodgers,2.0,6.0,-4.0,False
+2006-08-04,1.64,2.29,New York Mets,Philadelphia Phillies,3.0,5.0,-2.0,False
+2006-08-04,1.95,1.87,Seattle Mariners,Oakland Athletics,2.0,5.0,-3.0,False
+2006-08-04,2.95,1.42,Tampa Bay Rays,Boston Red Sox,2.0,3.0,-1.0,False
+2006-08-03,2.04,1.8,Chicago Cubs,Arizona Diamondbacks,7.0,3.0,4.0,True
+2006-08-03,2.35,1.61,Kansas City Royals,Minnesota Twins,2.0,8.0,-6.0,False
+2006-08-03,2.65,1.5,Tampa Bay Rays,Detroit Tigers,2.0,1.0,1.0,True
+2006-08-02,1.7,2.2,Boston Red Sox,Cleveland Indians,6.0,5.0,1.0,True
+2006-08-02,1.87,1.95,Cincinnati Reds,Los Angeles Dodgers,3.0,5.0,-2.0,False
+2006-08-02,1.87,1.95,Colorado Rockies,Milwaukee Brewers,8.0,2.0,6.0,True
+2006-08-02,2.35,1.62,Kansas City Royals,Chicago White Sox,7.0,3.0,4.0,True
+2006-08-02,1.83,2.0,Miami Marlins,New York Mets,5.0,6.0,-1.0,False
+2006-08-02,1.55,2.5,New York Yankees,Toronto Blue Jays,7.0,2.0,5.0,True
+2006-08-02,2.04,1.8,Pittsburgh Pirates,Atlanta Braves,2.0,3.0,-1.0,False
+2006-08-02,1.73,2.15,San Diego Padres,Houston Astros,1.0,7.0,-6.0,False
+2006-08-02,1.95,1.87,St.Louis Cardinals,Philadelphia Phillies,8.0,16.0,-8.0,False
+2006-08-02,2.54,1.53,Tampa Bay Rays,Detroit Tigers,3.0,8.0,-5.0,False
+2006-08-02,1.65,2.29,Los Angeles Angels,Oakland Athletics,2.0,3.0,-1.0,False
+2006-08-02,1.59,2.4,San Francisco Giants,Washington Nationals,8.0,6.0,2.0,True
+2006-08-02,1.73,2.15,Baltimore Orioles,Seattle Mariners,1.0,2.0,-1.0,False
+2006-07-31,1.95,1.87,Baltimore Orioles,Seattle Mariners,5.0,10.0,-5.0,False
+2006-07-31,1.7,2.2,Boston Red Sox,Cleveland Indians,9.0,8.0,1.0,True
+2006-07-31,2.04,1.8,Chicago Cubs,Arizona Diamondbacks,4.0,15.0,-11.0,False
+2006-07-31,1.85,1.85,Colorado Rockies,Milwaukee Brewers,4.0,2.0,2.0,True
+2006-07-31,2.75,1.46,Kansas City Royals,Chicago White Sox,4.0,8.0,-4.0,False
+2006-07-31,1.73,2.15,Los Angeles Angels,Oakland Athletics,1.0,3.0,-2.0,False
+2006-07-31,1.65,2.29,San Francisco Giants,Washington Nationals,7.0,10.0,-3.0,False
+2006-07-31,2.42,1.58,Tampa Bay Rays,Detroit Tigers,7.0,3.0,4.0,True
+2006-07-30,1.65,2.29,Boston Red Sox,Los Angeles Angels,4.0,10.0,-6.0,False
+2006-07-30,1.73,2.15,Los Angeles Dodgers,Washington Nationals,4.0,3.0,1.0,True
+2006-07-30,2.5,1.55,Oakland Athletics,Toronto Blue Jays,6.0,5.0,1.0,True
+2006-07-30,2.12,1.75,Chicago Cubs,St.Louis Cardinals,6.0,3.0,3.0,True
+2006-07-30,1.65,2.27,Minnesota Twins,Detroit Tigers,6.0,4.0,2.0,True
+2006-07-30,1.61,2.35,Houston Astros,Arizona Diamondbacks,6.0,7.0,-1.0,False
+2006-07-30,1.87,1.95,Milwaukee Brewers,Cincinnati Reds,4.0,3.0,1.0,True
+2006-07-30,2.35,1.61,Baltimore Orioles,Chicago White Sox,8.0,7.0,1.0,True
+2006-07-30,1.95,1.87,Pittsburgh Pirates,San Francisco Giants,2.0,1.0,1.0,True
+2006-07-30,2.04,1.8,Atlanta Braves,New York Mets,6.0,10.0,-4.0,False
+2006-07-30,1.65,2.29,Cleveland Indians,Seattle Mariners,3.0,7.0,-4.0,False
+2006-07-30,1.32,3.5,New York Yankees,Tampa Bay Rays,4.0,2.0,2.0,True
+2006-07-29,1.87,1.95,Colorado Rockies,San Diego Padres,2.0,4.0,-2.0,False
+2006-07-29,1.59,2.4,Houston Astros,Arizona Diamondbacks,4.0,1.0,3.0,True
+2006-07-29,1.73,2.15,Milwaukee Brewers,Cincinnati Reds,6.0,3.0,3.0,True
+2006-07-29,1.95,1.87,Philadelphia Phillies,Miami Marlins,12.0,3.0,9.0,True
+2006-07-29,2.1,1.75,Pittsburgh Pirates,San Francisco Giants,4.0,3.0,1.0,True
+2006-07-29,1.73,2.15,Cleveland Indians,Seattle Mariners,1.0,3.0,-2.0,False
+2006-07-29,1.91,1.91,Minnesota Twins,Detroit Tigers,6.0,8.0,-2.0,False
+2006-07-29,1.4,3.0,Texas Rangers,Kansas City Royals,3.0,5.0,-2.0,False
+2006-07-29,1.73,2.15,Los Angeles Dodgers,Washington Nationals,7.0,5.0,2.0,True
+2006-07-29,1.33,3.45,New York Yankees,Tampa Bay Rays,6.0,19.0,-13.0,False
+2006-07-29,1.65,2.27,Oakland Athletics,Toronto Blue Jays,7.0,4.0,3.0,True
+2006-07-29,1.87,1.95,Atlanta Braves,New York Mets,3.0,11.0,-8.0,False
+2006-07-29,1.75,2.12,Boston Red Sox,Los Angeles Angels,7.0,6.0,1.0,True
+2006-07-28,2.25,1.67,Atlanta Braves,New York Mets,4.0,6.0,-2.0,False
+2006-07-28,1.9,1.92,Baltimore Orioles,Chicago White Sox,4.0,6.0,-2.0,False
+2006-07-28,1.73,2.15,Boston Red Sox,Los Angeles Angels,3.0,8.0,-5.0,False
+2006-07-28,1.8,2.04,Cleveland Indians,Seattle Mariners,1.0,0.0,1.0,True
+2006-07-28,1.95,1.87,Colorado Rockies,San Diego Padres,3.0,1.0,2.0,True
+2006-07-28,1.83,2.0,Houston Astros,Arizona Diamondbacks,7.0,8.0,-1.0,False
+2006-07-28,1.88,1.95,Los Angeles Dodgers,Washington Nationals,13.0,1.0,12.0,True
+2006-07-28,1.83,2.0,Milwaukee Brewers,Cincinnati Reds,3.0,4.0,-1.0,False
+2006-07-28,1.6,2.4,Minnesota Twins,Detroit Tigers,2.0,3.0,-1.0,False
+2006-07-28,1.41,3.0,New York Yankees,Tampa Bay Rays,6.0,0.0,6.0,True
+2006-07-28,1.95,1.87,Oakland Athletics,Toronto Blue Jays,3.0,4.0,-1.0,False
+2006-07-28,1.65,2.27,Philadelphia Phillies,Miami Marlins,1.0,4.0,-3.0,False
+2006-07-28,2.27,1.65,Pittsburgh Pirates,San Francisco Giants,3.0,0.0,3.0,True
+2006-07-28,1.45,2.8,Texas Rangers,Kansas City Royals,3.0,11.0,-8.0,False
+2006-07-28,2.15,1.72,Chicago Cubs,St.Louis Cardinals,6.0,5.0,1.0,True
+2006-07-27,2.25,1.67,Chicago Cubs,St.Louis Cardinals,5.0,4.0,1.0,True
+2006-07-27,1.87,1.95,Colorado Rockies,San Diego Padres,9.0,8.0,1.0,True
+2006-07-27,1.87,1.95,Houston Astros,Cincinnati Reds,4.0,8.0,-4.0,False
+2006-07-27,1.9,1.9,Kansas City Royals,Baltimore Orioles,4.0,6.0,-2.0,False
+2006-07-27,1.87,1.95,Oakland Athletics,Toronto Blue Jays,5.0,2.0,3.0,True
+2006-07-26,1.64,2.29,Atlanta Braves,Miami Marlins,6.0,5.0,1.0,True
+2006-07-26,1.91,1.91,Houston Astros,Cincinnati Reds,8.0,5.0,3.0,True
+2006-07-26,2.15,1.73,Philadelphia Phillies,Arizona Diamondbacks,6.0,4.0,2.0,True
+2006-07-26,2.15,1.73,Seattle Mariners,Toronto Blue Jays,7.0,4.0,3.0,True
+2006-07-26,2.04,1.8,Texas Rangers,New York Yankees,7.0,8.0,-1.0,False
+2006-07-26,1.95,1.87,Washington Nationals,San Francisco Giants,4.0,3.0,1.0,True
+2006-07-26,1.53,2.54,Milwaukee Brewers,Pittsburgh Pirates,4.0,8.0,-4.0,False
+2006-07-26,1.55,2.52,New York Mets,Chicago Cubs,1.0,0.0,1.0,True
+2006-07-26,1.73,2.15,Oakland Athletics,Boston Red Sox,5.0,1.0,4.0,True
+2006-07-26,1.64,2.29,Tampa Bay Rays,Los Angeles Angels,6.0,15.0,-9.0,False
+2006-07-25,1.73,2.15,Atlanta Braves,Miami Marlins,1.0,2.0,-1.0,False
+2006-07-25,1.91,1.91,Cleveland Indians,Detroit Tigers,12.0,7.0,5.0,True
+2006-07-25,2.29,1.64,Colorado Rockies,St.Louis Cardinals,0.0,1.0,-1.0,False
+2006-07-25,1.66,2.25,Houston Astros,Cincinnati Reds,0.0,2.0,-2.0,False
+2006-07-25,1.87,1.95,Los Angeles Dodgers,San Diego Padres,3.0,7.0,-4.0,False
+2006-07-25,1.61,2.35,Milwaukee Brewers,Pittsburgh Pirates,1.0,6.0,-5.0,False
+2006-07-25,2.7,1.48,Oakland Athletics,Boston Red Sox,5.0,13.0,-8.0,False
+2006-07-25,1.83,2.0,Philadelphia Phillies,Arizona Diamondbacks,5.0,6.0,-1.0,False
+2006-07-25,2.29,1.63,Seattle Mariners,Toronto Blue Jays,3.0,12.0,-9.0,False
+2006-07-25,2.35,1.62,Texas Rangers,New York Yankees,4.0,7.0,-3.0,False
+2006-07-25,1.95,1.87,Washington Nationals,San Francisco Giants,8.0,6.0,2.0,True
+2006-07-24,1.83,2.0,Philadelphia Phillies,Atlanta Braves,8.0,10.0,-2.0,False
+2006-07-24,1.67,2.25,Chicago White Sox,Minnesota Twins,4.0,7.0,-3.0,False
+2006-07-24,2.0,1.83,Cleveland Indians,Detroit Tigers,7.0,9.0,-2.0,False
+2006-07-24,2.15,1.73,Colorado Rockies,St.Louis Cardinals,7.0,0.0,7.0,True
+2006-07-24,1.83,2.0,Los Angeles Dodgers,San Diego Padres,6.0,7.0,-1.0,False
+2006-07-24,1.67,2.25,Milwaukee Brewers,Pittsburgh Pirates,12.0,8.0,4.0,True
+2006-07-24,1.5,2.65,New York Mets,Chicago Cubs,7.0,8.0,-1.0,False
+2006-07-24,2.0,1.83,Oakland Athletics,Boston Red Sox,3.0,7.0,-4.0,False
+2006-07-24,1.91,1.91,Seattle Mariners,Toronto Blue Jays,7.0,3.0,4.0,True
+2006-07-24,2.65,1.5,Tampa Bay Rays,Los Angeles Angels,4.0,8.0,-4.0,False
+2006-07-24,2.1,1.77,Texas Rangers,New York Yankees,2.0,6.0,-4.0,False
+2006-07-23,1.59,2.4,Philadelphia Phillies,Atlanta Braves,1.0,5.0,-4.0,False
+2006-07-23,1.91,1.91,Los Angeles Dodgers,St.Louis Cardinals,1.0,6.0,-5.0,False
+2006-07-23,1.8,2.04,San Francisco Giants,San Diego Padres,5.0,6.0,-1.0,False
+2006-07-23,2.15,1.73,Seattle Mariners,Boston Red Sox,9.0,8.0,1.0,True
+2006-07-23,2.65,1.5,Kansas City Royals,Los Angeles Angels,1.0,3.0,-2.0,False
+2006-07-23,1.83,2.0,Cincinnati Reds,Milwaukee Brewers,1.0,4.0,-3.0,False
+2006-07-23,1.87,1.95,Tampa Bay Rays,Baltimore Orioles,2.0,4.0,-2.0,False
+2006-07-23,1.83,2.0,New York Mets,Houston Astros,4.0,8.0,-4.0,False
+2006-07-23,2.45,1.57,Cleveland Indians,Minnesota Twins,1.0,3.0,-2.0,False
+2006-07-23,1.87,1.95,Washington Nationals,Chicago Cubs,7.0,1.0,6.0,True
+2006-07-22,1.91,1.91,Arizona Diamondbacks,Colorado Rockies,4.0,3.0,1.0,True
+2006-07-22,2.0,1.83,Cincinnati Reds,Milwaukee Brewers,8.0,7.0,1.0,True
+2006-07-22,1.73,2.15,Cleveland Indians,Minnesota Twins,11.0,0.0,11.0,True
+2006-07-22,1.71,2.18,Detroit Tigers,Oakland Athletics,5.0,9.0,-4.0,False
+2006-07-22,2.45,1.57,Kansas City Royals,Los Angeles Angels,3.0,4.0,-1.0,False
+2006-07-22,2.0,1.83,Los Angeles Dodgers,St.Louis Cardinals,1.0,6.0,-5.0,False
+2006-07-22,1.73,2.15,Miami Marlins,Pittsburgh Pirates,5.0,0.0,5.0,True
+2006-07-22,1.61,2.35,San Francisco Giants,San Diego Padres,4.0,3.0,1.0,True
+2006-07-22,1.75,2.12,Seattle Mariners,Boston Red Sox,5.0,2.0,3.0,True
+2006-07-22,1.87,1.95,Tampa Bay Rays,Baltimore Orioles,13.0,12.0,1.0,True
+2006-07-22,1.77,2.1,Washington Nationals,Chicago Cubs,7.0,3.0,4.0,True
+2006-07-21,1.91,1.91,Arizona Diamondbacks,Colorado Rockies,6.0,2.0,4.0,True
+2006-07-21,1.57,2.47,Chicago White Sox,Texas Rangers,3.0,10.0,-7.0,False
+2006-07-21,1.95,1.87,Cincinnati Reds,Milwaukee Brewers,6.0,5.0,1.0,True
+2006-07-21,1.61,2.35,Cleveland Indians,Minnesota Twins,6.0,14.0,-8.0,False
+2006-07-21,1.65,2.29,Detroit Tigers,Oakland Athletics,7.0,4.0,3.0,True
+2006-07-21,1.77,2.1,Los Angeles Dodgers,St.Louis Cardinals,0.0,2.0,-2.0,False
+2006-07-21,1.7,2.2,Miami Marlins,Pittsburgh Pirates,4.0,1.0,3.0,True
+2006-07-21,1.65,2.29,New York Mets,Houston Astros,7.0,0.0,7.0,True
+2006-07-21,2.13,1.74,Philadelphia Phillies,Atlanta Braves,6.0,5.0,1.0,True
+2006-07-21,1.91,1.91,San Francisco Giants,San Diego Padres,8.0,2.0,6.0,True
+2006-07-21,1.73,2.15,Seattle Mariners,Boston Red Sox,4.0,9.0,-5.0,False
+2006-07-21,2.2,1.7,Tampa Bay Rays,Baltimore Orioles,14.0,7.0,7.0,True
+2006-07-21,1.82,2.0,Toronto Blue Jays,New York Yankees,7.0,3.0,4.0,True
+2006-07-21,1.87,1.95,Washington Nationals,Chicago Cubs,7.0,6.0,1.0,True
+2006-07-20,1.55,2.45,Arizona Diamondbacks,Los Angeles Dodgers,5.0,2.0,3.0,True
+2006-07-20,2.54,1.53,Kansas City Royals,Los Angeles Angels,9.0,4.0,5.0,True
+2006-07-20,1.61,2.35,Miami Marlins,Pittsburgh Pirates,3.0,5.0,-2.0,False
+2006-07-20,1.75,2.1,San Francisco Giants,San Diego Padres,9.0,3.0,6.0,True
+2006-07-20,1.73,2.15,Toronto Blue Jays,New York Yankees,5.0,4.0,1.0,True
+2006-07-20,1.72,2.15,Chicago Cubs,Houston Astros,4.0,1.0,3.0,True
+2006-07-20,1.3,3.6,Minnesota Twins,Tampa Bay Rays,6.0,4.0,2.0,True
+2006-07-20,1.75,2.1,Cincinnati Reds,New York Mets,2.0,4.0,-2.0,False
+2006-07-19,1.91,1.91,Arizona Diamondbacks,Los Angeles Dodgers,8.0,0.0,8.0,True
+2006-07-19,2.35,1.61,Chicago Cubs,Houston Astros,2.0,4.0,-2.0,False
+2006-07-19,1.8,2.04,Cincinnati Reds,New York Mets,7.0,4.0,3.0,True
+2006-07-19,1.64,2.29,Detroit Tigers,Chicago White Sox,5.0,2.0,3.0,True
+2006-07-19,1.55,2.5,Minnesota Twins,Tampa Bay Rays,7.0,2.0,5.0,True
+2006-07-19,1.4,2.95,St.Louis Cardinals,Atlanta Braves,8.0,3.0,5.0,True
+2006-07-19,2.04,1.8,Toronto Blue Jays,Texas Rangers,4.0,5.0,-1.0,False
+2006-07-19,1.53,2.54,Los Angeles Angels,Cleveland Indians,4.0,6.0,-2.0,False
+2006-07-19,1.95,1.87,San Diego Padres,Philadelphia Phillies,4.0,5.0,-1.0,False
+2006-07-19,1.75,2.1,San Francisco Giants,Milwaukee Brewers,7.0,6.0,1.0,True
+2006-07-19,1.32,3.5,Boston Red Sox,Kansas City Royals,1.0,0.0,1.0,True
+2006-07-19,1.75,2.1,Miami Marlins,Washington Nationals,1.0,0.0,1.0,True
+2006-07-19,1.45,2.75,New York Yankees,Seattle Mariners,2.0,3.0,-1.0,False
+2006-07-19,2.1,1.75,Baltimore Orioles,Oakland Athletics,1.0,5.0,-4.0,False
+2006-07-19,2.0,1.83,Pittsburgh Pirates,Colorado Rockies,6.0,5.0,1.0,True
+2006-07-18,1.87,1.95,Arizona Diamondbacks,Los Angeles Dodgers,1.0,4.0,-3.0,False
+2006-07-18,1.95,1.87,Baltimore Orioles,Oakland Athletics,4.0,5.0,-1.0,False
+2006-07-18,1.33,3.4,Boston Red Sox,Kansas City Royals,1.0,0.0,1.0,True
+2006-07-18,2.35,1.61,Chicago Cubs,Houston Astros,4.0,2.0,2.0,True
+2006-07-18,1.95,1.87,Cincinnati Reds,New York Mets,3.0,8.0,-5.0,False
+2006-07-18,1.73,2.15,Detroit Tigers,Chicago White Sox,1.0,7.0,-6.0,False
+2006-07-18,2.1,1.77,Los Angeles Angels,Cleveland Indians,7.0,5.0,2.0,True
+2006-07-18,1.55,2.5,Miami Marlins,Washington Nationals,6.0,7.0,-1.0,False
+2006-07-18,1.55,2.5,Minnesota Twins,Tampa Bay Rays,8.0,1.0,7.0,True
+2006-07-18,1.61,2.35,New York Yankees,Seattle Mariners,5.0,4.0,1.0,True
+2006-07-18,2.04,1.8,Pittsburgh Pirates,Colorado Rockies,4.0,13.0,-9.0,False
+2006-07-18,1.95,1.87,San Diego Padres,Philadelphia Phillies,10.0,6.0,4.0,True
+2006-07-18,1.77,2.1,San Francisco Giants,Milwaukee Brewers,4.0,3.0,1.0,True
+2006-07-18,1.73,2.15,St.Louis Cardinals,Atlanta Braves,5.0,14.0,-9.0,False
+2006-07-18,2.1,1.77,Toronto Blue Jays,Texas Rangers,2.0,5.0,-3.0,False
+2006-07-17,1.93,1.89,Arizona Diamondbacks,Los Angeles Dodgers,8.0,3.0,5.0,True
+2006-07-17,1.95,1.87,Baltimore Orioles,Oakland Athletics,5.0,3.0,2.0,True
+2006-07-17,1.33,3.4,Boston Red Sox,Kansas City Royals,5.0,4.0,1.0,True
+2006-07-17,2.02,1.81,Los Angeles Angels,Cleveland Indians,10.0,5.0,5.0,True
+2006-07-17,1.83,2.0,Miami Marlins,Washington Nationals,4.0,2.0,2.0,True
+2006-07-17,1.67,2.27,Minnesota Twins,Tampa Bay Rays,6.0,3.0,3.0,True
+2006-07-17,1.5,2.6,New York Yankees,Seattle Mariners,4.0,2.0,2.0,True
+2006-07-17,1.95,1.87,Pittsburgh Pirates,Colorado Rockies,3.0,1.0,2.0,True
+2006-07-17,1.86,1.96,San Diego Padres,Philadelphia Phillies,8.0,6.0,2.0,True
+2006-07-17,1.45,2.8,San Francisco Giants,Milwaukee Brewers,1.0,10.0,-9.0,False
+2006-07-17,1.73,2.15,St.Louis Cardinals,Atlanta Braves,3.0,15.0,-12.0,False
+2006-07-17,1.77,2.1,Toronto Blue Jays,Texas Rangers,10.0,1.0,9.0,True
+2006-07-16,1.91,1.91,Arizona Diamondbacks,Milwaukee Brewers,5.0,10.0,-5.0,False
+2006-07-16,1.73,2.15,San Diego Padres,Atlanta Braves,5.0,10.0,-5.0,False
+2006-07-16,1.87,1.95,San Francisco Giants,Philadelphia Phillies,2.0,6.0,-4.0,False
+2006-07-16,1.48,2.7,Los Angeles Angels,Tampa Bay Rays,7.0,5.0,2.0,True
+2006-07-16,1.73,2.15,St.Louis Cardinals,Los Angeles Dodgers,11.0,3.0,8.0,True
+2006-07-16,1.91,1.91,Baltimore Orioles,Texas Rangers,4.0,0.0,4.0,True
+2006-07-16,1.77,2.1,Pittsburgh Pirates,Washington Nationals,4.0,8.0,-4.0,False
+2006-07-16,1.77,2.1,Cincinnati Reds,Colorado Rockies,6.0,4.0,2.0,True
+2006-07-16,1.38,3.1,Detroit Tigers,Kansas City Royals,6.0,9.0,-3.0,False
+2006-07-16,1.83,2.0,Miami Marlins,Houston Astros,9.0,3.0,6.0,True
+2006-07-16,1.77,2.1,New York Yankees,Chicago White Sox,6.0,4.0,2.0,True
+2006-07-16,1.65,2.29,Toronto Blue Jays,Seattle Mariners,4.0,3.0,1.0,True
+2006-07-15,1.75,2.1,Arizona Diamondbacks,Milwaukee Brewers,8.0,1.0,7.0,True
+2006-07-15,1.5,2.6,Boston Red Sox,Oakland Athletics,7.0,0.0,7.0,True
+2006-07-15,1.62,2.35,Cincinnati Reds,Colorado Rockies,3.0,2.0,1.0,True
+2006-07-15,1.36,3.2,Detroit Tigers,Kansas City Royals,6.0,0.0,6.0,True
+2006-07-15,1.73,2.15,Los Angeles Angels,Tampa Bay Rays,9.0,2.0,7.0,True
+2006-07-15,1.87,1.95,Miami Marlins,Houston Astros,0.0,12.0,-12.0,False
+2006-07-15,1.57,2.45,Minnesota Twins,Cleveland Indians,6.0,2.0,4.0,True
+2006-07-15,1.75,2.1,Pittsburgh Pirates,Washington Nationals,7.0,6.0,1.0,True
+2006-07-15,2.1,1.75,San Diego Padres,Atlanta Braves,3.0,11.0,-8.0,False
+2006-07-15,1.8,2.04,Baltimore Orioles,Texas Rangers,8.0,1.0,7.0,True
+2006-07-15,1.87,1.95,Chicago Cubs,New York Mets,9.0,2.0,7.0,True
+2006-07-15,1.8,2.04,San Francisco Giants,Philadelphia Phillies,6.0,14.0,-8.0,False
+2006-07-15,1.48,2.7,Toronto Blue Jays,Seattle Mariners,7.0,6.0,1.0,True
+2006-07-15,1.61,2.35,St.Louis Cardinals,Los Angeles Dodgers,2.0,1.0,1.0,True
+2006-07-14,1.89,1.92,Arizona Diamondbacks,Milwaukee Brewers,4.0,3.0,1.0,True
+2006-07-14,1.95,1.87,Baltimore Orioles,Texas Rangers,1.0,2.0,-1.0,False
+2006-07-14,1.53,2.54,Boston Red Sox,Oakland Athletics,3.0,15.0,-12.0,False
+2006-07-14,1.72,2.17,Cincinnati Reds,Colorado Rockies,3.0,1.0,2.0,True
+2006-07-14,1.38,3.1,Detroit Tigers,Kansas City Royals,10.0,9.0,1.0,True
+2006-07-14,1.43,2.9,Los Angeles Angels,Tampa Bay Rays,4.0,0.0,4.0,True
+2006-07-14,2.33,1.65,Miami Marlins,Houston Astros,3.0,1.0,2.0,True
+2006-07-14,1.8,2.05,Minnesota Twins,Cleveland Indians,3.0,2.0,1.0,True
+2006-07-14,1.78,2.08,New York Yankees,Chicago White Sox,6.0,5.0,1.0,True
+2006-07-14,1.8,2.04,Pittsburgh Pirates,Washington Nationals,7.0,4.0,3.0,True
+2006-07-14,1.77,2.1,San Diego Padres,Atlanta Braves,12.0,15.0,-3.0,False
+2006-07-14,1.81,2.02,San Francisco Giants,Philadelphia Phillies,5.0,3.0,2.0,True
+2006-07-14,1.57,2.45,St.Louis Cardinals,Los Angeles Dodgers,5.0,0.0,5.0,True
+2006-07-14,1.8,2.05,Toronto Blue Jays,Seattle Mariners,3.0,5.0,-2.0,False
+2006-07-14,2.15,1.73,Chicago Cubs,New York Mets,3.0,6.0,-3.0,False
+2006-07-13,1.55,2.5,Boston Red Sox,Oakland Athletics,4.0,5.0,-1.0,False
+2006-07-13,1.87,1.95,Cincinnati Reds,Colorado Rockies,9.0,7.0,2.0,True
+2006-07-13,1.36,3.2,Detroit Tigers,Kansas City Royals,6.0,4.0,2.0,True
+2006-07-13,1.91,1.91,Miami Marlins,Houston Astros,1.0,5.0,-4.0,False
+2006-07-13,1.43,2.9,Minnesota Twins,Cleveland Indians,4.0,6.0,-2.0,False
+2006-07-13,1.64,2.29,St.Louis Cardinals,Los Angeles Dodgers,3.0,2.0,1.0,True
+2006-07-09,2.17,1.72,Houston Astros,St.Louis Cardinals,5.0,7.0,-2.0,False
+2006-07-09,2.04,1.8,Los Angeles Dodgers,San Francisco Giants,3.0,1.0,2.0,True
+2006-07-09,1.8,2.04,Oakland Athletics,Los Angeles Angels,2.0,4.0,-2.0,False
+2006-07-09,1.7,2.2,Milwaukee Brewers,Chicago Cubs,4.0,11.0,-7.0,False
+2006-07-09,2.7,1.48,Texas Rangers,Minnesota Twins,5.0,2.0,3.0,True
+2006-07-09,1.62,2.35,Philadelphia Phillies,Pittsburgh Pirates,8.0,3.0,5.0,True
+2006-07-09,2.1,1.77,Tampa Bay Rays,New York Yankees,6.0,5.0,1.0,True
+2006-07-09,1.57,2.45,New York Mets,Miami Marlins,7.0,6.0,1.0,True
+2006-07-09,2.2,1.7,Atlanta Braves,Cincinnati Reds,8.0,3.0,5.0,True
+2006-07-09,1.57,2.45,Cleveland Indians,Baltimore Orioles,4.0,5.0,-1.0,False
+2006-07-09,1.8,2.04,Washington Nationals,San Diego Padres,9.0,10.0,-1.0,False
+2006-07-08,1.77,2.1,Atlanta Braves,Cincinnati Reds,4.0,1.0,3.0,True
+2006-07-08,1.95,1.87,Cleveland Indians,Baltimore Orioles,4.0,7.0,-3.0,False
+2006-07-08,1.87,1.95,Colorado Rockies,Arizona Diamondbacks,7.0,8.0,-1.0,False
+2006-07-08,2.4,1.6,Kansas City Royals,Toronto Blue Jays,5.0,7.0,-2.0,False
+2006-07-08,1.55,2.5,Milwaukee Brewers,Chicago Cubs,1.0,3.0,-2.0,False
+2006-07-08,2.1,1.77,Oakland Athletics,Los Angeles Angels,4.0,6.0,-2.0,False
+2006-07-08,1.6,2.4,Philadelphia Phillies,Pittsburgh Pirates,6.0,2.0,4.0,True
+2006-07-08,2.04,1.8,Seattle Mariners,Detroit Tigers,1.0,2.0,-1.0,False
+2006-07-08,2.0,1.82,Tampa Bay Rays,New York Yankees,1.0,5.0,-4.0,False
+2006-07-08,2.54,1.53,Texas Rangers,Minnesota Twins,0.0,4.0,-4.0,False
+2006-07-08,2.2,1.7,Washington Nationals,San Diego Padres,2.0,5.0,-3.0,False
+2006-07-08,1.68,2.2,Houston Astros,St.Louis Cardinals,6.0,7.0,-1.0,False
+2006-07-07,1.66,2.25,Atlanta Braves,Cincinnati Reds,5.0,10.0,-5.0,False
+2006-07-07,1.64,2.29,Chicago White Sox,Boston Red Sox,2.0,7.0,-5.0,False
+2006-07-07,1.57,2.45,Cleveland Indians,Baltimore Orioles,9.0,0.0,9.0,True
+2006-07-07,1.69,2.2,Colorado Rockies,Arizona Diamondbacks,3.0,4.0,-1.0,False
+2006-07-07,1.77,2.1,Houston Astros,St.Louis Cardinals,2.0,8.0,-6.0,False
+2006-07-07,2.9,1.43,Kansas City Royals,Toronto Blue Jays,13.0,3.0,10.0,True
+2006-07-07,1.95,1.87,Los Angeles Dodgers,San Francisco Giants,9.0,7.0,2.0,True
+2006-07-07,2.25,1.67,Milwaukee Brewers,Chicago Cubs,2.0,7.0,-5.0,False
+2006-07-07,1.87,1.95,Oakland Athletics,Los Angeles Angels,0.0,3.0,-3.0,False
+2006-07-07,1.57,2.45,Philadelphia Phillies,Pittsburgh Pirates,2.0,3.0,-1.0,False
+2006-07-07,2.29,1.64,Seattle Mariners,Detroit Tigers,1.0,6.0,-5.0,False
+2006-07-07,2.25,1.67,Tampa Bay Rays,New York Yankees,0.0,1.0,-1.0,False
+2006-07-07,1.8,2.04,Texas Rangers,Minnesota Twins,9.0,4.0,5.0,True
+2006-07-07,1.91,1.91,Washington Nationals,San Diego Padres,2.0,3.0,-1.0,False
+2006-07-05,1.87,1.95,Colorado Rockies,San Francisco Giants,5.0,3.0,2.0,True
+2006-07-05,1.91,1.91,Milwaukee Brewers,Cincinnati Reds,6.0,5.0,1.0,True
+2006-07-05,2.1,1.77,Philadelphia Phillies,San Diego Padres,3.0,6.0,-3.0,False
+2006-07-05,1.77,2.1,Seattle Mariners,Los Angeles Angels,0.0,4.0,-4.0,False
+2006-07-05,1.87,1.95,Texas Rangers,Toronto Blue Jays,9.0,3.0,6.0,True
+2006-07-05,1.67,2.25,Washington Nationals,Miami Marlins,9.0,18.0,-9.0,False
+2006-07-04,2.35,1.61,Atlanta Braves,St.Louis Cardinals,3.0,6.0,-3.0,False
+2006-07-04,2.04,1.8,Colorado Rockies,San Francisco Giants,6.0,1.0,5.0,True
+2006-07-04,2.35,1.61,Kansas City Royals,Minnesota Twins,7.0,2.0,5.0,True
+2006-07-04,1.67,2.25,Los Angeles Dodgers,Arizona Diamondbacks,11.0,3.0,8.0,True
+2006-07-04,2.5,1.55,Texas Rangers,Toronto Blue Jays,2.0,3.0,-1.0,False
+2006-07-04,3.0,1.4,Tampa Bay Rays,Boston Red Sox,9.0,6.0,3.0,True
+2006-07-04,1.5,2.65,Chicago White Sox,Baltimore Orioles,13.0,0.0,13.0,True
+2006-07-04,1.73,2.15,Seattle Mariners,Los Angeles Angels,6.0,14.0,-8.0,False
+2006-07-04,1.67,2.25,Philadelphia Phillies,San Diego Padres,6.0,5.0,1.0,True
+2006-07-04,1.65,2.29,Houston Astros,Chicago Cubs,7.0,2.0,5.0,True
+2006-07-04,2.2,1.7,Milwaukee Brewers,Cincinnati Reds,5.0,2.0,3.0,True
+2006-07-04,1.4,3.0,New York Mets,Pittsburgh Pirates,7.0,6.0,1.0,True
+2006-07-04,1.91,1.91,Washington Nationals,Miami Marlins,6.0,4.0,2.0,True
+2006-07-03,1.83,2.0,Colorado Rockies,San Francisco Giants,6.0,9.0,-3.0,False
+2006-07-03,1.53,2.54,Houston Astros,Chicago Cubs,7.0,2.0,5.0,True
+2006-07-03,1.91,1.91,Atlanta Braves,St.Louis Cardinals,6.0,3.0,3.0,True
+2006-07-03,2.25,1.67,Cleveland Indians,New York Yankees,5.0,2.0,3.0,True
+2006-07-03,3.2,1.36,Kansas City Royals,Minnesota Twins,5.0,6.0,-1.0,False
+2006-07-03,1.83,2.0,Seattle Mariners,Los Angeles Angels,1.0,7.0,-6.0,False
+2006-07-03,1.95,1.87,Texas Rangers,Toronto Blue Jays,6.0,1.0,5.0,True
+2006-07-03,2.0,1.83,Washington Nationals,Miami Marlins,9.0,1.0,8.0,True
+2006-07-03,2.04,1.8,Milwaukee Brewers,Cincinnati Reds,8.0,7.0,1.0,True
+2006-07-02,1.67,2.25,New York Yankees,New York Mets,16.0,7.0,9.0,True
+2006-07-02,1.57,2.45,Texas Rangers,Houston Astros,5.0,9.0,-4.0,False
+2006-07-02,1.77,2.1,Oakland Athletics,Arizona Diamondbacks,1.0,3.0,-2.0,False
+2006-07-02,1.73,2.15,San Diego Padres,San Francisco Giants,2.0,6.0,-4.0,False
+2006-07-02,1.83,2.0,Seattle Mariners,Colorado Rockies,3.0,4.0,-1.0,False
+2006-07-02,1.65,2.29,Los Angeles Angels,Los Angeles Dodgers,4.0,0.0,4.0,True
+2006-07-02,2.04,1.8,Chicago Cubs,Chicago White Sox,15.0,11.0,4.0,True
+2006-07-02,1.36,3.2,Minnesota Twins,Milwaukee Brewers,8.0,0.0,8.0,True
+2006-07-02,2.7,1.48,Pittsburgh Pirates,Detroit Tigers,8.0,9.0,-1.0,False
+2006-07-02,2.15,1.73,Cincinnati Reds,Cleveland Indians,3.0,6.0,-3.0,False
+2006-07-02,1.87,1.95,Atlanta Braves,Baltimore Orioles,10.0,3.0,7.0,True
+2006-07-02,1.91,1.91,Miami Marlins,Boston Red Sox,3.0,4.0,-1.0,False
+2006-07-02,1.87,1.95,Washington Nationals,Tampa Bay Rays,6.0,2.0,4.0,True
+2006-07-01,1.48,2.7,Atlanta Braves,Baltimore Orioles,4.0,7.0,-3.0,False
+2006-07-01,2.25,1.67,Cincinnati Reds,Cleveland Indians,7.0,12.0,-5.0,False
+2006-07-01,2.5,1.55,Miami Marlins,Boston Red Sox,5.0,11.0,-6.0,False
+2006-07-01,1.95,1.87,Minnesota Twins,Milwaukee Brewers,10.0,7.0,3.0,True
+2006-07-01,2.7,1.48,Pittsburgh Pirates,Detroit Tigers,9.0,2.0,7.0,True
+2006-07-01,1.91,1.91,San Diego Padres,San Francisco Giants,1.0,4.0,-3.0,False
+2006-07-01,1.8,2.04,Seattle Mariners,Colorado Rockies,8.0,7.0,1.0,True
+2006-07-01,1.45,2.8,St.Louis Cardinals,Kansas City Royals,7.0,8.0,-1.0,False
+2006-07-01,1.8,2.04,Washington Nationals,Tampa Bay Rays,4.0,3.0,1.0,True
+2006-07-01,1.83,2.0,Los Angeles Angels,Los Angeles Dodgers,9.0,2.0,7.0,True
+2006-07-01,1.63,2.31,Oakland Athletics,Arizona Diamondbacks,2.0,7.0,-5.0,False
+2006-07-01,1.73,2.15,Texas Rangers,Houston Astros,0.0,7.0,-7.0,False
+2006-06-30,1.77,2.1,Atlanta Braves,Baltimore Orioles,5.0,3.0,2.0,True
+2006-06-30,1.77,2.1,Miami Marlins,Boston Red Sox,5.0,2.0,3.0,True
+2006-06-30,1.61,2.35,Minnesota Twins,Milwaukee Brewers,8.0,2.0,6.0,True
+2006-06-30,1.8,2.04,San Diego Padres,San Francisco Giants,6.0,5.0,1.0,True
+2006-06-30,1.61,2.35,Seattle Mariners,Colorado Rockies,0.0,2.0,-2.0,False
+2006-06-30,2.0,1.83,Texas Rangers,Houston Astros,3.0,1.0,2.0,True
+2006-06-29,2.25,1.67,Arizona Diamondbacks,Seattle Mariners,2.0,3.0,-1.0,False
+2006-06-29,1.73,2.15,Baltimore Orioles,Philadelphia Phillies,0.0,4.0,-4.0,False
+2006-06-29,1.65,2.29,Boston Red Sox,New York Mets,4.0,2.0,2.0,True
+2006-06-29,1.38,3.1,Cincinnati Reds,Kansas City Royals,6.0,5.0,1.0,True
+2006-06-29,1.45,2.8,Toronto Blue Jays,Washington Nationals,8.0,4.0,4.0,True
+2006-06-29,1.8,2.04,San Diego Padres,Oakland Athletics,5.0,6.0,-1.0,False
+2006-06-29,1.59,2.4,San Francisco Giants,Texas Rangers,2.0,1.0,1.0,True
+2006-06-28,2.15,1.73,Arizona Diamondbacks,Seattle Mariners,3.0,10.0,-7.0,False
+2006-06-28,1.7,2.2,Los Angeles Angels,Colorado Rockies,2.0,6.0,-4.0,False
+2006-06-28,1.65,2.29,Miami Marlins,Tampa Bay Rays,1.0,3.0,-2.0,False
+2006-06-28,1.95,1.87,San Diego Padres,Oakland Athletics,8.0,1.0,7.0,True
+2006-06-28,1.83,2.0,San Francisco Giants,Texas Rangers,5.0,1.0,4.0,True
+2006-06-28,1.91,1.91,Boston Red Sox,New York Mets,10.0,2.0,8.0,True
+2006-06-28,1.4,3.0,Cincinnati Reds,Kansas City Royals,7.0,2.0,5.0,True
+2006-06-28,2.4,1.59,Pittsburgh Pirates,Chicago White Sox,3.0,4.0,-1.0,False
+2006-06-28,1.51,2.6,St.Louis Cardinals,Cleveland Indians,5.0,4.0,1.0,True
+2006-06-28,1.5,2.65,Toronto Blue Jays,Washington Nationals,6.0,1.0,5.0,True
+2006-06-28,2.1,1.77,Chicago Cubs,Milwaukee Brewers,6.0,3.0,3.0,True
+2006-06-28,1.33,3.4,Minnesota Twins,Los Angeles Dodgers,6.0,3.0,3.0,True
+2006-06-27,1.65,2.29,Arizona Diamondbacks,Seattle Mariners,7.0,11.0,-4.0,False
+2006-06-27,1.77,2.1,Boston Red Sox,New York Mets,9.0,4.0,5.0,True
+2006-06-27,1.48,2.7,Chicago Cubs,Milwaukee Brewers,5.0,8.0,-3.0,False
+2006-06-27,1.43,2.9,Cincinnati Reds,Kansas City Royals,8.0,9.0,-1.0,False
+2006-06-27,1.66,2.25,Detroit Tigers,Houston Astros,4.0,0.0,4.0,True
+2006-06-27,1.77,2.1,Los Angeles Angels,Colorado Rockies,4.0,12.0,-8.0,False
+2006-06-27,1.95,1.87,Miami Marlins,Tampa Bay Rays,8.0,4.0,4.0,True
+2006-06-27,1.61,2.35,Minnesota Twins,Los Angeles Dodgers,9.0,2.0,7.0,True
+2006-06-27,1.57,2.45,New York Yankees,Atlanta Braves,2.0,5.0,-3.0,False
+2006-06-27,2.54,1.53,Pittsburgh Pirates,Chicago White Sox,2.0,4.0,-2.0,False
+2006-06-27,1.91,1.91,San Diego Padres,Oakland Athletics,3.0,0.0,3.0,True
+2006-06-27,1.95,1.87,San Francisco Giants,Texas Rangers,5.0,3.0,2.0,True
+2006-06-27,1.64,2.29,St.Louis Cardinals,Cleveland Indians,1.0,3.0,-2.0,False
+2006-06-27,1.48,2.7,Toronto Blue Jays,Washington Nationals,6.0,0.0,6.0,True
+2006-06-26,2.05,1.8,Chicago Cubs,Milwaukee Brewers,0.0,6.0,-6.0,False
+2006-06-26,1.59,2.4,Detroit Tigers,Houston Astros,10.0,4.0,6.0,True
+2006-06-26,1.62,2.38,Los Angeles Angels,Colorado Rockies,5.0,4.0,1.0,True
+2006-06-26,1.65,2.29,Miami Marlins,Tampa Bay Rays,8.0,5.0,3.0,True
+2006-06-26,1.91,1.91,Minnesota Twins,Los Angeles Dodgers,8.0,2.0,6.0,True
+2006-06-26,1.58,2.48,New York Yankees,Atlanta Braves,5.0,2.0,3.0,True
+2006-06-26,1.8,2.05,St.Louis Cardinals,Cleveland Indians,3.0,10.0,-7.0,False
+2006-06-26,1.57,2.45,Boston Red Sox,Philadelphia Phillies,8.0,7.0,1.0,True
+2006-06-25,1.83,2.0,Chicago White Sox,Houston Astros,9.0,10.0,-1.0,False
+2006-06-25,2.1,1.77,Arizona Diamondbacks,Los Angeles Angels,9.0,7.0,2.0,True
+2006-06-25,1.5,2.65,Los Angeles Dodgers,Pittsburgh Pirates,7.0,4.0,3.0,True
+2006-06-25,1.6,2.42,New York Yankees,Miami Marlins,0.0,5.0,-5.0,False
+2006-06-25,1.83,2.0,San Diego Padres,Seattle Mariners,4.0,9.0,-5.0,False
+2006-06-25,1.95,1.87,Colorado Rockies,Texas Rangers,3.0,0.0,3.0,True
+2006-06-25,1.95,1.87,Kansas City Royals,Milwaukee Brewers,6.0,0.0,6.0,True
+2006-06-25,1.7,2.2,Baltimore Orioles,Washington Nationals,5.0,9.0,-4.0,False
+2006-06-25,1.73,2.15,Tampa Bay Rays,Atlanta Braves,1.0,4.0,-3.0,False
+2006-06-25,1.61,2.35,Detroit Tigers,St.Louis Cardinals,4.0,1.0,3.0,True
+2006-06-25,1.57,2.45,New York Yankees,Miami Marlins,2.0,1.0,1.0,True
+2006-06-25,2.04,1.8,Toronto Blue Jays,New York Mets,4.0,7.0,-3.0,False
+2006-06-24,2.0,1.83,Arizona Diamondbacks,Los Angeles Angels,4.0,6.0,-2.0,False
+2006-06-24,1.85,1.98,Colorado Rockies,Texas Rangers,11.0,6.0,5.0,True
+2006-06-24,1.65,2.29,Detroit Tigers,St.Louis Cardinals,7.0,6.0,1.0,True
+2006-06-24,2.2,1.7,Kansas City Royals,Milwaukee Brewers,6.0,5.0,1.0,True
+2006-06-24,1.79,2.05,Los Angeles Dodgers,Pittsburgh Pirates,7.0,0.0,7.0,True
+2006-06-24,1.85,1.98,Minnesota Twins,Chicago Cubs,3.0,0.0,3.0,True
+2006-06-24,1.86,1.95,San Diego Padres,Seattle Mariners,5.0,9.0,-4.0,False
+2006-06-24,1.85,1.98,Tampa Bay Rays,Atlanta Braves,3.0,2.0,1.0,True
+2006-06-24,2.2,1.7,San Francisco Giants,Oakland Athletics,8.0,7.0,1.0,True
+2006-06-24,1.57,2.45,Toronto Blue Jays,New York Mets,7.0,4.0,3.0,True
+2006-06-24,2.0,1.83,Baltimore Orioles,Washington Nationals,3.0,2.0,1.0,True
+2006-06-24,1.53,2.54,Boston Red Sox,Philadelphia Phillies,5.0,3.0,2.0,True
+2006-06-24,1.57,2.45,Chicago White Sox,Houston Astros,6.0,5.0,1.0,True
+2006-06-24,1.98,1.85,Cleveland Indians,Cincinnati Reds,4.0,0.0,4.0,True
+2006-06-23,1.9,1.9,Arizona Diamondbacks,Los Angeles Angels,2.0,8.0,-6.0,False
+2006-06-23,1.83,2.0,Baltimore Orioles,Washington Nationals,2.0,1.0,1.0,True
+2006-06-23,1.5,2.65,Boston Red Sox,Philadelphia Phillies,10.0,2.0,8.0,True
+2006-06-23,1.57,2.5,Chicago White Sox,Houston Astros,7.0,4.0,3.0,True
+2006-06-23,1.78,2.07,Cleveland Indians,Cincinnati Reds,0.0,3.0,-3.0,False
+2006-06-23,1.83,2.0,Colorado Rockies,Texas Rangers,6.0,8.0,-2.0,False
+2006-06-23,1.87,1.95,Detroit Tigers,St.Louis Cardinals,10.0,6.0,4.0,True
+2006-06-23,2.2,1.7,Kansas City Royals,Milwaukee Brewers,2.0,7.0,-5.0,False
+2006-06-23,1.77,2.07,Los Angeles Dodgers,Pittsburgh Pirates,10.0,4.0,6.0,True
+2006-06-23,1.36,3.25,Minnesota Twins,Chicago Cubs,7.0,2.0,5.0,True
+2006-06-23,1.4,3.0,New York Yankees,Miami Marlins,6.0,5.0,1.0,True
+2006-06-23,1.67,2.23,San Diego Padres,Seattle Mariners,2.0,1.0,1.0,True
+2006-06-23,1.65,2.29,San Francisco Giants,Oakland Athletics,3.0,4.0,-1.0,False
+2006-06-23,2.29,1.65,Tampa Bay Rays,Atlanta Braves,3.0,4.0,-1.0,False
+2006-06-23,1.91,1.91,Toronto Blue Jays,New York Mets,1.0,6.0,-5.0,False
+2006-06-22,2.13,1.75,Atlanta Braves,Toronto Blue Jays,2.0,3.0,-1.0,False
+2006-06-22,1.72,2.17,Baltimore Orioles,Miami Marlins,5.0,8.0,-3.0,False
+2006-06-22,1.63,2.29,Chicago White Sox,St.Louis Cardinals,1.0,0.0,1.0,True
+2006-06-22,1.98,1.85,Houston Astros,Minnesota Twins,2.0,4.0,-2.0,False
+2006-06-22,1.75,2.09,Los Angeles Dodgers,Seattle Mariners,4.0,2.0,2.0,True
+2006-06-22,1.57,2.45,Tampa Bay Rays,Arizona Diamondbacks,4.0,1.0,3.0,True
+2006-06-21,1.7,2.2,Atlanta Braves,Toronto Blue Jays,3.0,6.0,-3.0,False
+2006-06-21,1.67,2.25,Baltimore Orioles,Miami Marlins,4.0,0.0,4.0,True
+2006-06-21,1.61,2.35,Boston Red Sox,Washington Nationals,9.0,3.0,6.0,True
+2006-06-21,1.57,2.45,Chicago White Sox,St.Louis Cardinals,13.0,5.0,8.0,True
+2006-06-21,1.7,2.2,Cleveland Indians,Chicago Cubs,2.0,9.0,-7.0,False
+2006-06-21,2.1,1.77,Colorado Rockies,Oakland Athletics,2.0,3.0,-1.0,False
+2006-06-21,1.67,2.25,Houston Astros,Minnesota Twins,5.0,3.0,2.0,True
+2006-06-21,2.15,1.73,Kansas City Royals,Pittsburgh Pirates,6.0,4.0,2.0,True
+2006-06-21,1.7,2.2,Los Angeles Dodgers,Seattle Mariners,5.0,8.0,-3.0,False
+2006-06-21,1.43,2.9,New York Mets,Cincinnati Reds,5.0,6.0,-1.0,False
+2006-06-21,1.87,1.95,Philadelphia Phillies,New York Yankees,0.0,5.0,-5.0,False
+2006-06-21,2.25,1.67,Tampa Bay Rays,Arizona Diamondbacks,3.0,2.0,1.0,True
+2006-06-21,1.63,2.29,Texas Rangers,San Diego Padres,2.0,3.0,-1.0,False
+2006-06-18,2.0,1.83,Atlanta Braves,Boston Red Sox,7.0,10.0,-3.0,False

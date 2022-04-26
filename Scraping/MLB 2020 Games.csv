@@ -1,0 +1,1184 @@
+Date,Home Odds,Vis Odds,Home,Visitor,Home PTS,Vis PTS,Home Points Dif,Home Win
+2020-10-27,1.83,2.04,Los Angeles Dodgers,Tampa Bay Rays,3.0,1.0,2.0,True
+2020-10-25,2.44,1.6,Tampa Bay Rays,Los Angeles Dodgers,2.0,4.0,-2.0,False
+2020-10-24,3.41,1.36,Tampa Bay Rays,Los Angeles Dodgers,8.0,7.0,1.0,True
+2020-10-23,2.36,1.62,Tampa Bay Rays,Los Angeles Dodgers,2.0,6.0,-4.0,False
+2020-10-21,1.74,2.14,Los Angeles Dodgers,Tampa Bay Rays,4.0,6.0,-2.0,False
+2020-10-20,1.61,2.4,Los Angeles Dodgers,Tampa Bay Rays,8.0,3.0,5.0,True
+2020-10-18,1.64,2.35,Los Angeles Dodgers,Atlanta Braves,4.0,3.0,1.0,True
+2020-10-17,1.84,2.02,Tampa Bay Rays,Houston Astros,4.0,2.0,2.0,True
+2020-10-17,1.66,2.31,Los Angeles Dodgers,Atlanta Braves,3.0,1.0,2.0,True
+2020-10-16,2.63,1.52,Atlanta Braves,Los Angeles Dodgers,3.0,7.0,-4.0,False
+2020-10-16,1.75,2.12,Tampa Bay Rays,Houston Astros,4.0,7.0,-3.0,False
+2020-10-15,2.82,1.47,Atlanta Braves,Los Angeles Dodgers,10.0,2.0,8.0,True
+2020-10-15,2.15,1.74,Houston Astros,Tampa Bay Rays,4.0,3.0,1.0,True
+2020-10-14,2.12,1.76,Houston Astros,Tampa Bay Rays,4.0,3.0,1.0,True
+2020-10-14,2.64,1.52,Atlanta Braves,Los Angeles Dodgers,3.0,15.0,-12.0,False
+2020-10-13,1.93,1.91,Houston Astros,Tampa Bay Rays,2.0,5.0,-3.0,False
+2020-10-13,1.69,2.25,Los Angeles Dodgers,Atlanta Braves,7.0,8.0,-1.0,False
+2020-10-12,1.66,2.3,Los Angeles Dodgers,Atlanta Braves,1.0,5.0,-4.0,False
+2020-10-12,1.85,2.0,Tampa Bay Rays,Houston Astros,4.0,2.0,2.0,True
+2020-10-11,1.74,2.15,Tampa Bay Rays,Houston Astros,2.0,1.0,1.0,True
+2020-10-09,2.33,1.64,Tampa Bay Rays,New York Yankees,2.0,1.0,1.0,True
+2020-10-08,2.41,1.61,San Diego Padres,Los Angeles Dodgers,3.0,12.0,-9.0,False
+2020-10-08,1.75,2.14,New York Yankees,Tampa Bay Rays,5.0,1.0,4.0,True
+2020-10-08,1.9,1.96,Houston Astros,Oakland Athletics,11.0,6.0,5.0,True
+2020-10-08,2.1,1.78,Miami Marlins,Atlanta Braves,0.0,7.0,-7.0,False
+2020-10-07,1.43,2.95,Los Angeles Dodgers,San Diego Padres,6.0,5.0,1.0,True
+2020-10-07,1.71,2.2,New York Yankees,Tampa Bay Rays,4.0,8.0,-4.0,False
+2020-10-07,1.91,1.93,Houston Astros,Oakland Athletics,7.0,9.0,-2.0,False
+2020-10-07,1.5,2.69,Atlanta Braves,Miami Marlins,2.0,0.0,2.0,True
+2020-10-06,1.59,2.44,Los Angeles Dodgers,San Diego Padres,5.0,1.0,4.0,True
+2020-10-06,1.78,2.08,Tampa Bay Rays,New York Yankees,7.0,5.0,2.0,True
+2020-10-06,1.93,1.9,Oakland Athletics,Houston Astros,2.0,5.0,-3.0,False
+2020-10-06,1.47,2.76,Atlanta Braves,Miami Marlins,9.0,5.0,4.0,True
+2020-10-05,2.34,1.62,Tampa Bay Rays,New York Yankees,3.0,9.0,-6.0,False
+2020-10-05,1.79,2.05,Oakland Athletics,Houston Astros,5.0,10.0,-5.0,False
+2020-10-02,1.7,2.21,San Diego Padres,St.Louis Cardinals,4.0,0.0,4.0,True
+2020-10-02,1.47,2.73,Chicago Cubs,Miami Marlins,0.0,2.0,-2.0,False
+2020-10-01,1.4,3.01,Los Angeles Dodgers,Milwaukee Brewers,3.0,0.0,3.0,True
+2020-10-01,1.61,2.37,San Diego Padres,St.Louis Cardinals,11.0,9.0,2.0,True
+2020-10-01,1.95,1.89,Oakland Athletics,Chicago White Sox,6.0,4.0,2.0,True
+2020-10-01,1.72,2.17,Atlanta Braves,Cincinnati Reds,5.0,0.0,5.0,True
+2020-09-30,1.38,3.15,Los Angeles Dodgers,Milwaukee Brewers,4.0,2.0,2.0,True
+2020-09-30,2.11,1.75,Cleveland Indians,New York Yankees,9.0,10.0,-1.0,False
+2020-09-30,1.59,2.41,San Diego Padres,St.Louis Cardinals,4.0,7.0,-3.0,False
+2020-09-30,1.7,2.2,Tampa Bay Rays,Toronto Blue Jays,8.0,2.0,6.0,True
+2020-09-30,1.73,2.14,Oakland Athletics,Chicago White Sox,5.0,3.0,2.0,True
+2020-09-30,1.61,2.37,Chicago Cubs,Miami Marlins,1.0,5.0,-4.0,False
+2020-09-30,1.63,2.33,Minnesota Twins,Houston Astros,1.0,3.0,-2.0,False
+2020-09-30,1.72,2.14,Atlanta Braves,Cincinnati Reds,1.0,0.0,1.0,True
+2020-09-29,2.02,1.82,Cleveland Indians,New York Yankees,3.0,12.0,-9.0,False
+2020-09-29,1.51,2.62,Tampa Bay Rays,Toronto Blue Jays,3.0,1.0,2.0,True
+2020-09-29,1.97,1.86,Oakland Athletics,Chicago White Sox,1.0,4.0,-3.0,False
+2020-09-29,1.58,2.45,Minnesota Twins,Houston Astros,1.0,4.0,-3.0,False
+2020-09-27,1.89,1.94,St.Louis Cardinals,Milwaukee Brewers,5.0,2.0,3.0,True
+2020-09-27,1.89,1.94,Arizona Diamondbacks,Colorado Rockies,11.0,3.0,8.0,True
+2020-09-27,1.65,2.28,Atlanta Braves,Boston Red Sox,1.0,9.0,-8.0,False
+2020-09-27,1.63,2.33,Chicago White Sox,Chicago Cubs,8.0,10.0,-2.0,False
+2020-09-27,1.62,2.37,Cleveland Indians,Pittsburgh Pirates,8.0,6.0,2.0,True
+2020-09-27,0.0,0.0,Los Angeles Dodgers,Los Angeles Angels,5.0,0.0,5.0,True
+2020-09-27,1.75,2.14,Minnesota Twins,Cincinnati Reds,3.0,5.0,-2.0,False
+2020-09-27,1.76,2.1,Oakland Athletics,Seattle Mariners,6.0,2.0,4.0,True
+2020-09-27,2.23,1.69,Tampa Bay Rays,Philadelphia Phillies,5.0,0.0,5.0,True
+2020-09-27,1.77,2.08,Toronto Blue Jays,Baltimore Orioles,5.0,7.0,-2.0,False
+2020-09-27,1.52,2.58,New York Yankees,Miami Marlins,0.0,5.0,-5.0,False
+2020-09-27,1.8,2.0,San Francisco Giants,San Diego Padres,4.0,5.0,-1.0,False
+2020-09-27,2.06,1.79,Texas Rangers,Houston Astros,8.0,4.0,4.0,True
+2020-09-27,2.05,1.8,Washington Nationals,New York Mets,15.0,5.0,10.0,True
+2020-09-27,1.56,2.5,Kansas City Royals,Detroit Tigers,3.0,1.0,2.0,True
+2020-09-26,2.17,1.74,San Francisco Giants,San Diego Padres,2.0,6.0,-4.0,False
+2020-09-26,1.31,3.64,Los Angeles Dodgers,Los Angeles Angels,7.0,6.0,1.0,True
+2020-09-26,1.88,1.95,Arizona Diamondbacks,Colorado Rockies,3.0,10.0,-7.0,False
+2020-09-26,1.66,2.27,Atlanta Braves,Boston Red Sox,2.0,8.0,-6.0,False
+2020-09-26,1.64,2.32,Chicago White Sox,Chicago Cubs,9.0,5.0,4.0,True
+2020-09-26,1.58,2.44,Cleveland Indians,Pittsburgh Pirates,0.0,8.0,-8.0,False
+2020-09-26,1.79,2.06,Minnesota Twins,Cincinnati Reds,7.0,3.0,4.0,True
+2020-09-26,1.72,2.19,Oakland Athletics,Seattle Mariners,3.0,12.0,-9.0,False
+2020-09-26,1.97,1.85,St.Louis Cardinals,Milwaukee Brewers,0.0,3.0,-3.0,False
+2020-09-26,1.96,1.87,Tampa Bay Rays,Philadelphia Phillies,4.0,3.0,1.0,True
+2020-09-26,1.74,2.13,Kansas City Royals,Detroit Tigers,3.0,4.0,-1.0,False
+2020-09-26,2.23,1.68,Texas Rangers,Houston Astros,6.0,1.0,5.0,True
+2020-09-26,1.81,2.03,Toronto Blue Jays,Baltimore Orioles,5.0,2.0,3.0,True
+2020-09-26,2.23,1.69,Washington Nationals,New York Mets,5.0,3.0,2.0,True
+2020-09-26,1.67,2.22,Oakland Athletics,Seattle Mariners,1.0,5.0,-4.0,False
+2020-09-26,2.31,1.65,Washington Nationals,New York Mets,4.0,3.0,1.0,True
+2020-09-26,1.39,3.09,New York Yankees,Miami Marlins,11.0,4.0,7.0,True
+2020-09-25,1.49,2.75,San Diego Padres,San Francisco Giants,6.0,5.0,1.0,True
+2020-09-25,1.69,2.19,Arizona Diamondbacks,Colorado Rockies,11.0,5.0,6.0,True
+2020-09-25,1.47,2.77,Los Angeles Dodgers,Los Angeles Angels,9.0,5.0,4.0,True
+2020-09-25,1.45,2.82,Oakland Athletics,Seattle Mariners,3.0,1.0,2.0,True
+2020-09-25,1.85,1.98,St.Louis Cardinals,Milwaukee Brewers,9.0,1.0,8.0,True
+2020-09-25,2.41,1.59,Chicago White Sox,Chicago Cubs,0.0,10.0,-10.0,False
+2020-09-25,1.64,2.31,Minnesota Twins,Cincinnati Reds,2.0,7.0,-5.0,False
+2020-09-25,1.65,2.28,Kansas City Royals,Detroit Tigers,3.0,2.0,1.0,True
+2020-09-25,2.52,1.55,Texas Rangers,Houston Astros,5.0,4.0,1.0,True
+2020-09-25,1.56,2.5,Atlanta Braves,Boston Red Sox,8.0,7.0,1.0,True
+2020-09-25,1.4,3.06,Cleveland Indians,Pittsburgh Pirates,4.0,3.0,1.0,True
+2020-09-25,2.3,1.64,San Francisco Giants,San Diego Padres,5.0,4.0,1.0,True
+2020-09-25,1.5,2.66,New York Yankees,Miami Marlins,3.0,4.0,-1.0,False
+2020-09-25,1.54,2.51,Arizona Diamondbacks,Colorado Rockies,4.0,0.0,4.0,True
+2020-09-25,1.7,2.2,Tampa Bay Rays,Philadelphia Phillies,6.0,4.0,2.0,True
+2020-09-25,1.56,2.48,Toronto Blue Jays,Baltimore Orioles,10.0,5.0,5.0,True
+2020-09-25,1.96,1.86,Milwaukee Brewers,St.Louis Cardinals,3.0,0.0,3.0,True
+2020-09-24,1.42,2.93,Los Angeles Dodgers,Oakland Athletics,5.0,1.0,4.0,True
+2020-09-24,2.18,1.72,St.Louis Cardinals,Milwaukee Brewers,4.0,2.0,2.0,True
+2020-09-24,1.61,2.38,Kansas City Royals,Detroit Tigers,8.0,7.0,1.0,True
+2020-09-24,2.12,1.76,Texas Rangers,Houston Astros,4.0,12.0,-8.0,False
+2020-09-24,1.63,2.34,Boston Red Sox,Baltimore Orioles,1.0,13.0,-12.0,False
+2020-09-24,1.58,2.45,Atlanta Braves,Miami Marlins,2.0,4.0,-2.0,False
+2020-09-24,1.96,1.87,Toronto Blue Jays,New York Yankees,4.0,1.0,3.0,True
+2020-09-24,1.75,2.12,Cleveland Indians,Chicago White Sox,5.0,4.0,1.0,True
+2020-09-24,1.79,2.07,Washington Nationals,New York Mets,2.0,3.0,-1.0,False
+2020-09-24,1.38,3.14,San Francisco Giants,Colorado Rockies,4.0,5.0,-1.0,False
+2020-09-24,2.47,1.57,Pittsburgh Pirates,Chicago Cubs,7.0,0.0,7.0,True
+2020-09-23,1.52,2.64,San Francisco Giants,Colorado Rockies,7.0,2.0,5.0,True
+2020-09-23,1.58,2.44,Los Angeles Dodgers,Oakland Athletics,4.0,6.0,-2.0,False
+2020-09-23,2.12,1.76,Kansas City Royals,St.Louis Cardinals,12.0,3.0,9.0,True
+2020-09-23,1.28,3.85,Minnesota Twins,Detroit Tigers,7.0,6.0,1.0,True
+2020-09-23,1.57,2.47,Boston Red Sox,Baltimore Orioles,9.0,1.0,8.0,True
+2020-09-23,1.59,2.43,Atlanta Braves,Miami Marlins,9.0,4.0,5.0,True
+2020-09-23,2.26,1.67,New York Mets,Tampa Bay Rays,5.0,8.0,-3.0,False
+2020-09-23,3.23,1.36,Pittsburgh Pirates,Chicago Cubs,2.0,1.0,1.0,True
+2020-09-23,1.57,2.47,Cincinnati Reds,Milwaukee Brewers,6.0,1.0,5.0,True
+2020-09-23,2.85,1.45,Seattle Mariners,Houston Astros,3.0,2.0,1.0,True
+2020-09-23,2.94,1.42,Toronto Blue Jays,New York Yankees,14.0,1.0,13.0,True
+2020-09-23,1.63,2.34,Arizona Diamondbacks,Texas Rangers,7.0,3.0,4.0,True
+2020-09-23,1.59,2.42,Cleveland Indians,Chicago White Sox,3.0,2.0,1.0,True
+2020-09-23,2.37,1.61,Washington Nationals,Philadelphia Phillies,3.0,12.0,-9.0,False
+2020-09-23,1.58,2.46,San Diego Padres,Los Angeles Angels,2.0,5.0,-3.0,False
+2020-09-22,1.61,2.39,San Francisco Giants,Colorado Rockies,5.0,2.0,3.0,True
+2020-09-22,1.54,2.56,Los Angeles Dodgers,Oakland Athletics,7.0,2.0,5.0,True
+2020-09-22,1.61,2.38,Arizona Diamondbacks,Texas Rangers,7.0,0.0,7.0,True
+2020-09-22,1.61,2.38,San Diego Padres,Los Angeles Angels,2.0,4.0,-2.0,False
+2020-09-22,2.73,1.48,Seattle Mariners,Houston Astros,1.0,6.0,-5.0,False
+2020-09-22,1.95,1.88,Kansas City Royals,St.Louis Cardinals,0.0,5.0,-5.0,False
+2020-09-22,1.52,2.59,Minnesota Twins,Detroit Tigers,5.0,4.0,1.0,True
+2020-09-22,1.87,1.97,Boston Red Sox,Baltimore Orioles,8.0,3.0,5.0,True
+2020-09-22,1.59,2.42,Atlanta Braves,Miami Marlins,11.0,1.0,10.0,True
+2020-09-22,2.18,1.72,New York Mets,Tampa Bay Rays,5.0,2.0,3.0,True
+2020-09-22,2.35,1.63,Pittsburgh Pirates,Chicago Cubs,3.0,2.0,1.0,True
+2020-09-22,1.64,2.32,Cincinnati Reds,Milwaukee Brewers,2.0,3.0,-1.0,False
+2020-09-22,3.31,1.35,Toronto Blue Jays,New York Yankees,1.0,12.0,-11.0,False
+2020-09-22,1.76,2.11,Cleveland Indians,Chicago White Sox,5.0,3.0,2.0,True
+2020-09-22,2.19,1.71,Washington Nationals,Philadelphia Phillies,8.0,7.0,1.0,True
+2020-09-22,2.71,1.47,Washington Nationals,Philadelphia Phillies,5.0,1.0,4.0,True
+2020-09-21,1.83,2.01,San Francisco Giants,Colorado Rockies,2.0,7.0,-5.0,False
+2020-09-21,2.12,1.75,Seattle Mariners,Houston Astros,6.0,1.0,5.0,True
+2020-09-21,2.65,1.51,Kansas City Royals,St.Louis Cardinals,4.0,1.0,3.0,True
+2020-09-21,1.59,2.42,Atlanta Braves,Miami Marlins,5.0,4.0,1.0,True
+2020-09-21,1.5,2.66,New York Mets,Tampa Bay Rays,1.0,2.0,-1.0,False
+2020-09-21,2.31,1.64,Pittsburgh Pirates,Chicago Cubs,0.0,5.0,-5.0,False
+2020-09-21,1.76,2.1,Cincinnati Reds,Milwaukee Brewers,6.0,3.0,3.0,True
+2020-09-21,2.3,1.65,Toronto Blue Jays,New York Yankees,11.0,5.0,6.0,True
+2020-09-21,1.87,1.97,Cleveland Indians,Chicago White Sox,7.0,4.0,3.0,True
+2020-09-21,2.39,1.61,Washington Nationals,Philadelphia Phillies,5.0,1.0,4.0,True
+2020-09-21,1.45,2.82,Los Angeles Angels,Texas Rangers,8.0,5.0,3.0,True
+2020-09-20,1.62,2.34,Chicago Cubs,Minnesota Twins,0.0,4.0,-4.0,False
+2020-09-20,1.64,2.33,Los Angeles Angels,Texas Rangers,2.0,7.0,-5.0,False
+2020-09-20,2.35,1.67,Miami Marlins,Washington Nationals,0.0,15.0,-15.0,False
+2020-09-20,1.54,2.59,Oakland Athletics,San Francisco Giants,2.0,14.0,-12.0,False
+2020-09-20,3.28,1.36,Seattle Mariners,San Diego Padres,4.0,7.0,-3.0,False
+2020-09-20,2.42,1.59,Pittsburgh Pirates,St.Louis Cardinals,1.0,2.0,-1.0,False
+2020-09-20,2.69,1.49,Colorado Rockies,Los Angeles Dodgers,6.0,3.0,3.0,True
+2020-09-20,1.97,1.88,Philadelphia Phillies,Toronto Blue Jays,3.0,6.0,-3.0,False
+2020-09-20,1.47,2.78,Houston Astros,Arizona Diamondbacks,3.0,2.0,1.0,True
+2020-09-20,1.59,2.42,Milwaukee Brewers,Kansas City Royals,5.0,3.0,2.0,True
+2020-09-20,1.77,2.1,Cincinnati Reds,Chicago White Sox,7.0,3.0,4.0,True
+2020-09-20,2.69,1.5,Detroit Tigers,Cleveland Indians,4.0,7.0,-3.0,False
+2020-09-20,2.3,1.64,Miami Marlins,Washington Nationals,2.0,1.0,1.0,True
+2020-09-20,1.79,2.07,New York Mets,Atlanta Braves,0.0,7.0,-7.0,False
+2020-09-20,2.67,1.5,Boston Red Sox,New York Yankees,10.0,2.0,8.0,True
+2020-09-20,2.32,1.65,Baltimore Orioles,Tampa Bay Rays,2.0,1.0,1.0,True
+2020-09-19,1.6,2.39,Los Angeles Angels,Texas Rangers,4.0,3.0,1.0,True
+2020-09-19,2.43,1.59,Seattle Mariners,San Diego Padres,4.0,1.0,3.0,True
+2020-09-19,2.11,1.76,Chicago Cubs,Minnesota Twins,1.0,8.0,-7.0,False
+2020-09-19,3.3,1.35,Colorado Rockies,Los Angeles Dodgers,1.0,6.0,-5.0,False
+2020-09-19,2.6,1.53,Baltimore Orioles,Tampa Bay Rays,1.0,3.0,-2.0,False
+2020-09-19,2.65,1.5,Boston Red Sox,New York Yankees,0.0,8.0,-8.0,False
+2020-09-19,1.55,2.52,Houston Astros,Arizona Diamondbacks,3.0,2.0,1.0,True
+2020-09-19,1.45,2.82,Milwaukee Brewers,Kansas City Royals,5.0,0.0,5.0,True
+2020-09-19,1.74,2.14,Cincinnati Reds,Chicago White Sox,0.0,5.0,-5.0,False
+2020-09-19,2.41,1.6,New York Mets,Atlanta Braves,7.0,2.0,5.0,True
+2020-09-19,2.43,1.59,Pittsburgh Pirates,St.Louis Cardinals,4.0,5.0,-1.0,False
+2020-09-19,2.71,1.49,Detroit Tigers,Cleveland Indians,5.0,2.0,3.0,True
+2020-09-19,1.81,2.04,Miami Marlins,Washington Nationals,7.0,3.0,4.0,True
+2020-09-19,2.23,1.68,Philadelphia Phillies,Toronto Blue Jays,3.0,1.0,2.0,True
+2020-09-19,1.61,2.4,Oakland Athletics,San Francisco Giants,6.0,0.0,6.0,True
+2020-09-18,1.58,2.45,Oakland Athletics,San Francisco Giants,6.0,0.0,6.0,True
+2020-09-18,2.64,1.51,Seattle Mariners,San Diego Padres,1.0,6.0,-5.0,False
+2020-09-18,1.49,2.72,Los Angeles Angels,Texas Rangers,6.0,2.0,4.0,True
+2020-09-18,1.81,2.04,Chicago Cubs,Minnesota Twins,1.0,0.0,1.0,True
+2020-09-18,2.79,1.46,Colorado Rockies,Los Angeles Dodgers,6.0,15.0,-9.0,False
+2020-09-18,1.54,2.56,Houston Astros,Arizona Diamondbacks,3.0,6.0,-3.0,False
+2020-09-18,0.0,0.0,Miami Marlins,Washington Nationals,14.0,3.0,11.0,True
+2020-09-18,1.62,2.35,Milwaukee Brewers,Kansas City Royals,9.0,5.0,4.0,True
+2020-09-18,2.74,1.48,Baltimore Orioles,Tampa Bay Rays,1.0,2.0,-1.0,False
+2020-09-18,2.92,1.43,Boston Red Sox,New York Yankees,5.0,6.0,-1.0,False
+2020-09-18,1.78,2.08,Cincinnati Reds,Chicago White Sox,7.0,1.0,6.0,True
+2020-09-18,2.87,1.44,Detroit Tigers,Cleveland Indians,0.0,1.0,-1.0,False
+2020-09-18,2.4,1.6,New York Mets,Atlanta Braves,2.0,15.0,-13.0,False
+2020-09-18,0.0,0.0,Philadelphia Phillies,Toronto Blue Jays,8.0,7.0,1.0,True
+2020-09-18,0.0,0.0,St.Louis Cardinals,Pittsburgh Pirates,7.0,2.0,5.0,True
+2020-09-18,0.0,0.0,Miami Marlins,Washington Nationals,0.0,5.0,-5.0,False
+2020-09-18,2.45,1.6,Pittsburgh Pirates,St.Louis Cardinals,5.0,6.0,-1.0,False
+2020-09-18,2.1,1.83,Toronto Blue Jays,Philadelphia Phillies,0.0,7.0,-7.0,False
+2020-09-17,2.4,1.6,Colorado Rockies,Los Angeles Dodgers,3.0,9.0,-6.0,False
+2020-09-17,1.57,2.6,Tampa Bay Rays,Baltimore Orioles,10.0,6.0,4.0,True
+2020-09-17,3.29,1.36,Detroit Tigers,Cleveland Indians,3.0,10.0,-7.0,False
+2020-09-17,1.37,3.23,Houston Astros,Texas Rangers,2.0,1.0,1.0,True
+2020-09-17,1.43,2.93,New York Yankees,Toronto Blue Jays,10.0,7.0,3.0,True
+2020-09-17,1.82,2.02,Philadelphia Phillies,New York Mets,6.0,10.0,-4.0,False
+2020-09-17,2.38,1.61,Pittsburgh Pirates,St.Louis Cardinals,5.0,1.0,4.0,True
+2020-09-17,2.55,1.53,Baltimore Orioles,Tampa Bay Rays,1.0,3.0,-2.0,False
+2020-09-17,1.58,2.45,Los Angeles Angels,Arizona Diamondbacks,7.0,3.0,4.0,True
+2020-09-17,2.14,1.74,Seattle Mariners,San Francisco Giants,4.0,6.0,-2.0,False
+2020-09-17,2.49,1.57,Chicago White Sox,Minnesota Twins,4.0,3.0,1.0,True
+2020-09-17,1.94,1.89,Miami Marlins,Boston Red Sox,3.0,5.0,-2.0,False
+2020-09-16,2.29,1.64,Seattle Mariners,San Francisco Giants,3.0,9.0,-6.0,False
+2020-09-16,1.46,2.79,Los Angeles Angels,Arizona Diamondbacks,6.0,9.0,-3.0,False
+2020-09-16,1.99,1.85,Chicago Cubs,Cleveland Indians,3.0,2.0,1.0,True
+2020-09-16,1.64,2.34,Chicago White Sox,Minnesota Twins,1.0,5.0,-4.0,False
+2020-09-16,1.41,3.0,Houston Astros,Texas Rangers,0.0,1.0,-1.0,False
+2020-09-16,0.0,0.0,Milwaukee Brewers,St.Louis Cardinals,6.0,0.0,6.0,True
+2020-09-16,2.58,1.54,Baltimore Orioles,Atlanta Braves,5.0,1.0,4.0,True
+2020-09-16,1.99,1.85,Detroit Tigers,Kansas City Royals,0.0,4.0,-4.0,False
+2020-09-16,1.34,3.37,New York Yankees,Toronto Blue Jays,13.0,2.0,11.0,True
+2020-09-16,2.52,1.55,Philadelphia Phillies,New York Mets,4.0,5.0,-1.0,False
+2020-09-16,1.38,3.15,Cincinnati Reds,Pittsburgh Pirates,1.0,0.0,1.0,True
+2020-09-16,1.73,2.16,Miami Marlins,Boston Red Sox,8.0,4.0,4.0,True
+2020-09-16,1.65,2.27,Milwaukee Brewers,St.Louis Cardinals,2.0,4.0,-2.0,False
+2020-09-16,1.99,1.85,San Diego Padres,Los Angeles Dodgers,5.0,7.0,-2.0,False
+2020-09-16,1.8,2.05,Colorado Rockies,Oakland Athletics,1.0,3.0,-2.0,False
+2020-09-16,1.53,2.58,Tampa Bay Rays,Washington Nationals,2.0,4.0,-2.0,False
+2020-09-15,1.67,2.26,Los Angeles Angels,Arizona Diamondbacks,8.0,9.0,-1.0,False
+2020-09-15,2.1,1.77,San Diego Padres,Los Angeles Dodgers,1.0,3.0,-2.0,False
+2020-09-15,2.18,1.71,Colorado Rockies,Oakland Athletics,3.0,1.0,2.0,True
+2020-09-15,1.62,2.37,Chicago Cubs,Cleveland Indians,6.0,5.0,1.0,True
+2020-09-15,1.77,2.09,Chicago White Sox,Minnesota Twins,6.0,2.0,4.0,True
+2020-09-15,1.47,2.79,Houston Astros,Texas Rangers,4.0,1.0,3.0,True
+2020-09-15,2.15,1.74,Milwaukee Brewers,St.Louis Cardinals,18.0,3.0,15.0,True
+2020-09-15,2.48,1.56,Baltimore Orioles,Atlanta Braves,1.0,5.0,-4.0,False
+2020-09-15,1.85,1.99,Detroit Tigers,Kansas City Royals,6.0,0.0,6.0,True
+2020-09-15,1.6,2.4,New York Yankees,Toronto Blue Jays,20.0,6.0,14.0,True
+2020-09-15,2.09,1.77,Philadelphia Phillies,New York Mets,4.0,1.0,3.0,True
+2020-09-15,1.72,2.16,Cincinnati Reds,Pittsburgh Pirates,4.0,1.0,3.0,True
+2020-09-15,1.61,2.38,Miami Marlins,Boston Red Sox,0.0,2.0,-2.0,False
+2020-09-15,1.55,2.55,Tampa Bay Rays,Washington Nationals,6.0,1.0,5.0,True
+2020-09-14,2.21,1.69,San Diego Padres,Los Angeles Dodgers,7.0,2.0,5.0,True
+2020-09-14,2.22,1.69,Chicago White Sox,Minnesota Twins,3.0,1.0,2.0,True
+2020-09-14,1.46,2.8,Milwaukee Brewers,St.Louis Cardinals,2.0,3.0,-1.0,False
+2020-09-14,2.38,1.6,Seattle Mariners,Oakland Athletics,0.0,9.0,-9.0,False
+2020-09-14,2.44,1.58,Baltimore Orioles,Atlanta Braves,14.0,1.0,13.0,True
+2020-09-14,1.63,2.36,Cincinnati Reds,Pittsburgh Pirates,9.0,4.0,5.0,True
+2020-09-14,1.85,1.96,Milwaukee Brewers,St.Louis Cardinals,2.0,1.0,1.0,True
+2020-09-14,2.32,1.62,Seattle Mariners,Oakland Athletics,6.0,5.0,1.0,True
+2020-09-14,1.36,3.21,Cincinnati Reds,Pittsburgh Pirates,3.0,1.0,2.0,True
+2020-09-14,1.8,2.05,Miami Marlins,Philadelphia Phillies,6.0,2.0,4.0,True
+2020-09-13,1.72,2.17,Los Angeles Dodgers,Houston Astros,8.0,1.0,7.0,True
+2020-09-13,0.0,0.0,San Diego Padres,San Francisco Giants,3.0,1.0,2.0,True
+2020-09-13,1.63,2.34,Arizona Diamondbacks,Seattle Mariners,3.0,7.0,-4.0,False
+2020-09-13,1.58,2.43,San Diego Padres,San Francisco Giants,6.0,0.0,6.0,True
+2020-09-13,2.4,1.6,Colorado Rockies,Los Angeles Angels,3.0,5.0,-2.0,False
+2020-09-13,1.62,2.36,Toronto Blue Jays,New York Mets,7.0,3.0,4.0,True
+2020-09-13,2.26,1.67,Texas Rangers,Oakland Athletics,6.0,3.0,3.0,True
+2020-09-13,1.91,1.93,St.Louis Cardinals,Cincinnati Reds,5.0,10.0,-5.0,False
+2020-09-13,1.56,2.52,Chicago White Sox,Detroit Tigers,5.0,2.0,3.0,True
+2020-09-13,1.79,2.05,Milwaukee Brewers,Chicago Cubs,0.0,12.0,-12.0,False
+2020-09-13,1.71,2.18,Minnesota Twins,Cleveland Indians,7.0,5.0,2.0,True
+2020-09-13,1.69,2.21,Kansas City Royals,Pittsburgh Pirates,11.0,0.0,11.0,True
+2020-09-13,1.57,2.55,Miami Marlins,Philadelphia Phillies,2.0,1.0,1.0,True
+2020-09-13,1.49,2.71,Tampa Bay Rays,Boston Red Sox,3.0,6.0,-3.0,False
+2020-09-13,1.56,2.49,New York Yankees,Baltimore Orioles,3.0,1.0,2.0,True
+2020-09-13,1.57,2.47,Washington Nationals,Atlanta Braves,4.0,8.0,-4.0,False
+2020-09-12,1.73,2.15,St.Louis Cardinals,Cincinnati Reds,7.0,1.0,6.0,True
+2020-09-12,1.61,2.37,Arizona Diamondbacks,Seattle Mariners,3.0,7.0,-4.0,False
+2020-09-12,1.7,2.2,Colorado Rockies,Los Angeles Angels,2.0,5.0,-3.0,False
+2020-09-12,1.63,2.33,Los Angeles Dodgers,Houston Astros,5.0,7.0,-2.0,False
+2020-09-12,1.92,1.9,Minnesota Twins,Cleveland Indians,8.0,4.0,4.0,True
+2020-09-12,2.8,1.45,Texas Rangers,Oakland Athletics,1.0,10.0,-9.0,False
+2020-09-12,1.5,2.67,Chicago White Sox,Detroit Tigers,14.0,0.0,14.0,True
+2020-09-12,1.93,1.9,Milwaukee Brewers,Chicago Cubs,2.0,4.0,-2.0,False
+2020-09-12,1.83,2.01,Kansas City Royals,Pittsburgh Pirates,7.0,4.0,3.0,True
+2020-09-12,1.44,2.85,Tampa Bay Rays,Boston Red Sox,5.0,4.0,1.0,True
+2020-09-12,2.5,1.56,Toronto Blue Jays,New York Mets,3.0,2.0,1.0,True
+2020-09-12,2.0,1.84,Miami Marlins,Philadelphia Phillies,6.0,12.0,-6.0,False
+2020-09-12,2.28,1.66,Washington Nationals,Atlanta Braves,1.0,2.0,-1.0,False
+2020-09-12,2.67,1.49,Texas Rangers,Oakland Athletics,5.0,2.0,3.0,True
+2020-09-12,1.52,2.62,New York Yankees,Baltimore Orioles,2.0,1.0,1.0,True
+2020-09-11,1.93,1.93,Arizona Diamondbacks,Seattle Mariners,4.0,3.0,1.0,True
+2020-09-11,1.73,2.15,Colorado Rockies,Los Angeles Angels,8.0,4.0,4.0,True
+2020-09-11,2.0,1.83,Miami Marlins,Philadelphia Phillies,5.0,3.0,2.0,True
+2020-09-11,1.97,1.87,St.Louis Cardinals,Cincinnati Reds,1.0,3.0,-2.0,False
+2020-09-11,1.35,3.29,Chicago White Sox,Detroit Tigers,4.0,3.0,1.0,True
+2020-09-11,1.57,2.48,Milwaukee Brewers,Chicago Cubs,1.0,0.0,1.0,True
+2020-09-11,2.01,1.84,Minnesota Twins,Cleveland Indians,3.0,1.0,2.0,True
+2020-09-11,1.7,2.21,Kansas City Royals,Pittsburgh Pirates,4.0,3.0,1.0,True
+2020-09-11,2.6,1.52,Texas Rangers,Oakland Athletics,6.0,10.0,-4.0,False
+2020-09-11,1.47,2.76,New York Yankees,Baltimore Orioles,10.0,1.0,9.0,True
+2020-09-11,1.36,3.27,Tampa Bay Rays,Boston Red Sox,11.0,1.0,10.0,True
+2020-09-11,2.93,1.43,Toronto Blue Jays,New York Mets,1.0,18.0,-17.0,False
+2020-09-11,2.38,1.61,Washington Nationals,Atlanta Braves,8.0,7.0,1.0,True
+2020-09-11,2.32,1.61,Miami Marlins,Philadelphia Phillies,0.0,11.0,-11.0,False
+2020-09-11,1.39,3.1,New York Yankees,Baltimore Orioles,6.0,0.0,6.0,True
+2020-09-10,3.02,1.41,Arizona Diamondbacks,Los Angeles Dodgers,5.0,2.0,3.0,True
+2020-09-10,1.51,2.64,San Diego Padres,San Francisco Giants,6.0,1.0,5.0,True
+2020-09-10,2.07,1.78,Chicago Cubs,Cincinnati Reds,8.0,5.0,3.0,True
+2020-09-10,1.9,1.93,Miami Marlins,Philadelphia Phillies,7.0,6.0,1.0,True
+2020-09-10,1.49,2.72,Tampa Bay Rays,Boston Red Sox,3.0,4.0,-1.0,False
+2020-09-10,1.42,2.96,Cleveland Indians,Kansas City Royals,1.0,11.0,-10.0,False
+2020-09-10,2.3,1.65,Washington Nationals,Atlanta Braves,6.0,7.0,-1.0,False
+2020-09-10,1.52,2.57,St.Louis Cardinals,Detroit Tigers,3.0,6.0,-3.0,False
+2020-09-10,2.45,1.58,Texas Rangers,Los Angeles Angels,2.0,6.0,-4.0,False
+2020-09-10,1.66,2.28,Oakland Athletics,Houston Astros,3.0,1.0,2.0,True
+2020-09-10,1.43,2.91,St.Louis Cardinals,Detroit Tigers,12.0,2.0,10.0,True
+2020-09-09,1.71,2.19,San Francisco Giants,Seattle Mariners,10.0,1.0,9.0,True
+2020-09-09,3.54,1.31,Arizona Diamondbacks,Los Angeles Dodgers,4.0,6.0,-2.0,False
+2020-09-09,1.53,2.6,Oakland Athletics,Houston Astros,3.0,2.0,1.0,True
+2020-09-09,1.65,2.3,Chicago Cubs,Cincinnati Reds,0.0,3.0,-3.0,False
+2020-09-09,1.54,2.56,San Diego Padres,Colorado Rockies,5.0,3.0,2.0,True
+2020-09-09,1.99,1.85,Texas Rangers,Los Angeles Angels,7.0,3.0,4.0,True
+2020-09-09,1.69,2.21,Atlanta Braves,Miami Marlins,29.0,9.0,20.0,True
+2020-09-09,1.51,2.64,New York Mets,Baltimore Orioles,7.0,6.0,1.0,True
+2020-09-09,2.37,1.62,Pittsburgh Pirates,Chicago White Sox,1.0,8.0,-7.0,False
+2020-09-09,2.27,1.66,Toronto Blue Jays,New York Yankees,2.0,7.0,-5.0,False
+2020-09-09,1.44,2.86,Cleveland Indians,Kansas City Royals,0.0,3.0,-3.0,False
+2020-09-09,2.35,1.63,Detroit Tigers,Milwaukee Brewers,0.0,19.0,-19.0,False
+2020-09-08,1.6,2.4,San Francisco Giants,Seattle Mariners,6.0,5.0,1.0,True
+2020-09-08,3.06,1.4,Arizona Diamondbacks,Los Angeles Dodgers,9.0,10.0,-1.0,False
+2020-09-08,1.4,3.04,San Diego Padres,Colorado Rockies,14.0,5.0,9.0,True
+2020-09-08,1.94,1.9,Chicago Cubs,Cincinnati Reds,3.0,0.0,3.0,True
+2020-09-08,2.13,1.75,Texas Rangers,Los Angeles Angels,7.0,1.0,6.0,True
+2020-09-08,1.54,2.6,Philadelphia Phillies,Boston Red Sox,2.0,5.0,-3.0,False
+2020-09-08,1.82,2.02,Atlanta Braves,Miami Marlins,0.0,8.0,-8.0,False
+2020-09-08,2.31,1.65,Detroit Tigers,Milwaukee Brewers,8.0,3.0,5.0,True
+2020-09-08,1.54,2.55,New York Mets,Baltimore Orioles,2.0,11.0,-9.0,False
+2020-09-08,2.17,1.71,Pittsburgh Pirates,Chicago White Sox,5.0,4.0,1.0,True
+2020-09-08,1.91,1.93,Toronto Blue Jays,New York Yankees,2.0,1.0,1.0,True
+2020-09-08,2.2,1.7,St.Louis Cardinals,Minnesota Twins,6.0,4.0,2.0,True
+2020-09-08,1.45,2.81,Cleveland Indians,Kansas City Royals,6.0,8.0,-2.0,False
+2020-09-08,1.77,2.11,Houston Astros,Oakland Athletics,2.0,4.0,-2.0,False
+2020-09-08,2.28,1.66,Washington Nationals,Tampa Bay Rays,5.0,3.0,2.0,True
+2020-09-08,1.5,2.66,Philadelphia Phillies,Boston Red Sox,6.0,5.0,1.0,True
+2020-09-08,2.14,1.73,St.Louis Cardinals,Minnesota Twins,3.0,7.0,-4.0,False
+2020-09-07,1.72,2.17,Oakland Athletics,Houston Astros,6.0,0.0,6.0,True
+2020-09-07,1.49,2.67,San Diego Padres,Colorado Rockies,1.0,0.0,1.0,True
+2020-09-07,1.84,2.01,San Francisco Giants,Arizona Diamondbacks,4.0,2.0,2.0,True
+2020-09-07,1.77,2.1,Toronto Blue Jays,New York Yankees,12.0,7.0,5.0,True
+2020-09-07,1.45,2.83,Cleveland Indians,Kansas City Royals,5.0,2.0,3.0,True
+2020-09-07,1.87,1.95,Washington Nationals,Tampa Bay Rays,6.0,1.0,5.0,True
+2020-09-07,1.54,2.55,Chicago Cubs,St.Louis Cardinals,5.0,1.0,4.0,True
+2020-09-07,1.65,2.29,Seattle Mariners,Texas Rangers,8.0,4.0,4.0,True
+2020-09-07,1.47,2.76,Minnesota Twins,Detroit Tigers,6.0,2.0,4.0,True
+2020-09-07,1.43,2.93,Atlanta Braves,Miami Marlins,4.0,5.0,-1.0,False
+2020-09-07,2.06,1.79,New York Mets,Philadelphia Phillies,8.0,9.0,-1.0,False
+2020-09-06,1.34,3.39,Los Angeles Dodgers,Colorado Rockies,6.0,7.0,-1.0,False
+2020-09-06,1.89,1.94,Chicago Cubs,St.Louis Cardinals,3.0,7.0,-4.0,False
+2020-09-06,2.53,1.55,Los Angeles Angels,Houston Astros,9.0,5.0,4.0,True
+2020-09-06,1.91,1.93,Oakland Athletics,San Diego Padres,3.0,5.0,-2.0,False
+2020-09-06,1.72,2.16,Seattle Mariners,Texas Rangers,4.0,3.0,1.0,True
+2020-09-06,1.64,2.32,San Francisco Giants,Arizona Diamondbacks,4.0,2.0,2.0,True
+2020-09-06,1.5,2.65,Minnesota Twins,Detroit Tigers,8.0,10.0,-2.0,False
+2020-09-06,2.85,1.44,Kansas City Royals,Chicago White Sox,2.0,8.0,-6.0,False
+2020-09-06,2.06,1.8,Boston Red Sox,Toronto Blue Jays,8.0,10.0,-2.0,False
+2020-09-06,2.37,1.61,Pittsburgh Pirates,Cincinnati Reds,3.0,2.0,1.0,True
+2020-09-06,1.67,2.26,Atlanta Braves,Washington Nationals,10.0,3.0,7.0,True
+2020-09-06,1.37,3.19,Cleveland Indians,Milwaukee Brewers,4.0,1.0,3.0,True
+2020-09-06,1.62,2.37,New York Mets,Philadelphia Phillies,14.0,1.0,13.0,True
+2020-09-06,1.44,2.89,Tampa Bay Rays,Miami Marlins,5.0,4.0,1.0,True
+2020-09-06,2.75,1.47,Baltimore Orioles,New York Yankees,5.0,1.0,4.0,True
+2020-09-05,1.75,2.1,Houston Astros,Los Angeles Angels,6.0,7.0,-1.0,False
+2020-09-05,1.72,2.18,San Francisco Giants,Arizona Diamondbacks,4.0,3.0,1.0,True
+2020-09-05,1.51,2.63,Los Angeles Dodgers,Colorado Rockies,2.0,5.0,-3.0,False
+2020-09-05,1.66,2.26,Seattle Mariners,Texas Rangers,5.0,3.0,2.0,True
+2020-09-05,1.95,1.81,St.Louis Cardinals,Chicago Cubs,5.0,1.0,4.0,True
+2020-09-05,3.09,1.4,Baltimore Orioles,New York Yankees,6.0,1.0,5.0,True
+2020-09-05,2.14,1.74,Boston Red Sox,Toronto Blue Jays,9.0,8.0,1.0,True
+2020-09-05,1.33,3.44,Atlanta Braves,Washington Nationals,4.0,10.0,-6.0,False
+2020-09-05,1.86,1.98,Cleveland Indians,Milwaukee Brewers,4.0,3.0,1.0,True
+2020-09-05,1.31,3.59,Minnesota Twins,Detroit Tigers,4.0,3.0,1.0,True
+2020-09-05,1.63,2.37,New York Mets,Philadelphia Phillies,5.0,1.0,4.0,True
+2020-09-05,1.88,1.94,Los Angeles Angels,Houston Astros,10.0,9.0,1.0,True
+2020-09-05,2.94,1.43,Kansas City Royals,Chicago White Sox,3.0,5.0,-2.0,False
+2020-09-05,2.09,1.77,Pittsburgh Pirates,Cincinnati Reds,2.0,6.0,-4.0,False
+2020-09-05,1.41,2.99,Tampa Bay Rays,Miami Marlins,3.0,7.0,-4.0,False
+2020-09-05,1.84,1.97,Chicago Cubs,St.Louis Cardinals,2.0,4.0,-2.0,False
+2020-09-05,1.81,2.02,Oakland Athletics,San Diego Padres,8.0,4.0,4.0,True
+2020-09-04,1.68,2.23,San Francisco Giants,Arizona Diamondbacks,5.0,6.0,-1.0,False
+2020-09-04,1.4,3.05,Los Angeles Dodgers,Colorado Rockies,10.0,6.0,4.0,True
+2020-09-04,1.66,2.28,Oakland Athletics,San Diego Padres,0.0,7.0,-7.0,False
+2020-09-04,1.97,1.87,Los Angeles Angels,Houston Astros,6.0,5.0,1.0,True
+2020-09-04,1.77,2.11,Seattle Mariners,Texas Rangers,6.0,3.0,3.0,True
+2020-09-04,1.68,2.24,Chicago Cubs,St.Louis Cardinals,4.0,1.0,3.0,True
+2020-09-04,2.49,1.59,Baltimore Orioles,New York Yankees,6.0,3.0,3.0,True
+2020-09-04,2.41,1.6,Kansas City Royals,Chicago White Sox,4.0,7.0,-3.0,False
+2020-09-04,1.55,2.49,Atlanta Braves,Washington Nationals,9.0,10.0,-1.0,False
+2020-09-04,1.67,2.25,Cleveland Indians,Milwaukee Brewers,1.0,7.0,-6.0,False
+2020-09-04,1.7,2.2,New York Mets,Philadelphia Phillies,3.0,5.0,-2.0,False
+2020-09-04,1.74,2.11,Toronto Blue Jays,Boston Red Sox,2.0,3.0,-1.0,False
+2020-09-04,1.45,2.8,Cincinnati Reds,Pittsburgh Pirates,3.0,4.0,-1.0,False
+2020-09-04,1.73,2.15,Tampa Bay Rays,Miami Marlins,5.0,4.0,1.0,True
+2020-09-04,2.29,1.65,Baltimore Orioles,New York Yankees,5.0,6.0,-1.0,False
+2020-09-04,2.34,1.61,Detroit Tigers,Minnesota Twins,2.0,3.0,-1.0,False
+2020-09-04,1.56,2.48,Atlanta Braves,Washington Nationals,7.0,1.0,6.0,True
+2020-09-04,2.0,1.83,Boston Red Sox,Toronto Blue Jays,7.0,8.0,-1.0,False
+2020-09-04,2.57,1.52,Pittsburgh Pirates,Cincinnati Reds,2.0,4.0,-2.0,False
+2020-09-04,1.56,2.48,Minnesota Twins,Detroit Tigers,2.0,0.0,2.0,True
+2020-09-03,1.31,3.56,Los Angeles Dodgers,Arizona Diamondbacks,5.0,1.0,4.0,True
+2020-09-03,2.21,1.7,Kansas City Royals,Chicago White Sox,6.0,11.0,-5.0,False
+2020-09-03,2.06,1.8,Boston Red Sox,Toronto Blue Jays,2.0,6.0,-4.0,False
+2020-09-03,2.24,1.68,Los Angeles Angels,San Diego Padres,2.0,0.0,2.0,True
+2020-09-03,1.87,1.97,New York Mets,New York Yankees,9.0,7.0,2.0,True
+2020-09-03,1.55,2.52,Philadelphia Phillies,Washington Nationals,6.0,5.0,1.0,True
+2020-09-03,1.6,2.41,Houston Astros,Texas Rangers,8.0,4.0,4.0,True
+2020-09-03,2.41,1.59,Pittsburgh Pirates,Chicago Cubs,6.0,2.0,4.0,True
+2020-09-02,2.72,1.48,Los Angeles Angels,San Diego Padres,4.0,11.0,-7.0,False
+2020-09-02,1.48,2.74,Los Angeles Dodgers,Arizona Diamondbacks,3.0,2.0,1.0,True
+2020-09-02,1.52,2.67,Houston Astros,Texas Rangers,2.0,1.0,1.0,True
+2020-09-02,1.57,2.47,Minnesota Twins,Chicago White Sox,8.0,1.0,7.0,True
+2020-09-02,2.4,1.6,Kansas City Royals,Cleveland Indians,0.0,5.0,-5.0,False
+2020-09-02,1.56,2.48,Milwaukee Brewers,Detroit Tigers,8.0,5.0,3.0,True
+2020-09-02,2.28,1.66,Boston Red Sox,Atlanta Braves,5.0,7.0,-2.0,False
+2020-09-02,1.77,2.09,New York Yankees,Tampa Bay Rays,2.0,5.0,-3.0,False
+2020-09-02,2.02,1.82,Philadelphia Phillies,Washington Nationals,3.0,0.0,3.0,True
+2020-09-02,2.52,1.56,Pittsburgh Pirates,Chicago Cubs,2.0,8.0,-6.0,False
+2020-09-02,1.65,2.3,Cincinnati Reds,St.Louis Cardinals,4.0,3.0,1.0,True
+2020-09-02,1.97,1.87,Miami Marlins,Toronto Blue Jays,1.0,2.0,-1.0,False
+2020-09-02,2.3,1.65,Baltimore Orioles,New York Mets,4.0,9.0,-5.0,False
+2020-09-02,1.78,2.08,Colorado Rockies,San Francisco Giants,9.0,6.0,3.0,True
+2020-09-01,1.45,2.87,Los Angeles Dodgers,Arizona Diamondbacks,6.0,3.0,3.0,True
+2020-09-01,1.97,1.9,Colorado Rockies,San Francisco Giants,5.0,23.0,-18.0,False
+2020-09-01,1.37,3.24,Houston Astros,Texas Rangers,5.0,6.0,-1.0,False
+2020-09-01,1.93,1.91,Minnesota Twins,Chicago White Sox,3.0,2.0,1.0,True
+2020-09-01,2.67,1.51,Kansas City Royals,Cleveland Indians,1.0,10.0,-9.0,False
+2020-09-01,1.52,2.63,Milwaukee Brewers,Detroit Tigers,1.0,12.0,-11.0,False
+2020-09-01,2.21,1.72,Baltimore Orioles,New York Mets,9.0,5.0,4.0,True
+2020-09-01,2.52,1.57,Boston Red Sox,Atlanta Braves,3.0,10.0,-7.0,False
+2020-09-01,1.65,2.34,New York Yankees,Tampa Bay Rays,5.0,3.0,2.0,True
+2020-09-01,2.47,1.58,Pittsburgh Pirates,Chicago Cubs,7.0,8.0,-1.0,False
+2020-09-01,1.64,2.34,Philadelphia Phillies,Washington Nationals,6.0,0.0,6.0,True
+2020-09-01,1.6,2.44,Cincinnati Reds,St.Louis Cardinals,2.0,16.0,-14.0,False
+2020-09-01,1.81,2.08,Miami Marlins,Toronto Blue Jays,3.0,2.0,1.0,True
+2020-08-31,1.84,2.02,Colorado Rockies,San Diego Padres,0.0,6.0,-6.0,False
+2020-08-31,2.0,1.85,Minnesota Twins,Chicago White Sox,5.0,8.0,-3.0,False
+2020-08-31,3.03,1.41,Kansas City Royals,Cleveland Indians,2.0,1.0,1.0,True
+2020-08-31,1.47,2.79,Milwaukee Brewers,Pittsburgh Pirates,6.0,5.0,1.0,True
+2020-08-31,2.73,1.49,Boston Red Sox,Atlanta Braves,3.0,6.0,-3.0,False
+2020-08-31,1.66,2.3,New York Yankees,Tampa Bay Rays,3.0,5.0,-2.0,False
+2020-08-31,1.66,2.3,Philadelphia Phillies,Washington Nationals,8.0,6.0,2.0,True
+2020-08-31,1.89,1.95,Cincinnati Reds,St.Louis Cardinals,5.0,7.0,-2.0,False
+2020-08-31,1.67,2.29,Los Angeles Angels,Seattle Mariners,1.0,2.0,-1.0,False
+2020-08-31,1.57,2.48,Toronto Blue Jays,Baltimore Orioles,3.0,4.0,-1.0,False
+2020-08-31,1.34,3.44,New York Mets,Miami Marlins,3.0,5.0,-2.0,False
+2020-08-30,1.99,1.86,Philadelphia Phillies,Atlanta Braves,10.0,12.0,-2.0,False
+2020-08-30,1.77,2.11,Arizona Diamondbacks,San Francisco Giants,1.0,4.0,-3.0,False
+2020-08-30,1.5,2.7,Los Angeles Angels,Seattle Mariners,1.0,2.0,-1.0,False
+2020-08-30,1.67,2.31,New York Mets,New York Yankees,2.0,5.0,-3.0,False
+2020-08-30,2.48,1.58,Colorado Rockies,San Diego Padres,2.0,13.0,-11.0,False
+2020-08-30,1.64,2.35,Toronto Blue Jays,Baltimore Orioles,6.0,5.0,1.0,True
+2020-08-30,2.92,1.44,Texas Rangers,Los Angeles Dodgers,2.0,7.0,-5.0,False
+2020-08-30,2.05,1.82,St.Louis Cardinals,Cleveland Indians,7.0,2.0,5.0,True
+2020-08-30,1.55,2.55,Chicago White Sox,Kansas City Royals,5.0,2.0,3.0,True
+2020-08-30,1.36,3.3,Milwaukee Brewers,Pittsburgh Pirates,1.0,5.0,-4.0,False
+2020-08-30,1.88,1.98,Boston Red Sox,Washington Nationals,9.0,5.0,4.0,True
+2020-08-30,1.59,2.45,Cincinnati Reds,Chicago Cubs,1.0,10.0,-9.0,False
+2020-08-30,2.93,1.43,Detroit Tigers,Minnesota Twins,3.0,2.0,1.0,True
+2020-08-30,2.55,1.55,Miami Marlins,Tampa Bay Rays,7.0,12.0,-5.0,False
+2020-08-30,1.93,1.89,New York Yankees,New York Mets,8.0,7.0,1.0,True
+2020-08-29,1.51,2.67,Los Angeles Angels,Seattle Mariners,16.0,3.0,13.0,True
+2020-08-29,1.63,2.36,Arizona Diamondbacks,San Francisco Giants,2.0,5.0,-3.0,False
+2020-08-29,2.01,1.85,Colorado Rockies,San Diego Padres,4.0,3.0,1.0,True
+2020-08-29,2.03,1.83,Boston Red Sox,Washington Nationals,5.0,3.0,2.0,True
+2020-08-29,1.84,1.98,Cincinnati Reds,Chicago Cubs,6.0,5.0,1.0,True
+2020-08-29,1.75,2.08,Houston Astros,Oakland Athletics,6.0,3.0,3.0,True
+2020-08-29,1.5,2.7,Milwaukee Brewers,Pittsburgh Pirates,7.0,6.0,1.0,True
+2020-08-29,2.31,1.65,Texas Rangers,Los Angeles Dodgers,4.0,7.0,-3.0,False
+2020-08-29,1.64,2.34,Toronto Blue Jays,Baltimore Orioles,5.0,0.0,5.0,True
+2020-08-29,1.85,2.0,Miami Marlins,Tampa Bay Rays,0.0,4.0,-4.0,False
+2020-08-29,1.93,1.91,Cincinnati Reds,Chicago Cubs,0.0,3.0,-3.0,False
+2020-08-29,2.45,1.56,Detroit Tigers,Minnesota Twins,4.0,2.0,2.0,True
+2020-08-29,1.89,1.94,Houston Astros,Oakland Athletics,4.0,2.0,2.0,True
+2020-08-29,1.6,2.45,Chicago White Sox,Kansas City Royals,6.0,9.0,-3.0,False
+2020-08-29,1.76,2.13,Philadelphia Phillies,Atlanta Braves,4.0,1.0,3.0,True
+2020-08-29,1.72,2.22,St.Louis Cardinals,Cleveland Indians,1.0,2.0,-1.0,False
+2020-08-29,0.0,0.0,Detroit Tigers,Minnesota Twins,8.0,2.0,6.0,True
+2020-08-29,1.93,1.98,New York Yankees,New York Mets,2.0,1.0,1.0,True
+2020-08-28,1.52,2.65,Arizona Diamondbacks,San Francisco Giants,7.0,4.0,3.0,True
+2020-08-28,1.48,2.76,Los Angeles Angels,Seattle Mariners,3.0,2.0,1.0,True
+2020-08-28,1.91,1.93,Colorado Rockies,San Diego Padres,4.0,10.0,-6.0,False
+2020-08-28,2.18,1.73,St.Louis Cardinals,Cleveland Indians,2.0,14.0,-12.0,False
+2020-08-28,1.47,2.78,Milwaukee Brewers,Pittsburgh Pirates,9.0,1.0,8.0,True
+2020-08-28,2.98,1.42,Texas Rangers,Los Angeles Dodgers,6.0,2.0,4.0,True
+2020-08-28,2.22,1.77,New York Mets,New York Yankees,4.0,3.0,1.0,True
+2020-08-28,2.4,1.61,Boston Red Sox,Washington Nationals,2.0,10.0,-8.0,False
+2020-08-28,1.67,2.28,Chicago White Sox,Kansas City Royals,6.0,5.0,1.0,True
+2020-08-28,2.21,1.71,Cincinnati Reds,Chicago Cubs,6.0,5.0,1.0,True
+2020-08-28,2.16,1.76,Miami Marlins,Tampa Bay Rays,0.0,2.0,-2.0,False
+2020-08-28,1.68,2.24,Philadelphia Phillies,Atlanta Braves,7.0,4.0,3.0,True
+2020-08-28,1.41,3.05,Toronto Blue Jays,Baltimore Orioles,5.0,4.0,1.0,True
+2020-08-28,1.74,2.13,New York Yankees,New York Mets,4.0,6.0,-2.0,False
+2020-08-27,1.63,2.42,Milwaukee Brewers,Cincinnati Reds,0.0,6.0,-6.0,False
+2020-08-27,2.4,1.5,San Francisco Giants,Los Angeles Dodgers,0.0,2.0,-2.0,False
+2020-08-27,1.6,2.37,St.Louis Cardinals,Pittsburgh Pirates,0.0,2.0,-2.0,False
+2020-08-27,1.47,2.6,San Diego Padres,Seattle Mariners,3.0,8.0,-5.0,False
+2020-08-27,1.96,1.93,Milwaukee Brewers,Cincinnati Reds,1.0,6.0,-5.0,False
+2020-08-27,2.99,1.42,San Francisco Giants,Los Angeles Dodgers,0.0,7.0,-7.0,False
+2020-08-27,1.61,2.39,St.Louis Cardinals,Pittsburgh Pirates,3.0,4.0,-1.0,False
+2020-08-27,1.42,3.0,San Diego Padres,Seattle Mariners,10.0,7.0,3.0,True
+2020-08-26,1.74,2.16,Arizona Diamondbacks,Colorado Rockies,7.0,8.0,-1.0,False
+2020-08-26,1.56,2.5,St.Louis Cardinals,Kansas City Royals,6.0,5.0,1.0,True
+2020-08-26,2.2,1.71,Texas Rangers,Oakland Athletics,1.0,3.0,-2.0,False
+2020-08-26,1.71,2.21,Atlanta Braves,New York Yankees,2.0,1.0,1.0,True
+2020-08-26,1.95,1.9,Cleveland Indians,Minnesota Twins,6.0,3.0,3.0,True
+2020-08-26,2.22,1.7,Detroit Tigers,Chicago Cubs,7.0,6.0,1.0,True
+2020-08-26,1.35,3.33,New York Mets,Miami Marlins,5.0,4.0,1.0,True
+2020-08-26,1.57,2.48,Tampa Bay Rays,Baltimore Orioles,4.0,3.0,1.0,True
+2020-08-26,1.82,2.04,Toronto Blue Jays,Boston Red Sox,9.0,1.0,8.0,True
+2020-08-26,2.03,1.83,Washington Nationals,Philadelphia Phillies,2.0,3.0,-1.0,False
+2020-08-26,2.51,1.57,Atlanta Braves,New York Yankees,5.0,1.0,4.0,True
+2020-08-26,1.45,2.89,Chicago White Sox,Pittsburgh Pirates,10.0,3.0,7.0,True
+2020-08-25,2.8,1.46,San Francisco Giants,Los Angeles Dodgers,10.0,8.0,2.0,True
+2020-08-25,1.94,1.91,Arizona Diamondbacks,Colorado Rockies,4.0,5.0,-1.0,False
+2020-08-25,1.47,2.79,San Diego Padres,Seattle Mariners,3.0,8.0,-5.0,False
+2020-08-25,1.48,2.77,St.Louis Cardinals,Kansas City Royals,4.0,5.0,-1.0,False
+2020-08-25,1.38,3.17,Chicago White Sox,Pittsburgh Pirates,4.0,0.0,4.0,True
+2020-08-25,2.61,1.51,Miami Marlins,New York Mets,3.0,0.0,3.0,True
+2020-08-25,1.86,1.99,Milwaukee Brewers,Cincinnati Reds,3.0,2.0,1.0,True
+2020-08-25,2.42,1.6,Texas Rangers,Oakland Athletics,3.0,10.0,-7.0,False
+2020-08-25,1.57,2.5,Cleveland Indians,Minnesota Twins,4.0,2.0,2.0,True
+2020-08-25,2.18,1.72,Detroit Tigers,Chicago Cubs,7.0,1.0,6.0,True
+2020-08-25,1.69,2.26,Houston Astros,Los Angeles Angels,5.0,12.0,-7.0,False
+2020-08-25,1.45,2.85,Tampa Bay Rays,Baltimore Orioles,4.0,2.0,2.0,True
+2020-08-25,1.78,2.09,Toronto Blue Jays,Boston Red Sox,7.0,9.0,-2.0,False
+2020-08-25,2.08,1.79,Washington Nationals,Philadelphia Phillies,3.0,8.0,-5.0,False
+2020-08-25,1.5,2.67,New York Mets,Miami Marlins,0.0,4.0,-4.0,False
+2020-08-25,1.65,2.29,Houston Astros,Los Angeles Angels,6.0,3.0,3.0,True
+2020-08-24,1.62,2.39,Arizona Diamondbacks,Colorado Rockies,2.0,3.0,-1.0,False
+2020-08-24,1.63,2.37,Houston Astros,Los Angeles Angels,11.0,4.0,7.0,True
+2020-08-24,1.56,2.52,St.Louis Cardinals,Kansas City Royals,9.0,3.0,6.0,True
+2020-08-24,2.3,1.66,Milwaukee Brewers,Cincinnati Reds,4.0,2.0,2.0,True
+2020-08-24,2.27,1.67,Texas Rangers,Oakland Athletics,3.0,2.0,1.0,True
+2020-08-24,2.13,1.76,Cleveland Indians,Minnesota Twins,2.0,3.0,-1.0,False
+2020-08-24,2.1,1.78,Detroit Tigers,Chicago Cubs,3.0,9.0,-6.0,False
+2020-08-24,1.84,2.01,Washington Nationals,Miami Marlins,8.0,11.0,-3.0,False
+2020-08-24,1.45,2.86,Tampa Bay Rays,Toronto Blue Jays,4.0,6.0,-2.0,False
+2020-08-23,1.9,1.95,Atlanta Braves,Philadelphia Phillies,4.0,5.0,-1.0,False
+2020-08-23,1.39,3.11,Los Angeles Dodgers,Colorado Rockies,11.0,3.0,8.0,True
+2020-08-23,1.69,2.24,Oakland Athletics,Los Angeles Angels,5.0,4.0,1.0,True
+2020-08-23,2.05,1.82,San Diego Padres,Houston Astros,5.0,3.0,2.0,True
+2020-08-23,2.07,1.8,San Francisco Giants,Arizona Diamondbacks,6.0,1.0,5.0,True
+2020-08-23,2.16,1.74,Seattle Mariners,Texas Rangers,4.0,1.0,3.0,True
+2020-08-23,1.56,2.53,Chicago Cubs,Chicago White Sox,2.0,1.0,1.0,True
+2020-08-23,1.85,2.01,St.Louis Cardinals,Cincinnati Reds,6.0,2.0,4.0,True
+2020-08-23,2.26,1.68,Kansas City Royals,Minnesota Twins,4.0,5.0,-1.0,False
+2020-08-23,2.66,1.51,Pittsburgh Pirates,Milwaukee Brewers,5.0,4.0,1.0,True
+2020-08-23,1.38,3.21,Cleveland Indians,Detroit Tigers,4.0,7.0,-3.0,False
+2020-08-23,1.65,2.33,Tampa Bay Rays,Toronto Blue Jays,5.0,4.0,1.0,True
+2020-08-23,2.12,1.77,Baltimore Orioles,Boston Red Sox,5.0,4.0,1.0,True
+2020-08-23,1.66,2.32,Washington Nationals,Miami Marlins,9.0,3.0,6.0,True
+2020-08-22,2.43,1.59,San Francisco Giants,Arizona Diamondbacks,5.0,1.0,4.0,True
+2020-08-22,1.44,2.91,Los Angeles Dodgers,Colorado Rockies,4.0,3.0,1.0,True
+2020-08-22,1.76,2.12,San Diego Padres,Houston Astros,13.0,2.0,11.0,True
+2020-08-22,1.71,2.2,Seattle Mariners,Texas Rangers,10.0,1.0,9.0,True
+2020-08-22,1.51,2.65,Chicago Cubs,Chicago White Sox,4.0,7.0,-3.0,False
+2020-08-22,1.74,2.19,St.Louis Cardinals,Cincinnati Reds,3.0,0.0,3.0,True
+2020-08-22,1.94,1.92,Baltimore Orioles,Boston Red Sox,5.0,4.0,1.0,True
+2020-08-22,2.0,1.85,Atlanta Braves,Philadelphia Phillies,6.0,5.0,1.0,True
+2020-08-22,1.57,2.5,Cleveland Indians,Detroit Tigers,6.0,1.0,5.0,True
+2020-08-22,2.34,1.64,Kansas City Royals,Minnesota Twins,2.0,7.0,-5.0,False
+2020-08-22,2.57,1.55,Miami Marlins,Washington Nationals,5.0,3.0,2.0,True
+2020-08-22,2.02,1.83,Tampa Bay Rays,Toronto Blue Jays,2.0,1.0,1.0,True
+2020-08-22,1.66,2.3,Oakland Athletics,Los Angeles Angels,3.0,4.0,-1.0,False
+2020-08-22,2.44,1.59,Pittsburgh Pirates,Milwaukee Brewers,12.0,5.0,7.0,True
+2020-08-22,1.38,3.21,Washington Nationals,Miami Marlins,5.0,4.0,1.0,True
+2020-08-21,1.99,1.86,San Francisco Giants,Arizona Diamondbacks,6.0,2.0,4.0,True
+2020-08-21,1.4,3.1,Los Angeles Dodgers,Colorado Rockies,5.0,1.0,4.0,True
+2020-08-21,1.93,1.91,Oakland Athletics,Los Angeles Angels,5.0,3.0,2.0,True
+2020-08-21,1.79,2.09,San Diego Padres,Houston Astros,4.0,3.0,1.0,True
+2020-08-21,2.1,1.78,Seattle Mariners,Texas Rangers,7.0,4.0,3.0,True
+2020-08-21,1.93,1.92,Chicago Cubs,Chicago White Sox,1.0,10.0,-9.0,False
+2020-08-21,1.87,1.98,St.Louis Cardinals,Cincinnati Reds,2.0,4.0,-2.0,False
+2020-08-21,2.25,1.68,Kansas City Royals,Minnesota Twins,7.0,2.0,5.0,True
+2020-08-21,2.12,1.77,Baltimore Orioles,Boston Red Sox,5.0,8.0,-3.0,False
+2020-08-21,1.85,2.0,Atlanta Braves,Philadelphia Phillies,11.0,2.0,9.0,True
+2020-08-21,1.49,2.73,Cleveland Indians,Detroit Tigers,5.0,10.0,-5.0,False
+2020-08-21,2.23,1.69,Pittsburgh Pirates,Milwaukee Brewers,7.0,2.0,5.0,True
+2020-08-21,1.62,2.37,Tampa Bay Rays,Toronto Blue Jays,5.0,6.0,-1.0,False
+2020-08-21,1.49,2.73,Washington Nationals,Miami Marlins,2.0,3.0,-1.0,False
+2020-08-20,1.77,2.11,San Francisco Giants,Los Angeles Angels,10.0,5.0,5.0,True
+2020-08-20,1.6,2.43,Oakland Athletics,Arizona Diamondbacks,5.0,1.0,4.0,True
+2020-08-20,2.21,1.7,St.Louis Cardinals,Cincinnati Reds,5.0,4.0,1.0,True
+2020-08-20,1.49,2.71,San Diego Padres,Texas Rangers,8.0,7.0,1.0,True
+2020-08-20,2.26,1.68,Baltimore Orioles,Boston Red Sox,1.0,7.0,-6.0,False
+2020-08-20,1.9,1.94,Minnesota Twins,Milwaukee Brewers,7.0,1.0,6.0,True
+2020-08-20,3.62,1.31,Seattle Mariners,Los Angeles Dodgers,1.0,6.0,-5.0,False
+2020-08-20,3.3,1.36,Pittsburgh Pirates,Cleveland Indians,0.0,2.0,-2.0,False
+2020-08-20,1.78,2.11,Colorado Rockies,Houston Astros,8.0,10.0,-2.0,False
+2020-08-20,1.61,2.5,Chicago White Sox,Detroit Tigers,9.0,0.0,9.0,True
+2020-08-20,1.75,2.24,New York Yankees,Tampa Bay Rays,5.0,10.0,-5.0,False
+2020-08-19,2.28,1.66,San Francisco Giants,Los Angeles Angels,7.0,2.0,5.0,True
+2020-08-19,1.6,2.42,Oakland Athletics,Arizona Diamondbacks,4.0,1.0,3.0,True
+2020-08-19,3.05,1.41,Seattle Mariners,Los Angeles Dodgers,6.0,4.0,2.0,True
+2020-08-19,1.72,2.18,San Diego Padres,Texas Rangers,6.0,3.0,3.0,True
+2020-08-19,2.25,1.67,Colorado Rockies,Houston Astros,6.0,13.0,-7.0,False
+2020-08-19,1.64,2.37,Chicago White Sox,Detroit Tigers,5.0,3.0,2.0,True
+2020-08-19,1.62,2.38,Minnesota Twins,Milwaukee Brewers,3.0,9.0,-6.0,False
+2020-08-19,2.82,1.46,Kansas City Royals,Cincinnati Reds,0.0,5.0,-5.0,False
+2020-08-19,2.9,1.44,Miami Marlins,New York Mets,3.0,5.0,-2.0,False
+2020-08-19,1.55,2.55,New York Yankees,Tampa Bay Rays,2.0,4.0,-2.0,False
+2020-08-19,2.57,1.54,Pittsburgh Pirates,Cleveland Indians,1.0,6.0,-5.0,False
+2020-08-19,2.11,1.73,St.Louis Cardinals,Chicago Cubs,2.0,4.0,-2.0,False
+2020-08-19,2.34,1.62,Kansas City Royals,Cincinnati Reds,4.0,0.0,4.0,True
+2020-08-19,2.09,1.77,Chicago Cubs,St.Louis Cardinals,3.0,9.0,-6.0,False
+2020-08-19,2.47,1.57,Boston Red Sox,Philadelphia Phillies,6.0,3.0,3.0,True
+2020-08-19,1.85,2.0,Baltimore Orioles,Toronto Blue Jays,2.0,5.0,-3.0,False
+2020-08-18,1.53,2.61,Chicago Cubs,St.Louis Cardinals,6.0,3.0,3.0,True
+2020-08-18,1.59,2.44,Chicago White Sox,Detroit Tigers,10.0,4.0,6.0,True
+2020-08-18,1.64,2.34,Minnesota Twins,Milwaukee Brewers,4.0,3.0,1.0,True
+2020-08-18,2.1,1.78,Baltimore Orioles,Toronto Blue Jays,7.0,8.0,-1.0,False
+2020-08-18,2.16,1.74,Boston Red Sox,Philadelphia Phillies,6.0,13.0,-7.0,False
+2020-08-18,1.76,2.14,Atlanta Braves,Washington Nationals,5.0,8.0,-3.0,False
+2020-08-18,1.4,3.09,Los Angeles Dodgers,Seattle Mariners,2.0,1.0,1.0,True
+2020-08-18,2.42,1.61,Miami Marlins,New York Mets,3.0,8.0,-5.0,False
+2020-08-18,2.06,1.8,New York Yankees,Tampa Bay Rays,3.0,6.0,-3.0,False
+2020-08-18,2.54,1.55,Pittsburgh Pirates,Cleveland Indians,3.0,6.0,-3.0,False
+2020-08-18,2.35,1.63,Arizona Diamondbacks,Oakland Athletics,10.0,1.0,9.0,True
+2020-08-18,1.41,3.06,Los Angeles Angels,San Francisco Giants,2.0,8.0,-6.0,False
+2020-08-18,2.01,1.85,Texas Rangers,San Diego Padres,4.0,6.0,-2.0,False
+2020-08-18,1.5,2.71,Houston Astros,Colorado Rockies,2.0,1.0,1.0,True
+2020-08-17,1.84,2.01,Arizona Diamondbacks,Oakland Athletics,4.0,3.0,1.0,True
+2020-08-17,1.56,2.51,Los Angeles Angels,San Francisco Giants,7.0,6.0,1.0,True
+2020-08-17,1.29,3.75,Los Angeles Dodgers,Seattle Mariners,11.0,9.0,2.0,True
+2020-08-17,1.6,2.44,Houston Astros,Colorado Rockies,2.0,1.0,1.0,True
+2020-08-17,2.2,1.71,Texas Rangers,San Diego Padres,4.0,14.0,-10.0,False
+2020-08-17,2.25,1.72,St.Louis Cardinals,Chicago Cubs,4.0,5.0,-1.0,False
+2020-08-17,1.59,2.46,Chicago White Sox,Detroit Tigers,7.0,2.0,5.0,True
+2020-08-17,1.59,2.44,Minnesota Twins,Kansas City Royals,4.0,1.0,3.0,True
+2020-08-17,2.14,1.75,Baltimore Orioles,Toronto Blue Jays,2.0,7.0,-5.0,False
+2020-08-17,1.61,2.4,Atlanta Braves,Washington Nationals,7.0,6.0,1.0,True
+2020-08-17,2.4,1.61,Miami Marlins,New York Mets,4.0,11.0,-7.0,False
+2020-08-17,1.62,2.36,New York Yankees,Boston Red Sox,6.0,3.0,3.0,True
+2020-08-17,1.56,2.52,Chicago Cubs,St.Louis Cardinals,1.0,3.0,-2.0,False
+2020-08-16,1.62,2.38,New York Yankees,Boston Red Sox,4.0,2.0,2.0,True
+2020-08-16,2.04,1.82,Arizona Diamondbacks,San Diego Padres,5.0,4.0,1.0,True
+2020-08-16,2.68,1.5,Los Angeles Angels,Los Angeles Dodgers,3.0,8.0,-5.0,False
+2020-08-16,2.06,1.8,San Francisco Giants,Oakland Athletics,3.0,15.0,-12.0,False
+2020-08-16,1.74,2.16,Colorado Rockies,Texas Rangers,10.0,6.0,4.0,True
+2020-08-16,2.04,1.82,Toronto Blue Jays,Tampa Bay Rays,5.0,7.0,-2.0,False
+2020-08-16,1.81,2.05,Chicago Cubs,Milwaukee Brewers,5.0,6.0,-1.0,False
+2020-08-16,1.65,2.31,Chicago White Sox,St.Louis Cardinals,7.0,2.0,5.0,True
+2020-08-16,1.43,2.96,Houston Astros,Seattle Mariners,3.0,2.0,1.0,True
+2020-08-16,1.54,2.57,Minnesota Twins,Kansas City Royals,4.0,2.0,2.0,True
+2020-08-16,2.28,1.66,Detroit Tigers,Cleveland Indians,5.0,8.0,-3.0,False
+2020-08-16,2.1,1.78,Miami Marlins,Atlanta Braves,0.0,4.0,-4.0,False
+2020-08-16,0.0,0.0,Toronto Blue Jays,Tampa Bay Rays,2.0,3.0,-1.0,False
+2020-08-16,2.5,1.57,Baltimore Orioles,Washington Nationals,5.0,6.0,-1.0,False
+2020-08-16,1.67,2.27,Philadelphia Phillies,New York Mets,6.0,2.0,4.0,True
+2020-08-15,2.28,1.67,Los Angeles Angels,Los Angeles Dodgers,5.0,6.0,-1.0,False
+2020-08-15,1.98,1.86,Arizona Diamondbacks,San Diego Padres,7.0,6.0,1.0,True
+2020-08-15,1.54,2.57,Colorado Rockies,Texas Rangers,4.0,6.0,-2.0,False
+2020-08-15,2.49,1.58,Baltimore Orioles,Washington Nationals,7.0,3.0,4.0,True
+2020-08-15,1.4,3.06,Houston Astros,Seattle Mariners,2.0,1.0,1.0,True
+2020-08-15,1.64,2.34,New York Yankees,Boston Red Sox,11.0,5.0,6.0,True
+2020-08-15,2.03,1.83,San Francisco Giants,Oakland Athletics,6.0,7.0,-1.0,False
+2020-08-15,2.59,1.54,Detroit Tigers,Cleveland Indians,1.0,3.0,-2.0,False
+2020-08-15,2.79,1.47,Miami Marlins,Atlanta Braves,1.0,2.0,-1.0,False
+2020-08-15,1.57,2.48,Philadelphia Phillies,New York Mets,6.0,2.0,4.0,True
+2020-08-15,1.53,2.59,Minnesota Twins,Kansas City Royals,2.0,4.0,-2.0,False
+2020-08-15,1.96,1.89,Chicago Cubs,Milwaukee Brewers,5.0,6.0,-1.0,False
+2020-08-15,1.53,2.63,Minnesota Twins,Kansas City Royals,4.0,2.0,2.0,True
+2020-08-15,1.6,2.43,Chicago White Sox,St.Louis Cardinals,1.0,5.0,-4.0,False
+2020-08-14,2.73,1.49,San Francisco Giants,Oakland Athletics,7.0,8.0,-1.0,False
+2020-08-14,2.3,1.66,Arizona Diamondbacks,San Diego Padres,5.0,1.0,4.0,True
+2020-08-14,2.49,1.57,Los Angeles Angels,Los Angeles Dodgers,4.0,7.0,-3.0,False
+2020-08-14,1.39,3.13,Houston Astros,Seattle Mariners,11.0,1.0,10.0,True
+2020-08-14,2.12,1.76,Colorado Rockies,Texas Rangers,2.0,3.0,-1.0,False
+2020-08-14,2.13,1.76,Chicago Cubs,Milwaukee Brewers,3.0,4.0,-1.0,False
+2020-08-14,1.48,2.76,Cincinnati Reds,Pittsburgh Pirates,8.0,1.0,7.0,True
+2020-08-14,2.77,1.48,Detroit Tigers,Cleveland Indians,5.0,10.0,-5.0,False
+2020-08-14,1.89,1.96,Miami Marlins,Atlanta Braves,8.0,2.0,6.0,True
+2020-08-14,1.32,3.49,New York Yankees,Boston Red Sox,10.0,3.0,7.0,True
+2020-08-14,1.79,2.08,Philadelphia Phillies,New York Mets,6.0,5.0,1.0,True
+2020-08-14,2.22,1.7,Toronto Blue Jays,Tampa Bay Rays,12.0,4.0,8.0,True
+2020-08-14,2.42,1.57,Baltimore Orioles,Washington Nationals,3.0,15.0,-12.0,False
+2020-08-14,1.59,2.57,Washington Nationals,Baltimore Orioles,2.0,6.0,-4.0,False
+2020-08-13,1.66,2.28,Los Angeles Dodgers,San Diego Padres,11.0,2.0,9.0,True
+2020-08-13,1.57,2.5,Chicago Cubs,Milwaukee Brewers,4.0,2.0,2.0,True
+2020-08-13,1.57,2.51,Cincinnati Reds,Pittsburgh Pirates,6.0,9.0,-3.0,False
+2020-08-13,2.4,1.61,Boston Red Sox,Tampa Bay Rays,8.0,17.0,-9.0,False
+2020-08-13,1.48,2.78,Philadelphia Phillies,Baltimore Orioles,4.0,11.0,-7.0,False
+2020-08-13,1.77,2.11,New York Mets,Washington Nationals,8.0,2.0,6.0,True
+2020-08-12,1.6,2.41,Los Angeles Dodgers,San Diego Padres,6.0,0.0,6.0,True
+2020-08-12,1.79,2.09,Texas Rangers,Seattle Mariners,7.0,4.0,3.0,True
+2020-08-12,2.31,1.65,Boston Red Sox,Tampa Bay Rays,5.0,9.0,-4.0,False
+2020-08-12,1.5,2.68,Houston Astros,San Francisco Giants,5.0,1.0,4.0,True
+2020-08-12,2.16,1.74,Milwaukee Brewers,Minnesota Twins,2.0,12.0,-10.0,False
+2020-08-12,1.76,2.13,New York Mets,Washington Nationals,11.0,6.0,5.0,True
+2020-08-12,1.57,2.5,New York Yankees,Atlanta Braves,6.0,3.0,3.0,True
+2020-08-12,1.52,2.64,Philadelphia Phillies,Baltimore Orioles,4.0,5.0,-1.0,False
+2020-08-12,1.85,2.0,Cincinnati Reds,Kansas City Royals,4.0,5.0,-1.0,False
+2020-08-12,1.6,2.41,Toronto Blue Jays,Miami Marlins,11.0,14.0,-3.0,False
+2020-08-12,1.83,2.04,Cleveland Indians,Chicago Cubs,2.0,7.0,-5.0,False
+2020-08-12,1.96,1.88,Los Angeles Angels,Oakland Athletics,4.0,8.0,-4.0,False
+2020-08-12,1.95,1.89,Colorado Rockies,Arizona Diamondbacks,7.0,13.0,-6.0,False
+2020-08-12,2.14,1.75,Detroit Tigers,Chicago White Sox,5.0,7.0,-2.0,False
+2020-08-11,1.64,2.34,Los Angeles Angels,Oakland Athletics,6.0,0.0,6.0,True
+2020-08-11,1.6,2.41,Los Angeles Dodgers,San Diego Padres,2.0,6.0,-4.0,False
+2020-08-11,1.57,2.5,Houston Astros,San Francisco Giants,6.0,7.0,-1.0,False
+2020-08-11,1.74,2.16,Texas Rangers,Seattle Mariners,4.0,2.0,2.0,True
+2020-08-11,1.94,1.9,Colorado Rockies,Arizona Diamondbacks,8.0,7.0,1.0,True
+2020-08-11,1.86,2.0,Milwaukee Brewers,Minnesota Twins,6.0,4.0,2.0,True
+2020-08-11,2.02,1.84,Boston Red Sox,Tampa Bay Rays,2.0,8.0,-6.0,False
+2020-08-11,1.95,1.89,Cleveland Indians,Chicago Cubs,1.0,7.0,-6.0,False
+2020-08-11,2.07,1.8,Detroit Tigers,Chicago White Sox,4.0,8.0,-4.0,False
+2020-08-11,2.38,1.62,New York Mets,Washington Nationals,1.0,2.0,-1.0,False
+2020-08-11,1.68,2.25,New York Yankees,Atlanta Braves,9.0,6.0,3.0,True
+2020-08-11,1.5,2.69,Philadelphia Phillies,Baltimore Orioles,9.0,10.0,-1.0,False
+2020-08-11,1.52,2.64,Cincinnati Reds,Kansas City Royals,6.0,5.0,1.0,True
+2020-08-11,1.62,2.39,Toronto Blue Jays,Miami Marlins,5.0,4.0,1.0,True
+2020-08-10,2.09,1.79,Los Angeles Angels,Oakland Athletics,10.0,9.0,1.0,True
+2020-08-10,1.48,2.75,Los Angeles Dodgers,San Diego Padres,1.0,2.0,-1.0,False
+2020-08-10,1.5,2.7,Houston Astros,San Francisco Giants,6.0,4.0,2.0,True
+2020-08-10,1.54,2.57,Texas Rangers,Seattle Mariners,2.0,10.0,-8.0,False
+2020-08-10,1.73,2.17,Colorado Rockies,Arizona Diamondbacks,8.0,12.0,-4.0,False
+2020-08-10,1.87,1.98,Milwaukee Brewers,Minnesota Twins,2.0,4.0,-2.0,False
+2020-08-10,2.13,1.76,Boston Red Sox,Tampa Bay Rays,7.0,8.0,-1.0,False
+2020-08-10,2.16,1.74,Detroit Tigers,Chicago White Sox,5.0,1.0,4.0,True
+2020-08-10,2.04,1.82,New York Mets,Washington Nationals,4.0,16.0,-12.0,False
+2020-08-10,1.65,2.31,Philadelphia Phillies,Atlanta Braves,13.0,8.0,5.0,True
+2020-08-09,2.35,1.63,Chicago White Sox,Cleveland Indians,4.0,5.0,-1.0,False
+2020-08-09,1.38,3.17,Los Angeles Dodgers,San Francisco Giants,6.0,2.0,4.0,True
+2020-08-09,1.65,2.34,Oakland Athletics,Houston Astros,7.0,2.0,5.0,True
+2020-08-09,1.52,2.64,San Diego Padres,Arizona Diamondbacks,9.0,5.0,4.0,True
+2020-08-09,2.39,1.62,Seattle Mariners,Colorado Rockies,5.0,3.0,2.0,True
+2020-08-09,2.29,1.68,Philadelphia Phillies,Atlanta Braves,0.0,8.0,-8.0,False
+2020-08-09,2.0,1.85,Texas Rangers,Los Angeles Angels,7.0,3.0,4.0,True
+2020-08-09,1.83,2.02,Milwaukee Brewers,Cincinnati Reds,9.0,3.0,6.0,True
+2020-08-09,2.35,1.64,Kansas City Royals,Minnesota Twins,4.0,2.0,2.0,True
+2020-08-09,1.65,2.31,Boston Red Sox,Toronto Blue Jays,5.0,3.0,2.0,True
+2020-08-09,2.25,1.68,Pittsburgh Pirates,Detroit Tigers,1.0,2.0,-1.0,False
+2020-08-09,1.39,3.13,New York Mets,Miami Marlins,4.0,2.0,2.0,True
+2020-08-09,1.83,2.03,Tampa Bay Rays,New York Yankees,4.0,3.0,1.0,True
+2020-08-09,1.93,1.91,Philadelphia Phillies,Atlanta Braves,2.0,5.0,-3.0,False
+2020-08-08,1.3,3.7,Los Angeles Dodgers,San Francisco Giants,4.0,5.0,-1.0,False
+2020-08-08,1.53,2.6,San Diego Padres,Arizona Diamondbacks,2.0,3.0,-1.0,False
+2020-08-08,1.87,1.98,Seattle Mariners,Colorado Rockies,0.0,5.0,-5.0,False
+2020-08-08,1.77,2.12,Boston Red Sox,Toronto Blue Jays,1.0,2.0,-1.0,False
+2020-08-08,1.85,2.0,Milwaukee Brewers,Cincinnati Reds,1.0,4.0,-3.0,False
+2020-08-08,1.57,2.57,New York Mets,Miami Marlins,8.0,4.0,4.0,True
+2020-08-08,2.32,1.65,Kansas City Royals,Minnesota Twins,9.0,6.0,3.0,True
+2020-08-08,2.2,1.71,Texas Rangers,Los Angeles Angels,2.0,0.0,2.0,True
+2020-08-08,1.85,2.01,Philadelphia Phillies,Atlanta Braves,5.0,0.0,5.0,True
+2020-08-08,1.5,2.7,Washington Nationals,Baltimore Orioles,3.0,5.0,-2.0,False
+2020-08-08,2.05,1.83,Tampa Bay Rays,New York Yankees,5.0,3.0,2.0,True
+2020-08-08,1.61,2.42,Oakland Athletics,Houston Astros,3.0,1.0,2.0,True
+2020-08-08,1.72,2.18,Pittsburgh Pirates,Detroit Tigers,5.0,11.0,-6.0,False
+2020-08-08,2.22,1.71,Chicago White Sox,Cleveland Indians,1.0,7.0,-6.0,False
+2020-08-08,2.3,1.63,Tampa Bay Rays,New York Yankees,4.0,8.0,-4.0,False
+2020-08-07,1.34,3.38,Los Angeles Dodgers,San Francisco Giants,7.0,2.0,5.0,True
+2020-08-07,1.79,2.09,Seattle Mariners,Colorado Rockies,4.0,8.0,-4.0,False
+2020-08-07,1.78,2.1,Oakland Athletics,Houston Astros,3.0,2.0,1.0,True
+2020-08-07,1.78,2.11,San Diego Padres,Arizona Diamondbacks,3.0,0.0,3.0,True
+2020-08-07,2.55,1.56,Texas Rangers,Los Angeles Angels,4.0,3.0,1.0,True
+2020-08-07,2.15,1.74,Chicago White Sox,Cleveland Indians,2.0,0.0,2.0,True
+2020-08-07,1.97,1.88,Milwaukee Brewers,Cincinnati Reds,3.0,8.0,-5.0,False
+2020-08-07,2.2,1.71,Kansas City Royals,Minnesota Twins,3.0,2.0,1.0,True
+2020-08-07,1.9,1.95,Boston Red Sox,Toronto Blue Jays,5.0,3.0,2.0,True
+2020-08-07,1.51,2.7,New York Mets,Miami Marlins,3.0,4.0,-1.0,False
+2020-08-07,1.95,1.9,Pittsburgh Pirates,Detroit Tigers,13.0,17.0,-4.0,False
+2020-08-07,1.87,1.98,Tampa Bay Rays,New York Yankees,1.0,0.0,1.0,True
+2020-08-07,1.55,2.54,Washington Nationals,Baltimore Orioles,0.0,11.0,-11.0,False
+2020-08-06,1.88,1.96,Chicago White Sox,Milwaukee Brewers,3.0,8.0,-5.0,False
+2020-08-06,1.8,2.07,Miami Marlins,Baltimore Orioles,8.0,7.0,1.0,True
+2020-08-06,1.79,2.07,Atlanta Braves,Toronto Blue Jays,4.0,3.0,1.0,True
+2020-08-06,1.88,1.96,Arizona Diamondbacks,Houston Astros,5.0,4.0,1.0,True
+2020-08-06,2.52,1.55,Kansas City Royals,Chicago Cubs,13.0,2.0,11.0,True
+2020-08-06,1.85,2.01,Cleveland Indians,Cincinnati Reds,13.0,0.0,13.0,True
+2020-08-06,2.2,1.71,Philadelphia Phillies,New York Yankees,5.0,4.0,1.0,True
+2020-08-06,2.46,1.58,Seattle Mariners,Los Angeles Angels,1.0,6.0,-5.0,False
+2020-08-06,1.56,2.5,Oakland Athletics,Texas Rangers,6.0,4.0,2.0,True
+2020-08-06,1.57,2.47,Colorado Rockies,San Francisco Giants,6.0,4.0,2.0,True
+2020-08-06,2.78,1.48,Pittsburgh Pirates,Minnesota Twins,6.0,5.0,1.0,True
+2020-08-05,2.01,1.85,Seattle Mariners,Los Angeles Angels,7.0,6.0,1.0,True
+2020-08-05,2.23,1.69,Arizona Diamondbacks,Houston Astros,14.0,7.0,7.0,True
+2020-08-05,1.58,2.47,Oakland Athletics,Texas Rangers,6.0,4.0,2.0,True
+2020-08-05,2.1,1.78,San Diego Padres,Los Angeles Dodgers,6.0,7.0,-1.0,False
+2020-08-05,1.57,2.52,Colorado Rockies,San Francisco Giants,3.0,4.0,-1.0,False
+2020-08-05,1.75,2.15,Chicago White Sox,Milwaukee Brewers,0.0,1.0,-1.0,False
+2020-08-05,2.74,1.48,Kansas City Royals,Chicago Cubs,1.0,6.0,-5.0,False
+2020-08-05,1.85,1.85,Miami Marlins,Baltimore Orioles,2.0,1.0,1.0,True
+2020-08-05,2.08,1.82,Philadelphia Phillies,New York Yankees,1.0,3.0,-2.0,False
+2020-08-05,1.77,2.12,Atlanta Braves,Toronto Blue Jays,1.0,2.0,-1.0,False
+2020-08-05,1.59,2.47,Cleveland Indians,Cincinnati Reds,2.0,0.0,2.0,True
+2020-08-05,2.48,1.57,Pittsburgh Pirates,Minnesota Twins,2.0,5.0,-3.0,False
+2020-08-05,1.64,2.34,Tampa Bay Rays,Boston Red Sox,0.0,5.0,-5.0,False
+2020-08-05,1.42,3.02,Washington Nationals,New York Mets,1.0,3.0,-2.0,False
+2020-08-05,1.8,2.06,Baltimore Orioles,Miami Marlins,0.0,1.0,-1.0,False
+2020-08-05,1.89,1.95,New York Yankees,Philadelphia Phillies,7.0,11.0,-4.0,False
+2020-08-04,2.65,1.52,Seattle Mariners,Los Angeles Angels,3.0,5.0,-2.0,False
+2020-08-04,1.61,2.41,Oakland Athletics,Texas Rangers,5.0,1.0,4.0,True
+2020-08-04,2.04,1.82,San Diego Padres,Los Angeles Dodgers,2.0,5.0,-3.0,False
+2020-08-04,2.21,1.71,Arizona Diamondbacks,Houston Astros,2.0,8.0,-6.0,False
+2020-08-04,1.53,2.58,Colorado Rockies,San Francisco Giants,5.0,2.0,3.0,True
+2020-08-04,1.45,2.87,Chicago Cubs,Kansas City Royals,5.0,4.0,1.0,True
+2020-08-04,1.73,2.17,Milwaukee Brewers,Chicago White Sox,2.0,3.0,-1.0,False
+2020-08-04,1.82,2.04,Baltimore Orioles,Miami Marlins,0.0,4.0,-4.0,False
+2020-08-04,1.54,2.58,Atlanta Braves,Toronto Blue Jays,10.0,1.0,9.0,True
+2020-08-04,1.61,2.4,Washington Nationals,New York Mets,5.0,3.0,2.0,True
+2020-08-04,1.71,2.21,Tampa Bay Rays,Boston Red Sox,5.0,1.0,4.0,True
+2020-08-04,2.41,1.61,Cincinnati Reds,Cleveland Indians,2.0,4.0,-2.0,False
+2020-08-04,1.49,2.72,Minnesota Twins,Pittsburgh Pirates,7.0,3.0,4.0,True
+2020-08-03,2.15,1.74,San Diego Padres,Los Angeles Dodgers,5.0,4.0,1.0,True
+2020-08-03,2.56,1.55,Seattle Mariners,Oakland Athletics,1.0,11.0,-10.0,False
+2020-08-03,1.77,2.11,Colorado Rockies,San Francisco Giants,7.0,6.0,1.0,True
+2020-08-03,1.63,2.37,Chicago Cubs,Kansas City Royals,2.0,0.0,2.0,True
+2020-08-03,1.86,1.99,Milwaukee Brewers,Chicago White Sox,4.0,6.0,-2.0,False
+2020-08-03,1.46,2.82,Minnesota Twins,Pittsburgh Pirates,5.0,4.0,1.0,True
+2020-08-03,2.09,1.78,Atlanta Braves,New York Mets,2.0,7.0,-5.0,False
+2020-08-03,1.34,3.43,New York Yankees,Philadelphia Phillies,6.0,3.0,3.0,True
+2020-08-03,1.63,2.3,Cincinnati Reds,Cleveland Indians,3.0,2.0,1.0,True
+2020-08-02,1.46,2.86,New York Yankees,Boston Red Sox,9.0,7.0,2.0,True
+2020-08-02,2.65,1.51,Arizona Diamondbacks,Los Angeles Dodgers,0.0,3.0,-3.0,False
+2020-08-02,2.28,1.67,Los Angeles Angels,Houston Astros,5.0,6.0,-1.0,False
+2020-08-02,2.44,1.59,Seattle Mariners,Oakland Athletics,2.0,3.0,-1.0,False
+2020-08-02,1.85,2.0,San Francisco Giants,Texas Rangers,5.0,9.0,-4.0,False
+2020-08-02,2.02,1.84,Colorado Rockies,San Diego Padres,9.0,6.0,3.0,True
+2020-08-02,2.49,1.61,Detroit Tigers,Cincinnati Reds,0.0,4.0,-4.0,False
+2020-08-02,1.53,2.6,Chicago Cubs,Pittsburgh Pirates,2.0,1.0,1.0,True
+2020-08-02,1.82,2.05,Minnesota Twins,Cleveland Indians,3.0,1.0,2.0,True
+2020-08-02,2.05,1.82,Kansas City Royals,Chicago White Sox,2.0,9.0,-7.0,False
+2020-08-02,1.8,2.06,Atlanta Braves,New York Mets,4.0,0.0,4.0,True
+2020-08-02,2.76,1.48,Baltimore Orioles,Tampa Bay Rays,5.0,1.0,4.0,True
+2020-08-02,2.24,1.63,Detroit Tigers,Cincinnati Reds,3.0,4.0,-1.0,False
+2020-08-01,1.81,2.05,San Francisco Giants,Texas Rangers,7.0,3.0,4.0,True
+2020-08-01,2.29,1.66,Seattle Mariners,Oakland Athletics,2.0,3.0,-1.0,False
+2020-08-01,1.53,2.6,Chicago Cubs,Pittsburgh Pirates,4.0,3.0,1.0,True
+2020-08-01,2.38,1.62,Arizona Diamondbacks,Los Angeles Dodgers,2.0,11.0,-9.0,False
+2020-08-01,1.96,1.89,Colorado Rockies,San Diego Padres,6.0,1.0,5.0,True
+2020-08-01,3.01,1.42,Baltimore Orioles,Tampa Bay Rays,5.0,4.0,1.0,True
+2020-08-01,1.84,2.01,Atlanta Braves,New York Mets,7.0,1.0,6.0,True
+2020-08-01,1.78,2.1,Minnesota Twins,Cleveland Indians,3.0,0.0,3.0,True
+2020-08-01,2.29,1.66,Los Angeles Angels,Houston Astros,5.0,4.0,1.0,True
+2020-08-01,1.51,2.67,New York Yankees,Boston Red Sox,5.0,2.0,3.0,True
+2020-08-01,2.16,1.74,Kansas City Royals,Chicago White Sox,5.0,11.0,-6.0,False
+2020-07-31,2.15,1.75,Arizona Diamondbacks,Los Angeles Dodgers,5.0,3.0,2.0,True
+2020-07-31,2.66,1.51,Seattle Mariners,Oakland Athletics,5.0,3.0,2.0,True
+2020-07-31,2.57,1.55,Los Angeles Angels,Houston Astros,6.0,9.0,-3.0,False
+2020-07-31,2.09,1.79,San Francisco Giants,Texas Rangers,9.0,2.0,7.0,True
+2020-07-31,1.48,2.76,Chicago Cubs,Pittsburgh Pirates,6.0,3.0,3.0,True
+2020-07-31,1.97,1.89,Colorado Rockies,San Diego Padres,7.0,8.0,-1.0,False
+2020-07-31,2.0,1.87,Minnesota Twins,Cleveland Indians,4.0,1.0,3.0,True
+2020-07-31,2.44,1.6,Kansas City Royals,Chicago White Sox,2.0,3.0,-1.0,False
+2020-07-31,2.67,1.51,Baltimore Orioles,Tampa Bay Rays,6.0,3.0,3.0,True
+2020-07-31,1.72,2.18,Atlanta Braves,New York Mets,11.0,10.0,1.0,True
+2020-07-31,2.51,1.57,Detroit Tigers,Cincinnati Reds,7.0,2.0,5.0,True
+2020-07-31,1.53,2.61,New York Yankees,Boston Red Sox,5.0,1.0,4.0,True
+2020-07-30,2.45,1.58,San Francisco Giants,San Diego Padres,7.0,12.0,-5.0,False
+2020-07-30,2.37,1.61,Arizona Diamondbacks,Los Angeles Dodgers,3.0,6.0,-3.0,False
+2020-07-30,1.55,2.53,Los Angeles Angels,Seattle Mariners,5.0,8.0,-3.0,False
+2020-07-30,1.64,2.32,Atlanta Braves,Tampa Bay Rays,2.0,1.0,1.0,True
+2020-07-30,2.3,1.65,Detroit Tigers,Kansas City Royals,3.0,5.0,-2.0,False
+2020-07-30,1.82,2.02,Minnesota Twins,Cleveland Indians,0.0,2.0,-2.0,False
+2020-07-30,1.6,2.4,New York Mets,Boston Red Sox,2.0,4.0,-2.0,False
+2020-07-30,3.09,1.39,Baltimore Orioles,New York Yankees,6.0,8.0,-2.0,False
+2020-07-30,1.64,2.31,Toronto Blue Jays,Washington Nationals,4.0,6.0,-2.0,False
+2020-07-29,1.36,3.22,Los Angeles Angels,Seattle Mariners,7.0,10.0,-3.0,False
+2020-07-29,2.65,1.5,San Francisco Giants,San Diego Padres,7.0,6.0,1.0,True
+2020-07-29,1.59,2.42,Minnesota Twins,St.Louis Cardinals,3.0,0.0,3.0,True
+2020-07-29,3.84,1.28,Baltimore Orioles,New York Yankees,3.0,9.0,-6.0,False
+2020-07-29,1.77,2.08,Atlanta Braves,Tampa Bay Rays,7.0,4.0,3.0,True
+2020-07-29,1.77,2.09,Detroit Tigers,Kansas City Royals,5.0,4.0,1.0,True
+2020-07-29,2.29,1.66,Houston Astros,Los Angeles Dodgers,2.0,4.0,-2.0,False
+2020-07-29,1.48,2.73,New York Mets,Boston Red Sox,5.0,6.0,-1.0,False
+2020-07-29,2.27,1.66,Pittsburgh Pirates,Milwaukee Brewers,0.0,3.0,-3.0,False
+2020-07-29,1.87,1.96,Cincinnati Reds,Chicago Cubs,12.0,7.0,5.0,True
+2020-07-29,1.99,1.84,Cleveland Indians,Chicago White Sox,0.0,4.0,-4.0,False
+2020-07-29,2.5,1.55,Toronto Blue Jays,Washington Nationals,0.0,4.0,-4.0,False
+2020-07-29,1.8,2.06,Texas Rangers,Arizona Diamondbacks,7.0,4.0,3.0,True
+2020-07-29,1.68,2.25,Oakland Athletics,Colorado Rockies,1.0,5.0,-4.0,False
+2020-07-28,2.29,1.66,San Francisco Giants,San Diego Padres,3.0,5.0,-2.0,False
+2020-07-28,1.55,2.53,Los Angeles Angels,Seattle Mariners,10.0,2.0,8.0,True
+2020-07-28,1.61,2.4,Oakland Athletics,Colorado Rockies,3.0,8.0,-5.0,False
+2020-07-28,2.26,1.67,Houston Astros,Los Angeles Dodgers,2.0,5.0,-3.0,False
+2020-07-28,1.91,1.92,Texas Rangers,Arizona Diamondbacks,1.0,4.0,-3.0,False
+2020-07-28,1.68,2.24,Minnesota Twins,St.Louis Cardinals,6.0,3.0,3.0,True
+2020-07-28,2.04,1.81,Boston Red Sox,New York Mets,3.0,8.0,-5.0,False
+2020-07-28,1.89,1.94,Detroit Tigers,Kansas City Royals,4.0,3.0,1.0,True
+2020-07-28,2.64,1.51,Pittsburgh Pirates,Milwaukee Brewers,8.0,6.0,2.0,True
+2020-07-28,1.75,2.12,Cincinnati Reds,Chicago Cubs,5.0,8.0,-3.0,False
+2020-07-28,1.79,2.07,Cleveland Indians,Chicago White Sox,5.0,3.0,2.0,True
+2020-07-28,1.69,2.22,Tampa Bay Rays,Atlanta Braves,5.0,2.0,3.0,True
+2020-07-28,1.69,2.22,Washington Nationals,Toronto Blue Jays,1.0,5.0,-4.0,False
+2020-07-28,1.75,2.12,Cleveland Indians,Chicago White Sox,4.0,3.0,1.0,True
+2020-07-27,1.99,1.84,Boston Red Sox,New York Mets,4.0,7.0,-3.0,False
+2020-07-27,1.78,2.08,Detroit Tigers,Kansas City Royals,6.0,14.0,-8.0,False
+2020-07-27,1.39,3.07,Houston Astros,Seattle Mariners,8.0,5.0,3.0,True
+2020-07-27,2.51,1.55,Pittsburgh Pirates,Milwaukee Brewers,5.0,6.0,-1.0,False
+2020-07-27,1.98,1.85,Cincinnati Reds,Chicago Cubs,7.0,8.0,-1.0,False
+2020-07-27,1.69,2.2,Tampa Bay Rays,Atlanta Braves,14.0,5.0,9.0,True
+2020-07-27,1.79,2.07,Washington Nationals,Toronto Blue Jays,1.0,4.0,-3.0,False
+2020-07-27,1.81,2.03,San Diego Padres,Arizona Diamondbacks,6.0,2.0,4.0,True
+2020-07-27,1.79,2.06,Oakland Athletics,Los Angeles Angels,3.0,0.0,3.0,True
+2020-07-26,1.31,3.51,Los Angeles Dodgers,San Francisco Giants,1.0,3.0,-2.0,False
+2020-07-26,1.89,1.93,New York Mets,Atlanta Braves,1.0,14.0,-13.0,False
+2020-07-26,1.88,1.95,Oakland Athletics,Los Angeles Angels,6.0,4.0,2.0,True
+2020-07-26,1.75,2.11,San Diego Padres,Arizona Diamondbacks,3.0,4.0,-1.0,False
+2020-07-26,1.66,2.26,Texas Rangers,Colorado Rockies,2.0,5.0,-3.0,False
+2020-07-26,1.91,1.93,Chicago Cubs,Milwaukee Brewers,9.0,1.0,8.0,True
+2020-07-26,1.67,2.25,St.Louis Cardinals,Pittsburgh Pirates,1.0,5.0,-4.0,False
+2020-07-26,2.34,1.62,Chicago White Sox,Minnesota Twins,2.0,14.0,-12.0,False
+2020-07-26,1.34,3.37,Houston Astros,Seattle Mariners,6.0,7.0,-1.0,False
+2020-07-26,1.49,2.71,Boston Red Sox,Baltimore Orioles,4.0,7.0,-3.0,False
+2020-07-26,1.5,2.67,Cincinnati Reds,Detroit Tigers,2.0,3.0,-1.0,False
+2020-07-26,1.42,2.96,Cleveland Indians,Kansas City Royals,9.0,2.0,7.0,True
+2020-07-26,1.51,2.65,Tampa Bay Rays,Toronto Blue Jays,6.0,5.0,1.0,True
+2020-07-26,1.45,2.82,Philadelphia Phillies,Miami Marlins,6.0,11.0,-5.0,False
+2020-07-26,2.04,1.83,Washington Nationals,New York Yankees,2.0,3.0,-1.0,False
+2020-07-25,1.76,2.09,San Diego Padres,Arizona Diamondbacks,5.0,1.0,4.0,True
+2020-07-25,2.88,1.45,Washington Nationals,New York Yankees,9.0,2.0,7.0,True
+2020-07-25,1.35,3.3,Cincinnati Reds,Detroit Tigers,4.0,6.0,-2.0,False
+2020-07-25,1.38,3.16,Cleveland Indians,Kansas City Royals,2.0,3.0,-1.0,False
+2020-07-25,1.33,3.45,Houston Astros,Seattle Mariners,7.0,2.0,5.0,True
+2020-07-25,1.23,4.32,Los Angeles Dodgers,San Francisco Giants,4.0,5.0,-1.0,False
+2020-07-25,2.02,1.83,New York Mets,Atlanta Braves,3.0,5.0,-2.0,False
+2020-07-25,1.77,2.09,Oakland Athletics,Los Angeles Angels,1.0,4.0,-3.0,False
+2020-07-25,1.56,2.5,Philadelphia Phillies,Miami Marlins,7.0,1.0,6.0,True
+2020-07-25,1.79,2.06,Texas Rangers,Colorado Rockies,2.0,3.0,-1.0,False
+2020-07-25,1.66,2.26,Tampa Bay Rays,Toronto Blue Jays,4.0,1.0,3.0,True
+2020-07-25,1.63,2.32,St.Louis Cardinals,Pittsburgh Pirates,9.0,1.0,8.0,True
+2020-07-25,1.97,1.87,Chicago White Sox,Minnesota Twins,10.0,3.0,7.0,True
+2020-07-25,1.47,2.76,Boston Red Sox,Baltimore Orioles,2.0,7.0,-5.0,False
+2020-07-25,1.65,2.29,Chicago Cubs,Milwaukee Brewers,3.0,8.0,-5.0,False
+2020-07-24,1.68,2.26,Oakland Athletics,Los Angeles Angels,7.0,3.0,4.0,True
+2020-07-24,1.29,3.75,Los Angeles Dodgers,San Francisco Giants,9.0,1.0,8.0,True
+2020-07-24,1.32,3.5,Houston Astros,Seattle Mariners,8.0,2.0,6.0,True
+2020-07-24,1.68,2.25,San Diego Padres,Arizona Diamondbacks,7.0,2.0,5.0,True
+2020-07-24,1.52,2.6,St.Louis Cardinals,Pittsburgh Pirates,5.0,4.0,1.0,True
+2020-07-24,1.97,1.87,Chicago White Sox,Minnesota Twins,5.0,10.0,-5.0,False
+2020-07-24,1.89,1.94,Texas Rangers,Colorado Rockies,1.0,0.0,1.0,True
+2020-07-24,1.45,2.87,Boston Red Sox,Baltimore Orioles,13.0,2.0,11.0,True
+2020-07-24,1.85,1.99,Chicago Cubs,Milwaukee Brewers,3.0,0.0,3.0,True
+2020-07-24,1.42,2.96,Cleveland Indians,Kansas City Royals,2.0,0.0,2.0,True
+2020-07-24,1.48,2.72,Philadelphia Phillies,Miami Marlins,2.0,5.0,-3.0,False
+2020-07-24,1.66,2.28,Tampa Bay Rays,Toronto Blue Jays,4.0,6.0,-2.0,False
+2020-07-24,1.55,2.52,Cincinnati Reds,Detroit Tigers,7.0,1.0,6.0,True
+2020-07-24,1.57,2.48,New York Mets,Atlanta Braves,1.0,0.0,1.0,True
+2020-07-23,1.35,3.31,Los Angeles Dodgers,San Francisco Giants,8.0,1.0,7.0,True
+2020-07-23,2.47,1.57,Washington Nationals,New York Yankees,1.0,4.0,-3.0,False
+2020-07-22,1.83,1.95,Los Angeles Angels,San Diego Padres,4.0,5.0,-1.0,False
+2020-07-22,1.74,2.08,Chicago White Sox,Milwaukee Brewers,3.0,5.0,-2.0,False
+2020-07-22,1.76,2.04,Texas Rangers,Colorado Rockies,3.0,7.0,-4.0,False
+2020-07-22,1.87,1.91,Boston Red Sox,Toronto Blue Jays,0.0,2.0,-2.0,False
+2020-07-22,1.79,2.0,Chicago Cubs,Minnesota Twins,4.0,3.0,1.0,True
+2020-07-22,1.54,2.44,Cincinnati Reds,Detroit Tigers,2.0,1.0,1.0,True
+2020-07-22,2.37,1.57,Pittsburgh Pirates,Cleveland Indians,3.0,5.0,-2.0,False
+2020-07-22,1.49,2.57,St.Louis Cardinals,Kansas City Royals,6.0,3.0,3.0,True
+2020-07-22,1.49,2.6,Atlanta Braves,Miami Marlins,2.0,6.0,-4.0,False
+2020-07-21,2.4,1.56,San Francisco Giants,Oakland Athletics,4.0,2.0,2.0,True
+2020-07-21,1.5,2.54,Los Angeles Dodgers,Los Angeles Angels,6.0,4.0,2.0,True
+2020-07-21,1.75,2.06,Texas Rangers,Colorado Rockies,1.0,5.0,-4.0,False
+2020-07-21,1.88,1.91,Boston Red Sox,Toronto Blue Jays,6.0,8.0,-2.0,False
+2020-07-21,1.55,2.43,Atlanta Braves,Miami Marlins,10.0,9.0,1.0,True
+2020-07-21,1.53,2.46,Cincinnati Reds,Detroit Tigers,9.0,7.0,2.0,True
+2020-07-21,1.45,2.72,Washington Nationals,Baltimore Orioles,6.0,4.0,2.0,True
+2020-07-21,2.65,1.47,Kansas City Royals,Houston Astros,6.0,15.0,-9.0,False
+2020-07-20,1.45,2.71,Los Angeles Dodgers,Arizona Diamondbacks,12.0,1.0,11.0,True
+2020-07-20,1.48,2.62,Oakland Athletics,San Francisco Giants,2.0,6.0,-4.0,False
+2020-07-20,1.78,2.02,San Diego Padres,Los Angeles Angels,0.0,1.0,-1.0,False
+2020-07-20,1.83,1.95,Chicago White Sox,Chicago Cubs,5.0,3.0,2.0,True
+2020-07-20,2.37,1.57,Kansas City Royals,Houston Astros,3.0,6.0,-3.0,False
+2020-07-20,1.51,2.53,Cleveland Indians,Pittsburgh Pirates,11.0,7.0,4.0,True
+2020-07-20,2.42,1.55,Baltimore Orioles,Washington Nationals,2.0,4.0,-2.0,False
+2020-07-20,1.48,2.62,New York Yankees,Philadelphia Phillies,2.0,2.0,0.0,False
+2020-07-19,1.51,2.54,Los Angeles Dodgers,Arizona Diamondbacks,9.0,2.0,7.0,True
+2020-07-19,1.64,2.25,Chicago Cubs,Chicago White Sox,3.0,7.0,-4.0,False
+2020-07-19,1.51,2.55,New York Yankees,New York Mets,6.0,0.0,6.0,True
+2020-07-19,1.44,2.77,Philadelphia Phillies,Baltimore Orioles,1.0,4.0,-3.0,False
+2020-07-18,2.04,1.77,New York Mets,New York Yankees,3.0,9.0,-6.0,False
+2020-07-18,2.16,1.7,Pittsburgh Pirates,Cleveland Indians,3.0,5.0,-2.0,False
+2020-07-18,1.73,2.1,Washington Nationals,Philadelphia Phillies,2.0,7.0,-5.0,False
+2020-03-12,1.78,2.03,Detroit Tigers,Atlanta Braves,3.0,5.0,-2.0,False
+2020-03-12,1.82,1.97,Pittsburgh Pirates,Toronto Blue Jays,5.0,7.0,-2.0,False
+2020-03-12,1.64,2.28,St.Louis Cardinals,Miami Marlins,3.0,0.0,3.0,True
+2020-03-12,1.59,2.37,Tampa Bay Rays,Philadelphia Phillies,4.0,8.0,-4.0,False
+2020-03-12,1.61,2.32,Washington Nationals,New York Yankees,3.0,6.0,-3.0,False
+2020-03-11,1.48,2.64,Los Angeles Dodgers,Milwaukee Brewers,4.0,1.0,3.0,True
+2020-03-11,1.73,2.11,Tampa Bay Rays,Boston Red Sox,1.0,3.0,-2.0,False
+2020-03-11,1.69,2.17,Texas Rangers,San Francisco Giants,4.0,6.0,-2.0,False
+2020-03-11,1.65,2.24,New York Mets,St.Louis Cardinals,7.0,3.0,4.0,True
+2020-03-11,1.65,2.25,Toronto Blue Jays,Baltimore Orioles,14.0,2.0,12.0,True
+2020-03-11,2.18,1.69,Houston Astros,Washington Nationals,2.0,6.0,-4.0,False
+2020-03-11,2.07,1.76,Miami Marlins,New York Yankees,3.0,1.0,2.0,True
+2020-03-11,1.65,2.25,Minnesota Twins,Atlanta Braves,2.0,3.0,-1.0,False
+2020-03-10,1.82,1.99,Seattle Mariners,Los Angeles Angels,3.0,1.0,2.0,True
+2020-03-10,1.73,2.12,Chicago White Sox,Texas Rangers,2.0,9.0,-7.0,False
+2020-03-10,1.96,1.84,San Francisco Giants,Chicago Cubs,3.0,16.0,-13.0,False
+2020-03-10,1.84,1.97,Boston Red Sox,St.Louis Cardinals,3.0,2.0,1.0,True
+2020-03-10,1.69,2.18,Detroit Tigers,Pittsburgh Pirates,4.0,1.0,3.0,True
+2020-03-10,1.87,1.93,Miami Marlins,Washington Nationals,3.0,2.0,1.0,True
+2020-03-10,1.57,2.42,New York Yankees,Toronto Blue Jays,2.0,4.0,-2.0,False
+2020-03-10,1.62,2.31,Philadelphia Phillies,Minnesota Twins,5.0,1.0,4.0,True
+2020-03-09,1.63,2.3,Milwaukee Brewers,Seattle Mariners,2.0,1.0,1.0,True
+2020-03-09,1.8,2.02,Texas Rangers,Oakland Athletics,0.0,5.0,-5.0,False
+2020-03-09,1.65,2.25,Atlanta Braves,Boston Red Sox,1.0,2.0,-1.0,False
+2020-03-09,1.6,2.36,Arizona Diamondbacks,Kansas City Royals,4.0,4.0,0.0,False
+2020-03-09,1.97,1.84,San Diego Padres,Los Angeles Dodgers,2.0,14.0,-12.0,False
+2020-03-09,1.66,2.22,Chicago White Sox,Cincinnati Reds,3.0,3.0,0.0,False
+2020-03-09,1.51,2.57,Houston Astros,Detroit Tigers,2.0,1.0,1.0,True
+2020-03-09,1.75,2.08,Miami Marlins,New York Mets,1.0,1.0,0.0,False
+2020-03-09,1.55,2.46,Minnesota Twins,St.Louis Cardinals,0.0,3.0,-3.0,False
+2020-03-09,1.85,1.95,Philadelphia Phillies,New York Yankees,3.0,1.0,2.0,True
+2020-03-08,1.62,2.31,Colorado Rockies,Cleveland Indians,3.0,1.0,2.0,True
+2020-03-08,1.86,1.94,San Francisco Giants,Seattle Mariners,8.0,4.0,4.0,True
+2020-03-08,1.91,1.89,Texas Rangers,Los Angeles Dodgers,9.0,8.0,1.0,True
+2020-03-08,1.83,1.98,New York Mets,Houston Astros,3.0,1.0,2.0,True
+2020-03-08,1.72,2.14,Toronto Blue Jays,Philadelphia Phillies,9.0,0.0,9.0,True
+2020-03-08,1.77,2.06,Boston Red Sox,Minnesota Twins,7.0,6.0,1.0,True
+2020-03-08,1.62,2.31,St.Louis Cardinals,Miami Marlins,7.0,3.0,4.0,True
+2020-03-08,1.59,2.37,Tampa Bay Rays,Pittsburgh Pirates,2.0,2.0,0.0,False
+2020-03-08,1.56,2.43,Washington Nationals,Detroit Tigers,5.0,7.0,-2.0,False
+2020-03-07,1.99,1.82,Seattle Mariners,Oakland Athletics,4.0,8.0,-4.0,False
+2020-03-07,1.5,2.62,Los Angeles Dodgers,Colorado Rockies,7.0,1.0,6.0,True
+2020-03-07,1.81,2.02,Milwaukee Brewers,Texas Rangers,2.0,11.0,-9.0,False
+2020-03-07,1.73,2.11,San Francisco Giants,Chicago White Sox,12.0,7.0,5.0,True
+2020-03-07,1.92,1.88,Pittsburgh Pirates,New York Yankees,4.0,7.0,-3.0,False
+2020-03-07,1.75,2.09,St.Louis Cardinals,Houston Astros,5.0,1.0,4.0,True
+2020-03-07,2.23,1.66,Detroit Tigers,Minnesota Twins,6.0,7.0,-1.0,False
+2020-03-06,1.84,1.97,San Diego Padres,Texas Rangers,4.0,3.0,1.0,True
+2020-03-06,1.43,2.83,Los Angeles Dodgers,Seattle Mariners,3.0,9.0,-6.0,False
+2020-03-06,1.82,1.99,Miami Marlins,Washington Nationals,7.0,3.0,4.0,True
+2020-03-06,1.41,2.89,New York Yankees,Baltimore Orioles,1.0,5.0,-4.0,False
+2020-03-06,1.66,2.24,Houston Astros,New York Mets,3.0,2.0,1.0,True
+2020-03-06,1.81,2.0,Arizona Diamondbacks,Colorado Rockies,6.0,6.0,0.0,False
+2020-03-06,1.99,1.82,Chicago Cubs,Chicago White Sox,3.0,6.0,-3.0,False
+2020-03-06,2.07,1.75,Los Angeles Angels,Kansas City Royals,4.0,4.0,0.0,False
+2020-03-06,1.83,1.98,Milwaukee Brewers,San Francisco Giants,5.0,5.0,0.0,False
+2020-03-06,1.77,2.05,Toronto Blue Jays,Pittsburgh Pirates,13.0,19.0,-6.0,False
+2020-03-06,1.61,2.31,Atlanta Braves,Boston Red Sox,7.0,5.0,2.0,True
+2020-03-06,1.7,2.15,Detroit Tigers,Philadelphia Phillies,0.0,9.0,-9.0,False
+2020-03-06,1.71,2.15,Minnesota Twins,Tampa Bay Rays,5.0,3.0,2.0,True
+2020-03-05,2.08,1.75,Seattle Mariners,San Diego Padres,0.0,3.0,-3.0,False
+2020-03-05,2.11,1.73,Baltimore Orioles,Minnesota Twins,3.0,3.0,0.0,False
+2020-03-05,1.64,2.26,Cincinnati Reds,Milwaukee Brewers,4.0,6.0,-2.0,False
+2020-03-05,1.91,1.89,Oakland Athletics,Los Angeles Dodgers,5.0,1.0,4.0,True
+2020-03-05,1.77,2.06,San Francisco Giants,Cleveland Indians,1.0,7.0,-6.0,False
+2020-03-05,1.67,2.22,Boston Red Sox,Houston Astros,0.0,5.0,-5.0,False
+2020-03-05,2.69,1.47,Detroit Tigers,New York Yankees,15.0,11.0,4.0,True
+2020-03-05,1.73,2.1,Philadelphia Phillies,Toronto Blue Jays,5.0,3.0,2.0,True
+2020-03-05,1.53,2.5,Tampa Bay Rays,Pittsburgh Pirates,2.0,1.0,1.0,True
+2020-03-04,1.52,2.54,Los Angeles Dodgers,San Francisco Giants,4.0,0.0,4.0,True
+2020-03-04,1.69,2.19,Arizona Diamondbacks,Cleveland Indians,2.0,6.0,-4.0,False
+2020-03-04,1.53,2.53,Los Angeles Angels,Seattle Mariners,2.0,0.0,2.0,True
+2020-03-04,1.65,2.26,San Diego Padres,Kansas City Royals,7.0,9.0,-2.0,False
+2020-03-04,1.91,1.89,Cincinnati Reds,Chicago Cubs,6.0,6.0,0.0,False
+2020-03-04,1.74,2.1,Milwaukee Brewers,Chicago White Sox,1.0,5.0,-4.0,False
+2020-03-04,1.68,2.19,Texas Rangers,Colorado Rockies,7.0,4.0,3.0,True
+2020-03-04,2.02,1.79,New York Mets,St.Louis Cardinals,4.0,1.0,3.0,True
+2020-03-04,1.59,2.37,Boston Red Sox,Detroit Tigers,9.0,13.0,-4.0,False
+2020-03-04,1.91,1.91,Miami Marlins,Baltimore Orioles,3.0,5.0,-2.0,False
+2020-03-04,1.61,2.34,Tampa Bay Rays,Toronto Blue Jays,9.0,5.0,4.0,True
+2020-03-03,2.0,1.81,Kansas City Royals,Arizona Diamondbacks,6.0,4.0,2.0,True
+2020-03-03,1.84,1.95,Colorado Rockies,Chicago Cubs,11.0,10.0,1.0,True
+2020-03-03,1.81,2.01,San Diego Padres,Milwaukee Brewers,9.0,0.0,9.0,True
+2020-03-03,1.83,1.99,Chicago White Sox,Oakland Athletics,5.0,6.0,-1.0,False
+2020-03-03,1.65,2.24,Cleveland Indians,Los Angeles Angels,7.0,11.0,-4.0,False
+2020-03-03,1.77,2.05,San Francisco Giants,Texas Rangers,5.0,6.0,-1.0,False
+2020-03-03,1.5,2.62,New York Mets,Miami Marlins,1.0,6.0,-5.0,False
+2020-03-03,1.75,2.07,Atlanta Braves,Tampa Bay Rays,2.0,5.0,-3.0,False
+2020-03-03,1.51,2.58,Minnesota Twins,Detroit Tigers,5.0,1.0,4.0,True
+2020-03-03,1.53,2.51,New York Yankees,Boston Red Sox,9.0,1.0,8.0,True
+2020-03-03,2.0,1.82,St.Louis Cardinals,Houston Astros,6.0,3.0,3.0,True
+2020-03-03,1.58,2.4,Washington Nationals,Baltimore Orioles,5.0,3.0,2.0,True
+2020-03-02,1.71,2.14,Atlanta Braves,Philadelphia Phillies,4.0,6.0,-2.0,False
+2020-03-02,1.69,2.19,Arizona Diamondbacks,San Francisco Giants,1.0,8.0,-7.0,False
+2020-03-02,1.83,1.98,Seattle Mariners,Colorado Rockies,6.0,9.0,-3.0,False
+2020-03-02,1.64,2.28,Chicago White Sox,San Diego Padres,1.0,3.0,-2.0,False
+2020-03-02,2.18,1.69,Cincinnati Reds,Los Angeles Dodgers,6.0,2.0,4.0,True
+2020-03-02,1.58,2.4,Texas Rangers,Cleveland Indians,3.0,2.0,1.0,True
+2020-03-02,1.59,2.39,Toronto Blue Jays,Pittsburgh Pirates,4.0,0.0,4.0,True
+2020-03-02,2.43,1.56,Baltimore Orioles,Tampa Bay Rays,3.0,3.0,0.0,False
+2020-03-02,1.78,2.05,Detroit Tigers,Boston Red Sox,11.0,11.0,0.0,False
+2020-03-02,1.71,2.16,St.Louis Cardinals,Minnesota Twins,6.0,1.0,5.0,True
+2020-03-02,1.71,2.13,Washington Nationals,Miami Marlins,3.0,2.0,1.0,True
+2020-03-01,1.78,2.04,San Diego Padres,San Francisco Giants,7.0,5.0,2.0,True
+2020-03-01,1.6,2.35,Chicago Cubs,Seattle Mariners,7.0,3.0,4.0,True
+2020-03-01,1.63,2.29,Los Angeles Dodgers,Texas Rangers,6.0,8.0,-2.0,False
+2020-03-01,1.73,2.11,Milwaukee Brewers,Cincinnati Reds,5.0,4.0,1.0,True
+2020-03-01,1.68,2.2,Boston Red Sox,Atlanta Braves,4.0,2.0,2.0,True
+2020-03-01,2.02,1.8,Detroit Tigers,New York Yankees,10.0,4.0,6.0,True
+2020-03-01,1.72,2.13,Houston Astros,St.Louis Cardinals,5.0,4.0,1.0,True
+2020-03-01,1.59,2.37,Philadelphia Phillies,Baltimore Orioles,2.0,3.0,-1.0,False
+2020-03-01,1.82,1.99,Pittsburgh Pirates,Toronto Blue Jays,13.0,9.0,4.0,True
+2020-03-01,1.79,2.04,Tampa Bay Rays,Minnesota Twins,8.0,2.0,6.0,True
+2020-02-29,1.52,2.54,Minnesota Twins,Pittsburgh Pirates,0.0,2.0,-2.0,False
+2020-02-29,1.69,2.19,Tampa Bay Rays,Atlanta Braves,0.0,12.0,-12.0,False
+2020-02-29,1.76,2.04,Oakland Athletics,Cleveland Indians,8.0,6.0,2.0,True
+2020-02-29,1.71,2.15,Seattle Mariners,Kansas City Royals,6.0,9.0,-3.0,False
+2020-02-29,1.75,2.08,Chicago Cubs,Milwaukee Brewers,3.0,4.0,-1.0,False
+2020-02-29,1.63,2.3,Cincinnati Reds,San Diego Padres,3.0,7.0,-4.0,False
+2020-02-29,1.78,2.04,Oakland Athletics,Cleveland Indians,8.0,7.0,1.0,True
+2020-02-29,2.06,1.77,San Francisco Giants,Los Angeles Angels,3.0,10.0,-7.0,False
+2020-02-29,1.7,2.17,Texas Rangers,Chicago White Sox,7.0,6.0,1.0,True
+2020-02-29,1.72,2.13,Toronto Blue Jays,Philadelphia Phillies,6.0,5.0,1.0,True
+2020-02-29,1.77,2.07,Baltimore Orioles,Miami Marlins,12.0,6.0,6.0,True
+2020-02-29,1.82,2.0,Houston Astros,New York Mets,1.0,2.0,-1.0,False
+2020-02-29,1.76,2.07,St.Louis Cardinals,Washington Nationals,6.0,3.0,3.0,True
+2020-02-28,1.87,1.94,San Diego Padres,Chicago Cubs,5.0,1.0,4.0,True
+2020-02-28,1.65,2.24,Arizona Diamondbacks,Seattle Mariners,2.0,6.0,-4.0,False
+2020-02-28,1.73,2.12,Los Angeles Angels,Texas Rangers,7.0,2.0,5.0,True
+2020-02-28,1.83,1.98,Chicago White Sox,Cleveland Indians,8.0,3.0,5.0,True
+2020-02-28,1.68,2.19,Cincinnati Reds,Oakland Athletics,10.0,1.0,9.0,True
+2020-02-28,2.22,1.66,Milwaukee Brewers,Los Angeles Dodgers,6.0,5.0,1.0,True
+2020-02-28,1.81,2.01,New York Mets,St.Louis Cardinals,3.0,2.0,1.0,True
+2020-02-28,1.94,1.86,Detroit Tigers,Toronto Blue Jays,4.0,5.0,-1.0,False
+2020-02-28,1.95,1.85,Miami Marlins,Houston Astros,4.0,6.0,-2.0,False
+2020-02-28,1.69,2.17,Minnesota Twins,Boston Red Sox,4.0,1.0,3.0,True
+2020-02-28,1.65,2.25,Pittsburgh Pirates,Baltimore Orioles,4.0,11.0,-7.0,False
+2020-02-28,1.73,2.11,Washington Nationals,Tampa Bay Rays,1.0,8.0,-7.0,False
+2020-02-27,1.98,1.83,Miami Marlins,New York Mets,3.0,1.0,2.0,True
+2020-02-27,1.53,2.5,Washington Nationals,Houston Astros,5.0,5.0,0.0,False
+2020-02-27,1.76,2.07,Arizona Diamondbacks,Cincinnati Reds,0.0,8.0,-8.0,False
+2020-02-27,1.62,2.3,Los Angeles Angels,San Diego Padres,0.0,1.0,-1.0,False
+2020-02-27,1.84,1.97,Cleveland Indians,Los Angeles Dodgers,5.0,6.0,-1.0,False
+2020-02-27,1.71,2.14,Milwaukee Brewers,Kansas City Royals,4.0,2.0,2.0,True
+2020-02-27,1.78,2.05,Oakland Athletics,Colorado Rockies,5.0,2.0,3.0,True
+2020-02-27,1.79,2.03,Texas Rangers,Chicago Cubs,13.0,1.0,12.0,True
+2020-02-27,1.59,2.37,Toronto Blue Jays,Minnesota Twins,3.0,3.0,0.0,False
+2020-02-27,1.83,1.97,Atlanta Braves,St.Louis Cardinals,3.0,1.0,2.0,True
+2020-02-27,1.77,2.06,Baltimore Orioles,Pittsburgh Pirates,13.0,0.0,13.0,True
+2020-02-27,1.68,2.2,Boston Red Sox,Philadelphia Phillies,5.0,12.0,-7.0,False
+2020-02-27,1.17,4.9,New York Yankees,Tampa Bay Rays,7.0,1.0,6.0,True
+2020-02-26,1.73,2.11,Colorado Rockies,Texas Rangers,4.0,3.0,1.0,True
+2020-02-26,1.68,2.2,San Diego Padres,Cleveland Indians,8.0,0.0,8.0,True
+2020-02-26,1.56,2.43,Los Angeles Dodgers,Los Angeles Angels,9.0,4.0,5.0,True
+2020-02-26,1.73,2.11,Oakland Athletics,Arizona Diamondbacks,16.0,3.0,13.0,True
+2020-02-26,1.69,2.17,San Francisco Giants,Milwaukee Brewers,3.0,3.0,0.0,False
+2020-02-26,1.67,2.22,Cincinnati Reds,Seattle Mariners,3.0,5.0,-2.0,False
+2020-02-26,1.68,2.19,Toronto Blue Jays,Detroit Tigers,1.0,3.0,-2.0,False
+2020-02-26,2.15,1.7,Baltimore Orioles,Atlanta Braves,4.0,3.0,1.0,True
+2020-02-26,1.55,2.48,New York Yankees,Washington Nationals,8.0,2.0,6.0,True
+2020-02-26,1.66,2.23,Pittsburgh Pirates,Boston Red Sox,3.0,6.0,-3.0,False
+2020-02-25,2.07,1.76,Arizona Diamondbacks,Los Angeles Dodgers,7.0,3.0,4.0,True
+2020-02-25,1.58,2.4,Los Angeles Angels,Cincinnati Reds,7.0,3.0,4.0,True
+2020-02-25,1.84,1.98,San Diego Padres,Oakland Athletics,9.0,6.0,3.0,True
+2020-02-25,1.76,2.08,Chicago Cubs,Colorado Rockies,6.0,12.0,-6.0,False
+2020-02-25,1.71,2.15,Milwaukee Brewers,Seattle Mariners,1.0,2.0,-1.0,False
+2020-02-25,1.72,2.13,Texas Rangers,Kansas City Royals,4.0,5.0,-1.0,False
+2020-02-25,1.57,2.43,Atlanta Braves,Minnesota Twins,4.0,4.0,0.0,False
+2020-02-25,1.76,2.08,Detroit Tigers,New York Mets,9.0,6.0,3.0,True
+2020-02-25,1.7,2.16,Houston Astros,Miami Marlins,4.0,7.0,-3.0,False
+2020-02-25,1.71,2.1,Philadelphia Phillies,Toronto Blue Jays,6.0,13.0,-7.0,False
+2020-02-25,1.8,2.01,St.Louis Cardinals,Washington Nationals,6.0,9.0,-3.0,False
+2020-02-24,1.48,2.66,New York Yankees,Pittsburgh Pirates,3.0,3.0,0.0,False
+2020-02-24,1.92,1.87,Colorado Rockies,Cleveland Indians,12.0,8.0,4.0,True
+2020-02-24,2.16,1.7,Seattle Mariners,Chicago Cubs,12.0,16.0,-4.0,False
+2020-02-24,1.76,2.07,Cincinnati Reds,Texas Rangers,9.0,6.0,3.0,True
+2020-02-24,1.99,1.82,Kansas City Royals,San Diego Padres,8.0,5.0,3.0,True
+2020-02-24,1.55,2.47,Los Angeles Dodgers,Chicago White Sox,2.0,2.0,0.0,False
+2020-02-24,1.71,2.1,Milwaukee Brewers,Los Angeles Angels,2.0,1.0,1.0,True
+2020-02-24,1.83,1.98,San Francisco Giants,Arizona Diamondbacks,11.0,9.0,2.0,True
+2020-02-24,1.78,2.04,Toronto Blue Jays,Atlanta Braves,4.0,3.0,1.0,True
+2020-02-24,2.07,1.76,Detroit Tigers,Houston Astros,1.0,11.0,-10.0,False
+2020-02-24,2.04,1.78,Miami Marlins,St.Louis Cardinals,6.0,3.0,3.0,True
+2020-02-24,1.25,3.8,Minnesota Twins,Boston Red Sox,3.0,2.0,1.0,True
+2020-02-24,1.66,2.23,Philadelphia Phillies,Baltimore Orioles,8.0,7.0,1.0,True
+2020-02-24,1.84,1.96,Washington Nationals,New York Mets,1.0,2.0,-1.0,False
+2020-02-23,1.82,2.0,Los Angeles Angels,Colorado Rockies,7.0,5.0,2.0,True
+2020-02-23,1.89,1.92,Seattle Mariners,Texas Rangers,5.0,7.0,-2.0,False
+2020-02-23,1.87,1.93,Cincinnati Reds,Chicago White Sox,2.0,7.0,-5.0,False
+2020-02-23,2.04,1.79,Kansas City Royals,Cleveland Indians,5.0,9.0,-4.0,False
+2020-02-23,1.73,2.11,Los Angeles Dodgers,Chicago Cubs,4.0,2.0,2.0,True
+2020-02-23,1.85,1.96,Milwaukee Brewers,San Diego Padres,2.0,7.0,-5.0,False
+2020-02-23,1.88,1.93,New York Mets,St.Louis Cardinals,3.0,3.0,0.0,False
+2020-02-23,2.08,1.76,Baltimore Orioles,Boston Red Sox,11.0,5.0,6.0,True
+2020-02-23,1.73,2.11,Minnesota Twins,Toronto Blue Jays,5.0,5.0,0.0,False
+2020-02-23,1.82,2.0,Tampa Bay Rays,New York Yankees,9.0,7.0,2.0,True
+2020-02-22,1.82,1.99,Chicago Cubs,Oakland Athletics,12.0,2.0,10.0,True
+2020-02-22,2.08,1.76,San Francisco Giants,Los Angeles Dodgers,4.0,10.0,-6.0,False
+2020-02-22,1.62,2.31,Atlanta Braves,Baltimore Orioles,5.0,0.0,5.0,True
+2020-02-22,1.82,2.0,Boston Red Sox,Tampa Bay Rays,4.0,3.0,1.0,True
+2020-02-22,1.95,1.86,Pittsburgh Pirates,Minnesota Twins,1.0,2.0,-1.0,False
+2020-02-22,2.02,1.8,Detroit Tigers,Philadelphia Phillies,8.0,8.0,0.0,False
+2020-02-22,1.59,2.38,New York Yankees,Toronto Blue Jays,1.0,2.0,-1.0,False
+2020-02-21,1.87,1.93,Kansas City Royals,Texas Rangers,4.0,5.0,-1.0,False
+2020-02-21,1.19,4.71,Boston Red Sox,Northeastern,3.0,0.0,3.0,True

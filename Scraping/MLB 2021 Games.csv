@@ -1,0 +1,559 @@
+Date,Home Odds,Vis Odds,Home,Visitor,Home PTS,Vis PTS,Home Points Dif,Home Win
+2021-04-12,1.91,1.94,San Francisco Giants,Cincinnati Reds,0.0,3.0,-3.0,False
+2021-04-12,2.15,1.74,Arizona Diamondbacks,Oakland Athletics,5.0,9.0,-4.0,False
+2021-04-12,1.77,2.11,Chicago White Sox,Cleveland Indians,4.0,3.0,1.0,True
+2021-04-12,1.38,3.2,Houston Astros,Detroit Tigers,2.0,6.0,-4.0,False
+2021-04-12,1.98,1.87,Kansas City Royals,Los Angeles Angels,3.0,10.0,-7.0,False
+2021-04-12,1.68,2.25,St.Louis Cardinals,Washington Nationals,2.0,5.0,-3.0,False
+2021-04-12,1.75,2.14,Milwaukee Brewers,Chicago Cubs,6.0,3.0,3.0,True
+2021-04-12,1.7,2.21,Atlanta Braves,Miami Marlins,3.0,5.0,-2.0,False
+2021-04-12,1.47,2.81,Tampa Bay Rays,Texas Rangers,1.0,0.0,1.0,True
+2021-04-12,2.66,1.5,Toronto Blue Jays,New York Yankees,1.0,3.0,-2.0,False
+2021-04-12,2.85,1.45,Pittsburgh Pirates,San Diego Padres,2.0,6.0,-4.0,False
+2021-04-11,1.6,2.42,Atlanta Braves,Philadelphia Phillies,6.0,7.0,-1.0,False
+2021-04-11,1.96,1.9,Arizona Diamondbacks,Cincinnati Reds,7.0,0.0,7.0,True
+2021-04-11,1.61,2.38,Los Angeles Dodgers,Washington Nationals,3.0,0.0,3.0,True
+2021-04-11,1.79,2.08,San Francisco Giants,Colorado Rockies,4.0,0.0,4.0,True
+2021-04-11,2.47,1.58,Texas Rangers,San Diego Padres,0.0,2.0,-2.0,False
+2021-04-11,1.74,2.15,St.Louis Cardinals,Milwaukee Brewers,3.0,9.0,-6.0,False
+2021-04-11,1.83,2.02,Chicago White Sox,Kansas City Royals,3.0,4.0,-1.0,False
+2021-04-11,1.52,2.62,Minnesota Twins,Seattle Mariners,6.0,8.0,-2.0,False
+2021-04-11,1.57,2.51,Cleveland Indians,Detroit Tigers,5.0,2.0,3.0,True
+2021-04-11,2.27,1.67,Tampa Bay Rays,New York Yankees,4.0,8.0,-4.0,False
+2021-04-11,2.25,1.68,Baltimore Orioles,Boston Red Sox,9.0,14.0,-5.0,False
+2021-04-11,2.18,1.73,Pittsburgh Pirates,Chicago Cubs,7.0,1.0,6.0,True
+2021-04-10,1.58,2.48,Los Angeles Dodgers,Washington Nationals,9.0,5.0,4.0,True
+2021-04-10,2.08,1.79,Arizona Diamondbacks,Cincinnati Reds,8.0,3.0,5.0,True
+2021-04-10,1.7,2.21,Atlanta Braves,Philadelphia Phillies,5.0,4.0,1.0,True
+2021-04-10,1.9,1.95,Toronto Blue Jays,Los Angeles Angels,15.0,1.0,14.0,True
+2021-04-10,2.13,1.76,Baltimore Orioles,Boston Red Sox,4.0,6.0,-2.0,False
+2021-04-10,2.36,1.63,Texas Rangers,San Diego Padres,4.0,7.0,-3.0,False
+2021-04-10,2.39,1.61,Pittsburgh Pirates,Chicago Cubs,8.0,2.0,6.0,True
+2021-04-10,1.6,2.42,Cleveland Indians,Detroit Tigers,11.0,3.0,8.0,True
+2021-04-10,1.63,2.34,Houston Astros,Oakland Athletics,3.0,7.0,-4.0,False
+2021-04-10,1.55,2.53,San Francisco Giants,Colorado Rockies,4.0,3.0,1.0,True
+2021-04-10,1.85,2.01,St.Louis Cardinals,Milwaukee Brewers,5.0,9.0,-4.0,False
+2021-04-10,1.5,2.67,Minnesota Twins,Seattle Mariners,3.0,4.0,-1.0,False
+2021-04-10,1.35,3.35,New York Mets,Miami Marlins,0.0,3.0,-3.0,False
+2021-04-10,2.17,1.73,Tampa Bay Rays,New York Yankees,4.0,0.0,4.0,True
+2021-04-09,2.29,1.66,Arizona Diamondbacks,Cincinnati Reds,5.0,6.0,-1.0,False
+2021-04-09,1.54,2.56,Houston Astros,Oakland Athletics,2.0,6.0,-4.0,False
+2021-04-09,2.66,1.51,Texas Rangers,San Diego Padres,0.0,3.0,-3.0,False
+2021-04-09,1.78,2.09,Atlanta Braves,Philadelphia Phillies,8.0,1.0,7.0,True
+2021-04-09,1.51,2.65,Cleveland Indians,Detroit Tigers,4.0,1.0,3.0,True
+2021-04-09,2.08,1.79,Toronto Blue Jays,Los Angeles Angels,1.0,7.0,-6.0,False
+2021-04-09,1.61,2.39,San Francisco Giants,Colorado Rockies,3.0,1.0,2.0,True
+2021-04-09,1.34,3.4,Los Angeles Dodgers,Washington Nationals,1.0,0.0,1.0,True
+2021-04-09,2.17,1.72,Tampa Bay Rays,New York Yankees,10.0,5.0,5.0,True
+2021-04-08,1.59,2.44,Houston Astros,Oakland Athletics,6.0,2.0,4.0,True
+2021-04-08,1.9,1.95,Toronto Blue Jays,Los Angeles Angels,5.0,7.0,-2.0,False
+2021-04-08,2.25,1.69,St.Louis Cardinals,Milwaukee Brewers,3.0,1.0,2.0,True
+2021-04-08,1.58,2.5,Chicago White Sox,Kansas City Royals,6.0,0.0,6.0,True
+2021-04-08,1.46,2.81,Minnesota Twins,Seattle Mariners,10.0,2.0,8.0,True
+2021-04-08,1.78,2.1,Colorado Rockies,Arizona Diamondbacks,7.0,3.0,4.0,True
+2021-04-08,2.35,1.64,Baltimore Orioles,Boston Red Sox,3.0,7.0,-4.0,False
+2021-04-08,2.3,1.66,Pittsburgh Pirates,Chicago Cubs,2.0,4.0,-2.0,False
+2021-04-08,1.53,2.61,New York Mets,Miami Marlins,3.0,2.0,1.0,True
+2021-04-07,1.99,1.86,Colorado Rockies,Arizona Diamondbacks,8.0,0.0,8.0,True
+2021-04-07,1.49,2.7,New York Yankees,Baltimore Orioles,3.0,4.0,-1.0,False
+2021-04-07,2.0,1.85,Miami Marlins,St.Louis Cardinals,0.0,7.0,-7.0,False
+2021-04-07,1.64,2.33,San Diego Padres,San Francisco Giants,2.0,3.0,-1.0,False
+2021-04-07,2.3,1.66,Seattle Mariners,Chicago White Sox,8.0,4.0,4.0,True
+2021-04-07,1.6,2.43,Philadelphia Phillies,New York Mets,8.0,2.0,6.0,True
+2021-04-07,2.45,1.59,Oakland Athletics,Los Angeles Dodgers,4.0,3.0,1.0,True
+2021-04-07,1.69,2.27,Washington Nationals,Atlanta Braves,0.0,2.0,-2.0,False
+2021-04-07,1.94,1.92,Chicago Cubs,Milwaukee Brewers,2.0,4.0,-2.0,False
+2021-04-07,2.69,1.5,Texas Rangers,Toronto Blue Jays,2.0,1.0,1.0,True
+2021-04-07,1.86,2.0,Boston Red Sox,Tampa Bay Rays,9.0,2.0,7.0,True
+2021-04-07,1.5,2.68,Cleveland Indians,Kansas City Royals,4.0,2.0,2.0,True
+2021-04-07,2.53,1.56,Detroit Tigers,Minnesota Twins,2.0,3.0,-1.0,False
+2021-04-07,1.46,2.86,Cincinnati Reds,Pittsburgh Pirates,11.0,4.0,7.0,True
+2021-04-07,2.45,1.57,Washington Nationals,Atlanta Braves,6.0,7.0,-1.0,False
+2021-04-06,1.52,2.63,San Diego Padres,San Francisco Giants,3.0,1.0,2.0,True
+2021-04-06,2.31,1.65,Seattle Mariners,Chicago White Sox,4.0,10.0,-6.0,False
+2021-04-06,2.49,1.57,Oakland Athletics,Los Angeles Dodgers,1.0,5.0,-4.0,False
+2021-04-06,1.79,2.09,Colorado Rockies,Arizona Diamondbacks,8.0,10.0,-2.0,False
+2021-04-06,2.18,1.72,Texas Rangers,Toronto Blue Jays,7.0,4.0,3.0,True
+2021-04-06,1.87,1.98,Chicago Cubs,Milwaukee Brewers,0.0,4.0,-4.0,False
+2021-04-06,2.4,1.6,Boston Red Sox,Tampa Bay Rays,6.0,5.0,1.0,True
+2021-04-06,2.09,1.78,Philadelphia Phillies,New York Mets,4.0,8.0,-4.0,False
+2021-04-06,1.61,2.39,Cincinnati Reds,Pittsburgh Pirates,14.0,1.0,13.0,True
+2021-04-06,1.78,2.1,Miami Marlins,St.Louis Cardinals,2.0,4.0,-2.0,False
+2021-04-06,1.31,3.54,New York Yankees,Baltimore Orioles,7.0,2.0,5.0,True
+2021-04-06,1.91,1.93,Los Angeles Angels,Houston Astros,2.0,4.0,-2.0,False
+2021-04-06,1.85,1.99,Washington Nationals,Atlanta Braves,6.0,5.0,1.0,True
+2021-04-06,2.25,1.68,Detroit Tigers,Minnesota Twins,4.0,3.0,1.0,True
+2021-04-05,1.63,2.36,San Diego Padres,San Francisco Giants,2.0,3.0,-1.0,False
+2021-04-05,2.09,1.77,Seattle Mariners,Chicago White Sox,0.0,6.0,-6.0,False
+2021-04-05,2.33,1.64,Oakland Athletics,Los Angeles Dodgers,3.0,10.0,-7.0,False
+2021-04-05,1.86,1.98,Los Angeles Angels,Houston Astros,7.0,6.0,1.0,True
+2021-04-05,1.86,1.99,Chicago Cubs,Milwaukee Brewers,5.0,3.0,2.0,True
+2021-04-05,1.93,1.91,Boston Red Sox,Tampa Bay Rays,11.0,2.0,9.0,True
+2021-04-05,2.72,1.48,Philadelphia Phillies,New York Mets,5.0,3.0,2.0,True
+2021-04-05,1.64,2.33,Cincinnati Reds,Pittsburgh Pirates,5.0,3.0,2.0,True
+2021-04-05,1.85,1.99,Miami Marlins,St.Louis Cardinals,1.0,4.0,-3.0,False
+2021-04-05,1.43,2.95,New York Yankees,Baltimore Orioles,7.0,0.0,7.0,True
+2021-04-05,1.73,2.16,Cleveland Indians,Kansas City Royals,0.0,3.0,-3.0,False
+2021-04-05,2.32,1.64,Texas Rangers,Toronto Blue Jays,2.0,6.0,-4.0,False
+2021-04-05,2.33,1.64,Detroit Tigers,Minnesota Twins,6.0,15.0,-9.0,False
+2021-04-04,1.76,2.1,Los Angeles Angels,Chicago White Sox,7.0,4.0,3.0,True
+2021-04-04,1.46,2.82,San Diego Padres,Arizona Diamondbacks,1.0,3.0,-2.0,False
+2021-04-04,1.84,2.01,Oakland Athletics,Houston Astros,2.0,9.0,-7.0,False
+2021-04-04,2.87,1.44,Colorado Rockies,Los Angeles Dodgers,2.0,4.0,-2.0,False
+2021-04-04,1.51,2.64,Chicago Cubs,Pittsburgh Pirates,4.0,3.0,1.0,True
+2021-04-04,1.57,2.48,Kansas City Royals,Texas Rangers,3.0,7.0,-4.0,False
+2021-04-04,1.9,1.95,Milwaukee Brewers,Minnesota Twins,2.0,8.0,-6.0,False
+2021-04-04,1.58,2.47,Boston Red Sox,Baltimore Orioles,3.0,11.0,-8.0,False
+2021-04-04,1.97,1.87,Cincinnati Reds,St.Louis Cardinals,12.0,1.0,11.0,True
+2021-04-04,2.15,1.74,Detroit Tigers,Cleveland Indians,3.0,9.0,-6.0,False
+2021-04-04,1.53,2.59,New York Yankees,Toronto Blue Jays,1.0,3.0,-2.0,False
+2021-04-04,2.01,1.83,Philadelphia Phillies,Atlanta Braves,2.0,1.0,1.0,True
+2021-04-03,2.03,1.83,Seattle Mariners,San Francisco Giants,4.0,0.0,4.0,True
+2021-04-03,2.02,1.83,Los Angeles Angels,Chicago White Sox,5.0,3.0,2.0,True
+2021-04-03,1.46,2.81,San Diego Padres,Arizona Diamondbacks,7.0,0.0,7.0,True
+2021-04-03,2.92,1.43,Colorado Rockies,Los Angeles Dodgers,5.0,6.0,-1.0,False
+2021-04-03,1.73,2.17,Milwaukee Brewers,Minnesota Twins,0.0,2.0,-2.0,False
+2021-04-03,1.93,1.92,Miami Marlins,Tampa Bay Rays,12.0,7.0,5.0,True
+2021-04-03,1.82,2.04,Cincinnati Reds,St.Louis Cardinals,9.0,6.0,3.0,True
+2021-04-03,2.14,1.74,Oakland Athletics,Houston Astros,1.0,9.0,-8.0,False
+2021-04-03,1.97,1.87,Philadelphia Phillies,Atlanta Braves,4.0,0.0,4.0,True
+2021-04-03,1.6,2.44,Chicago Cubs,Pittsburgh Pirates,5.0,1.0,4.0,True
+2021-04-03,1.59,2.44,Kansas City Royals,Texas Rangers,11.0,4.0,7.0,True
+2021-04-03,1.57,2.46,Boston Red Sox,Baltimore Orioles,2.0,4.0,-2.0,False
+2021-04-03,2.39,1.61,Detroit Tigers,Cleveland Indians,5.0,2.0,3.0,True
+2021-04-03,1.59,2.45,New York Yankees,Toronto Blue Jays,5.0,3.0,2.0,True
+2021-04-02,1.44,2.88,San Diego Padres,Arizona Diamondbacks,4.0,2.0,2.0,True
+2021-04-02,1.82,2.04,Seattle Mariners,San Francisco Giants,3.0,6.0,-3.0,False
+2021-04-02,1.78,2.1,Oakland Athletics,Houston Astros,5.0,9.0,-4.0,False
+2021-04-02,1.83,2.03,Los Angeles Angels,Chicago White Sox,8.0,12.0,-4.0,False
+2021-04-02,3.17,1.38,Colorado Rockies,Los Angeles Dodgers,6.0,11.0,-5.0,False
+2021-04-02,1.9,1.95,Miami Marlins,Tampa Bay Rays,4.0,6.0,-2.0,False
+2021-04-02,1.55,2.55,Boston Red Sox,Baltimore Orioles,0.0,3.0,-3.0,False
+2021-04-01,2.04,1.82,Seattle Mariners,San Francisco Giants,8.0,7.0,1.0,True
+2021-04-01,1.92,1.93,Oakland Athletics,Houston Astros,1.0,8.0,-7.0,False
+2021-04-01,2.03,1.83,Los Angeles Angels,Chicago White Sox,4.0,3.0,1.0,True
+2021-04-01,1.77,2.11,Cincinnati Reds,St.Louis Cardinals,6.0,11.0,-5.0,False
+2021-04-01,2.88,1.45,Colorado Rockies,Los Angeles Dodgers,8.0,5.0,3.0,True
+2021-04-01,1.62,2.38,Kansas City Royals,Texas Rangers,14.0,10.0,4.0,True
+2021-04-01,2.33,1.65,Miami Marlins,Tampa Bay Rays,0.0,1.0,-1.0,False
+2021-04-01,1.4,3.08,San Diego Padres,Arizona Diamondbacks,8.0,7.0,1.0,True
+2021-04-01,1.77,2.11,Philadelphia Phillies,Atlanta Braves,3.0,2.0,1.0,True
+2021-04-01,1.47,2.81,Chicago Cubs,Pittsburgh Pirates,3.0,5.0,-2.0,False
+2021-04-01,1.88,1.97,Milwaukee Brewers,Minnesota Twins,6.0,5.0,1.0,True
+2021-04-01,2.59,1.54,Detroit Tigers,Cleveland Indians,3.0,2.0,1.0,True
+2021-04-01,1.53,2.6,New York Yankees,Toronto Blue Jays,2.0,3.0,-1.0,False
+2021-03-30,1.59,2.34,Los Angeles Dodgers,Los Angeles Angels,6.0,4.0,2.0,True
+2021-03-30,1.75,2.05,Arizona Diamondbacks,Cleveland Indians,3.0,2.0,1.0,True
+2021-03-30,2.02,1.77,Colorado Rockies,Chicago White Sox,2.0,1.0,1.0,True
+2021-03-30,2.27,1.62,Texas Rangers,Milwaukee Brewers,3.0,6.0,-3.0,False
+2021-03-30,1.75,2.05,Boston Red Sox,Atlanta Braves,3.0,5.0,-2.0,False
+2021-03-30,2.22,1.64,Detroit Tigers,Tampa Bay Rays,0.0,5.0,-5.0,False
+2021-03-30,1.72,2.12,Minnesota Twins,Pittsburgh Pirates,1.0,1.0,0.0,False
+2021-03-29,1.57,2.39,Los Angeles Dodgers,Los Angeles Angels,10.0,2.0,8.0,True
+2021-03-29,1.91,1.86,Texas Rangers,Milwaukee Brewers,0.0,4.0,-4.0,False
+2021-03-29,1.53,2.49,San Diego Padres,Colorado Rockies,2.0,10.0,-8.0,False
+2021-03-29,1.57,2.39,Chicago Cubs,Arizona Diamondbacks,7.0,1.0,6.0,True
+2021-03-29,1.78,2.02,Cincinnati Reds,Seattle Mariners,5.0,5.0,0.0,False
+2021-03-29,1.61,2.31,Kansas City Royals,Cleveland Indians,5.0,4.0,1.0,True
+2021-03-29,1.65,2.22,Oakland Athletics,San Francisco Giants,2.0,7.0,-5.0,False
+2021-03-29,1.64,2.24,Atlanta Braves,Boston Red Sox,0.0,4.0,-4.0,False
+2021-03-29,2.05,1.75,Baltimore Orioles,Tampa Bay Rays,3.0,8.0,-5.0,False
+2021-03-29,1.48,2.64,New York Yankees,Detroit Tigers,2.0,5.0,-3.0,False
+2021-03-29,2.0,1.79,Philadelphia Phillies,Toronto Blue Jays,7.0,13.0,-6.0,False
+2021-03-29,2.03,1.77,Pittsburgh Pirates,Minnesota Twins,3.0,5.0,-2.0,False
+2021-03-29,1.65,2.2,Washington Nationals,Houston Astros,2.0,2.0,0.0,False
+2021-03-29,1.65,2.24,St.Louis Cardinals,New York Mets,3.0,3.0,0.0,False
+2021-03-28,2.12,1.69,Los Angeles Angels,Los Angeles Dodgers,6.0,5.0,1.0,True
+2021-03-28,2.06,1.74,Colorado Rockies,Kansas City Royals,3.0,6.0,-3.0,False
+2021-03-28,1.56,2.38,Chicago White Sox,Arizona Diamondbacks,7.0,4.0,3.0,True
+2021-03-28,2.36,1.59,Cleveland Indians,San Diego Padres,3.0,3.0,0.0,False
+2021-03-28,1.96,1.81,San Francisco Giants,Oakland Athletics,3.0,9.0,-6.0,False
+2021-03-28,1.54,2.48,Milwaukee Brewers,Cincinnati Reds,7.0,1.0,6.0,True
+2021-03-28,1.82,1.97,Texas Rangers,Chicago Cubs,12.0,8.0,4.0,True
+2021-03-28,1.56,2.4,Toronto Blue Jays,Detroit Tigers,4.0,4.0,0.0,False
+2021-03-28,1.72,2.13,Baltimore Orioles,Pittsburgh Pirates,1.0,2.0,-1.0,False
+2021-03-28,1.86,1.92,Boston Red Sox,Minnesota Twins,8.0,3.0,5.0,True
+2021-03-28,2.11,1.72,Miami Marlins,New York Mets,10.0,2.0,8.0,True
+2021-03-28,2.16,1.68,Philadelphia Phillies,New York Yankees,6.0,2.0,4.0,True
+2021-03-28,2.11,1.71,Tampa Bay Rays,Atlanta Braves,16.0,5.0,11.0,True
+2021-03-28,1.61,2.29,Washington Nationals,St.Louis Cardinals,11.0,3.0,8.0,True
+2021-03-27,1.82,1.97,Seattle Mariners,San Francisco Giants,5.0,0.0,5.0,True
+2021-03-27,1.7,2.13,Cincinnati Reds,Chicago Cubs,3.0,6.0,-3.0,False
+2021-03-27,1.49,2.58,Atlanta Braves,Baltimore Orioles,8.0,5.0,3.0,True
+2021-03-27,1.58,2.35,St.Louis Cardinals,Miami Marlins,4.0,6.0,-2.0,False
+2021-03-27,2.11,1.71,Colorado Rockies,Chicago White Sox,2.0,8.0,-6.0,False
+2021-03-27,1.91,1.87,Kansas City Royals,Milwaukee Brewers,6.0,6.0,0.0,False
+2021-03-27,1.61,2.31,Oakland Athletics,Texas Rangers,5.0,1.0,4.0,True
+2021-03-27,1.85,1.93,Los Angeles Angels,San Diego Padres,0.0,2.0,-2.0,False
+2021-03-27,1.68,2.16,Los Angeles Dodgers,Cleveland Indians,2.0,9.0,-7.0,False
+2021-03-27,1.72,2.11,New York Mets,Houston Astros,8.0,3.0,5.0,True
+2021-03-27,2.03,1.78,Detroit Tigers,Philadelphia Phillies,9.0,8.0,1.0,True
+2021-03-27,1.95,1.83,Minnesota Twins,Tampa Bay Rays,0.0,2.0,-2.0,False
+2021-03-27,1.94,1.84,New York Yankees,Toronto Blue Jays,5.0,1.0,4.0,True
+2021-03-27,1.93,1.85,Pittsburgh Pirates,Boston Red Sox,4.0,7.0,-3.0,False
+2021-03-26,1.58,2.37,San Diego Padres,Seattle Mariners,6.0,3.0,3.0,True
+2021-03-26,1.6,2.3,Los Angeles Dodgers,Oakland Athletics,0.0,11.0,-11.0,False
+2021-03-26,1.75,2.06,Texas Rangers,Kansas City Royals,8.0,1.0,7.0,True
+2021-03-26,1.55,2.47,Toronto Blue Jays,Philadelphia Phillies,6.0,5.0,1.0,True
+2021-03-26,1.43,2.77,New York Yankees,Baltimore Orioles,1.0,4.0,-3.0,False
+2021-03-26,1.65,2.21,New York Mets,Washington Nationals,3.0,7.0,-4.0,False
+2021-03-26,1.8,2.0,Houston Astros,Miami Marlins,0.0,9.0,-9.0,False
+2021-03-26,1.56,2.4,Minnesota Twins,Atlanta Braves,6.0,7.0,-1.0,False
+2021-03-26,1.76,2.05,Arizona Diamondbacks,Cincinnati Reds,3.0,7.0,-4.0,False
+2021-03-26,2.04,1.76,Milwaukee Brewers,Chicago White Sox,5.0,7.0,-2.0,False
+2021-03-26,1.68,2.16,Chicago Cubs,San Francisco Giants,5.0,5.0,0.0,False
+2021-03-26,1.57,2.39,Cleveland Indians,Colorado Rockies,5.0,4.0,1.0,True
+2021-03-26,1.77,2.01,Pittsburgh Pirates,Detroit Tigers,2.0,5.0,-3.0,False
+2021-03-26,1.69,2.14,Tampa Bay Rays,Boston Red Sox,7.0,3.0,4.0,True
+2021-03-25,1.85,1.93,San Francisco Giants,Milwaukee Brewers,2.0,2.0,0.0,False
+2021-03-25,1.47,2.65,San Diego Padres,Texas Rangers,11.0,10.0,1.0,True
+2021-03-25,2.54,1.5,Chicago Cubs,Los Angeles Dodgers,2.0,5.0,-3.0,False
+2021-03-25,1.45,2.74,Toronto Blue Jays,Detroit Tigers,3.0,3.0,0.0,False
+2021-03-25,1.7,2.13,Baltimore Orioles,Pittsburgh Pirates,10.0,9.0,1.0,True
+2021-03-25,2.09,1.71,Boston Red Sox,Minnesota Twins,4.0,7.0,-3.0,False
+2021-03-25,1.76,2.03,Houston Astros,St.Louis Cardinals,3.0,0.0,3.0,True
+2021-03-25,1.85,1.93,Miami Marlins,Washington Nationals,7.0,3.0,4.0,True
+2021-03-25,2.16,1.67,Philadelphia Phillies,New York Yankees,13.0,12.0,1.0,True
+2021-03-25,2.04,1.75,Colorado Rockies,Los Angeles Angels,6.0,5.0,1.0,True
+2021-03-25,1.65,2.22,Chicago White Sox,Cincinnati Reds,9.0,4.0,5.0,True
+2021-03-25,1.54,2.44,Kansas City Royals,Arizona Diamondbacks,10.0,1.0,9.0,True
+2021-03-25,1.61,2.3,Oakland Athletics,Seattle Mariners,8.0,5.0,3.0,True
+2021-03-25,1.75,2.04,Atlanta Braves,Tampa Bay Rays,5.0,2.0,3.0,True
+2021-03-24,1.95,1.82,San Francisco Giants,San Diego Padres,7.0,3.0,4.0,True
+2021-03-24,1.8,1.97,Seattle Mariners,Chicago Cubs,2.0,6.0,-4.0,False
+2021-03-24,2.0,1.79,Arizona Diamondbacks,Cleveland Indians,6.0,5.0,1.0,True
+2021-03-24,1.55,2.43,Cincinnati Reds,Texas Rangers,5.0,6.0,-1.0,False
+2021-03-24,1.6,2.3,Boston Red Sox,Baltimore Orioles,2.0,0.0,2.0,True
+2021-03-24,1.65,2.22,Washington Nationals,Houston Astros,8.0,11.0,-3.0,False
+2021-03-24,1.49,2.59,Los Angeles Angels,Kansas City Royals,4.0,2.0,2.0,True
+2021-03-24,1.56,2.42,Milwaukee Brewers,Colorado Rockies,8.0,9.0,-1.0,False
+2021-03-24,1.56,2.42,Chicago White Sox,Oakland Athletics,4.0,14.0,-10.0,False
+2021-03-24,1.65,2.22,Detroit Tigers,Philadelphia Phillies,4.0,1.0,3.0,True
+2021-03-24,1.55,2.42,New York Yankees,Toronto Blue Jays,0.0,5.0,-5.0,False
+2021-03-24,1.99,1.79,Pittsburgh Pirates,Atlanta Braves,6.0,3.0,3.0,True
+2021-03-24,1.75,2.05,Tampa Bay Rays,Minnesota Twins,7.0,6.0,1.0,True
+2021-03-24,2.02,1.77,St.Louis Cardinals,New York Mets,3.0,0.0,3.0,True
+2021-03-23,1.8,2.0,Arizona Diamondbacks,Seattle Mariners,0.0,3.0,-3.0,False
+2021-03-23,1.77,2.04,Philadelphia Phillies,Toronto Blue Jays,3.0,9.0,-6.0,False
+2021-03-23,2.07,1.74,Milwaukee Brewers,Los Angeles Dodgers,9.0,6.0,3.0,True
+2021-03-23,1.62,2.29,San Diego Padres,Cincinnati Reds,5.0,4.0,1.0,True
+2021-03-23,1.84,1.94,Chicago Cubs,Chicago White Sox,1.0,3.0,-2.0,False
+2021-03-23,2.03,1.77,Cleveland Indians,San Francisco Giants,0.0,7.0,-7.0,False
+2021-03-23,1.68,2.19,Oakland Athletics,Colorado Rockies,4.0,1.0,3.0,True
+2021-03-23,1.89,1.89,Texas Rangers,Los Angeles Angels,6.0,4.0,2.0,True
+2021-03-23,1.55,2.44,New York Mets,Miami Marlins,5.0,3.0,2.0,True
+2021-03-23,1.76,2.04,Atlanta Braves,Boston Red Sox,6.0,7.0,-1.0,False
+2021-03-23,1.8,1.98,Baltimore Orioles,Tampa Bay Rays,4.0,3.0,1.0,True
+2021-03-23,2.02,1.77,Detroit Tigers,New York Yankees,5.0,5.0,0.0,False
+2021-03-23,1.75,2.06,Pittsburgh Pirates,Minnesota Twins,1.0,0.0,1.0,True
+2021-03-23,1.66,2.2,St.Louis Cardinals,Washington Nationals,5.0,5.0,0.0,False
+2021-03-22,2.38,1.57,Seattle Mariners,Los Angeles Dodgers,7.0,3.0,4.0,True
+2021-03-22,1.48,2.63,Toronto Blue Jays,Detroit Tigers,4.0,3.0,1.0,True
+2021-03-22,1.5,2.56,New York Yankees,Philadelphia Phillies,0.0,4.0,-4.0,False
+2021-03-22,1.77,2.03,Colorado Rockies,Texas Rangers,5.0,4.0,1.0,True
+2021-03-22,1.83,1.95,Los Angeles Angels,Chicago Cubs,15.0,7.0,8.0,True
+2021-03-22,1.55,2.45,Chicago White Sox,San Francisco Giants,7.0,2.0,5.0,True
+2021-03-22,1.8,1.98,Cleveland Indians,Milwaukee Brewers,3.0,6.0,-3.0,False
+2021-03-22,1.81,1.98,Kansas City Royals,San Diego Padres,9.0,9.0,0.0,False
+2021-03-22,1.72,2.11,Oakland Athletics,Arizona Diamondbacks,4.0,4.0,0.0,False
+2021-03-22,1.71,2.1,Houston Astros,New York Mets,5.0,4.0,1.0,True
+2021-03-22,2.07,1.74,Miami Marlins,St.Louis Cardinals,7.0,2.0,5.0,True
+2021-03-22,1.51,2.53,Minnesota Twins,Atlanta Braves,4.0,2.0,2.0,True
+2021-03-22,2.01,1.77,Pittsburgh Pirates,Baltimore Orioles,6.0,5.0,1.0,True
+2021-03-22,1.75,2.05,Tampa Bay Rays,Boston Red Sox,4.0,10.0,-6.0,False
+2021-03-21,1.86,1.91,Arizona Diamondbacks,Chicago White Sox,4.0,4.0,0.0,False
+2021-03-21,1.67,2.19,Milwaukee Brewers,Seattle Mariners,1.0,3.0,-2.0,False
+2021-03-21,1.83,1.95,San Diego Padres,Los Angeles Angels,4.0,1.0,3.0,True
+2021-03-21,1.73,2.08,Chicago Cubs,Cincinnati Reds,11.0,6.0,5.0,True
+2021-03-21,1.46,2.67,Cleveland Indians,Texas Rangers,7.0,2.0,5.0,True
+2021-03-21,1.56,2.4,Kansas City Royals,Colorado Rockies,6.0,1.0,5.0,True
+2021-03-21,1.5,2.54,Los Angeles Dodgers,San Francisco Giants,4.0,10.0,-6.0,False
+2021-03-21,2.03,1.76,Toronto Blue Jays,New York Yankees,3.0,8.0,-5.0,False
+2021-03-21,2.01,1.79,Baltimore Orioles,Minnesota Twins,7.0,12.0,-5.0,False
+2021-03-21,1.51,2.53,Boston Red Sox,Pittsburgh Pirates,4.0,9.0,-5.0,False
+2021-03-21,1.85,1.95,Miami Marlins,Houston Astros,4.0,2.0,2.0,True
+2021-03-21,1.66,2.2,Philadelphia Phillies,Detroit Tigers,3.0,5.0,-2.0,False
+2021-03-21,2.03,1.77,Tampa Bay Rays,Atlanta Braves,1.0,11.0,-10.0,False
+2021-03-21,1.95,1.85,Washington Nationals,New York Mets,2.0,6.0,-4.0,False
+2021-03-20,1.87,1.91,Cincinnati Reds,Milwaukee Brewers,1.0,4.0,-3.0,False
+2021-03-20,1.73,2.1,Texas Rangers,Seattle Mariners,6.0,5.0,1.0,True
+2021-03-20,2.3,1.61,Baltimore Orioles,New York Yankees,2.0,1.0,1.0,True
+2021-03-20,1.67,2.18,Minnesota Twins,Tampa Bay Rays,2.0,1.0,1.0,True
+2021-03-20,1.8,2.0,Washington Nationals,Miami Marlins,7.0,4.0,3.0,True
+2021-03-20,1.74,2.07,Arizona Diamondbacks,Kansas City Royals,6.0,6.0,0.0,False
+2021-03-20,1.94,1.83,San Diego Padres,Los Angeles Dodgers,4.0,4.0,0.0,False
+2021-03-20,1.8,1.98,Los Angeles Angels,Oakland Athletics,2.0,11.0,-9.0,False
+2021-03-20,1.66,2.19,Chicago Cubs,Colorado Rockies,4.0,2.0,2.0,True
+2021-03-20,1.67,2.18,Chicago White Sox,Cleveland Indians,6.0,2.0,4.0,True
+2021-03-20,1.88,1.89,Atlanta Braves,Boston Red Sox,8.0,2.0,6.0,True
+2021-03-20,1.71,2.12,Detroit Tigers,Pittsburgh Pirates,3.0,1.0,2.0,True
+2021-03-20,2.23,1.64,Philadelphia Phillies,Toronto Blue Jays,1.0,3.0,-2.0,False
+2021-03-20,1.72,2.08,St.Louis Cardinals,Houston Astros,5.0,2.0,3.0,True
+2021-03-19,1.77,2.01,San Francisco Giants,Cincinnati Reds,2.0,6.0,-4.0,False
+2021-03-19,1.79,1.98,Seattle Mariners,Chicago White Sox,7.0,6.0,1.0,True
+2021-03-19,1.52,2.52,New York Yankees,Philadelphia Phillies,1.0,4.0,-3.0,False
+2021-03-19,1.66,2.19,Atlanta Braves,Minnesota Twins,4.0,2.0,2.0,True
+2021-03-19,1.66,2.21,Houston Astros,Washington Nationals,9.0,10.0,-1.0,False
+2021-03-19,1.78,2.01,Pittsburgh Pirates,Baltimore Orioles,9.0,11.0,-2.0,False
+2021-03-19,1.95,1.83,Colorado Rockies,Cleveland Indians,9.0,4.0,5.0,True
+2021-03-19,1.66,2.2,Milwaukee Brewers,Arizona Diamondbacks,9.0,3.0,6.0,True
+2021-03-19,1.64,2.22,Kansas City Royals,Los Angeles Angels,4.0,4.0,0.0,False
+2021-03-19,1.49,2.6,Los Angeles Dodgers,Texas Rangers,7.0,2.0,5.0,True
+2021-03-19,1.73,2.09,Oakland Athletics,Chicago Cubs,1.0,6.0,-5.0,False
+2021-03-19,1.56,2.39,New York Mets,St.Louis Cardinals,8.0,5.0,3.0,True
+2021-03-19,1.69,2.14,Boston Red Sox,Tampa Bay Rays,11.0,7.0,4.0,True
+2021-03-19,1.89,1.88,Detroit Tigers,Toronto Blue Jays,1.0,8.0,-7.0,False
+2021-03-18,1.72,2.1,San Francisco Giants,Seattle Mariners,3.0,6.0,-3.0,False
+2021-03-18,1.74,2.06,Texas Rangers,Cincinnati Reds,12.0,9.0,3.0,True
+2021-03-18,1.67,2.19,St.Louis Cardinals,Miami Marlins,7.0,5.0,2.0,True
+2021-03-18,2.38,1.57,Arizona Diamondbacks,Los Angeles Dodgers,7.0,7.0,0.0,False
+2021-03-18,1.62,2.28,Los Angeles Angels,Milwaukee Brewers,3.0,2.0,1.0,True
+2021-03-18,1.62,2.28,San Diego Padres,Oakland Athletics,2.0,4.0,-2.0,False
+2021-03-18,1.58,2.37,Chicago White Sox,Kansas City Royals,9.0,7.0,2.0,True
+2021-03-18,1.64,2.28,Cleveland Indians,Chicago Cubs,3.0,4.0,-1.0,False
+2021-03-18,1.66,2.19,New York Mets,Washington Nationals,1.0,3.0,-2.0,False
+2021-03-17,1.69,2.13,Seattle Mariners,Los Angeles Angels,4.0,7.0,-3.0,False
+2021-03-17,1.92,1.86,Chicago Cubs,San Diego Padres,8.0,2.0,6.0,True
+2021-03-17,1.72,2.09,Cincinnati Reds,Cleveland Indians,12.0,7.0,5.0,True
+2021-03-17,1.73,2.11,Texas Rangers,Arizona Diamondbacks,3.0,0.0,3.0,True
+2021-03-17,2.31,1.6,Baltimore Orioles,Atlanta Braves,5.0,2.0,3.0,True
+2021-03-17,1.66,2.2,Houston Astros,St.Louis Cardinals,4.0,4.0,0.0,False
+2021-03-17,1.67,2.19,Colorado Rockies,San Francisco Giants,8.0,11.0,-3.0,False
+2021-03-17,1.8,1.99,Chicago White Sox,Los Angeles Dodgers,3.0,4.0,-1.0,False
+2021-03-17,1.61,2.29,Oakland Athletics,Kansas City Royals,10.0,5.0,5.0,True
+2021-03-17,2.09,1.73,Toronto Blue Jays,New York Yankees,0.0,1.0,-1.0,False
+2021-03-17,1.62,2.29,Boston Red Sox,Minnesota Twins,9.0,1.0,8.0,True
+2021-03-17,2.11,1.72,Miami Marlins,New York Mets,3.0,2.0,1.0,True
+2021-03-17,1.82,1.96,Philadelphia Phillies,Detroit Tigers,2.0,0.0,2.0,True
+2021-03-17,1.99,1.8,Pittsburgh Pirates,Tampa Bay Rays,9.0,10.0,-1.0,False
+2021-03-16,1.76,2.02,San Francisco Giants,Texas Rangers,6.0,10.0,-4.0,False
+2021-03-16,1.48,2.61,Cincinnati Reds,Colorado Rockies,7.0,11.0,-4.0,False
+2021-03-16,1.65,2.21,Kansas City Royals,Seattle Mariners,0.0,13.0,-13.0,False
+2021-03-16,1.53,2.51,Washington Nationals,Miami Marlins,3.0,4.0,-1.0,False
+2021-03-16,1.75,2.07,Los Angeles Angels,Cleveland Indians,17.0,8.0,9.0,True
+2021-03-16,1.62,2.28,San Diego Padres,Chicago White Sox,3.0,4.0,-1.0,False
+2021-03-16,2.13,1.7,Arizona Diamondbacks,Oakland Athletics,12.0,3.0,9.0,True
+2021-03-16,1.43,2.77,Los Angeles Dodgers,Milwaukee Brewers,2.0,7.0,-5.0,False
+2021-03-16,1.51,2.52,New York Mets,Houston Astros,8.0,3.0,5.0,True
+2021-03-16,1.87,1.9,Boston Red Sox,Atlanta Braves,5.0,3.0,2.0,True
+2021-03-16,2.62,1.48,Detroit Tigers,New York Yankees,4.0,7.0,-3.0,False
+2021-03-16,1.46,2.7,Minnesota Twins,Pittsburgh Pirates,2.0,4.0,-2.0,False
+2021-03-16,1.94,1.84,Philadelphia Phillies,Toronto Blue Jays,5.0,14.0,-9.0,False
+2021-03-16,1.44,2.74,Tampa Bay Rays,Baltimore Orioles,7.0,1.0,6.0,True
+2021-03-15,2.49,1.53,Colorado Rockies,Los Angeles Dodgers,5.0,12.0,-7.0,False
+2021-03-15,1.55,2.44,Los Angeles Angels,Cincinnati Reds,3.0,7.0,-4.0,False
+2021-03-15,1.91,1.87,Milwaukee Brewers,San Diego Padres,3.0,13.0,-10.0,False
+2021-03-15,1.76,2.05,Seattle Mariners,Arizona Diamondbacks,2.0,6.0,-4.0,False
+2021-03-15,1.6,2.32,Chicago White Sox,Chicago Cubs,4.0,4.0,0.0,False
+2021-03-15,1.6,2.32,Cleveland Indians,Oakland Athletics,7.0,3.0,4.0,True
+2021-03-15,1.58,2.38,Kansas City Royals,San Francisco Giants,6.0,1.0,5.0,True
+2021-03-15,1.44,2.74,Atlanta Braves,Minnesota Twins,5.0,1.0,4.0,True
+2021-03-15,1.91,1.87,Baltimore Orioles,Pittsburgh Pirates,12.0,3.0,9.0,True
+2021-03-15,1.82,1.97,Detroit Tigers,Toronto Blue Jays,0.0,4.0,-4.0,False
+2021-03-15,1.81,1.98,Houston Astros,Miami Marlins,5.0,6.0,-1.0,False
+2021-03-15,1.46,2.67,New York Yankees,Philadelphia Phillies,4.0,2.0,2.0,True
+2021-03-15,1.88,1.89,St.Louis Cardinals,Washington Nationals,4.0,2.0,2.0,True
+2021-03-15,1.62,2.28,Tampa Bay Rays,Boston Red Sox,3.0,2.0,1.0,True
+2021-03-14,1.46,2.65,Los Angeles Dodgers,Kansas City Royals,4.0,8.0,-4.0,False
+2021-03-14,1.86,1.93,Arizona Diamondbacks,San Francisco Giants,3.0,6.0,-3.0,False
+2021-03-14,1.72,2.1,Seattle Mariners,Milwaukee Brewers,5.0,4.0,1.0,True
+2021-03-14,1.89,1.89,Chicago Cubs,Los Angeles Angels,1.0,1.0,0.0,False
+2021-03-14,1.76,2.05,Cincinnati Reds,San Diego Padres,4.0,10.0,-6.0,False
+2021-03-14,1.66,2.2,Oakland Athletics,Chicago White Sox,0.0,1.0,-1.0,False
+2021-03-14,1.66,2.21,Texas Rangers,Colorado Rockies,3.0,1.0,2.0,True
+2021-03-14,1.57,2.39,New York Mets,St.Louis Cardinals,7.0,5.0,2.0,True
+2021-03-14,1.63,2.25,Toronto Blue Jays,New York Yankees,1.0,5.0,-4.0,False
+2021-03-14,1.68,2.19,Atlanta Braves,Tampa Bay Rays,8.0,7.0,1.0,True
+2021-03-14,1.62,2.29,Detroit Tigers,Baltimore Orioles,5.0,1.0,4.0,True
+2021-03-14,1.66,2.2,Houston Astros,Washington Nationals,5.0,0.0,5.0,True
+2021-03-14,1.52,2.54,Minnesota Twins,Boston Red Sox,5.0,5.0,0.0,False
+2021-03-14,1.81,1.97,Pittsburgh Pirates,Philadelphia Phillies,5.0,6.0,-1.0,False
+2021-03-13,1.65,2.24,Cincinnati Reds,Oakland Athletics,2.0,5.0,-3.0,False
+2021-03-13,1.83,1.97,Miami Marlins,St.Louis Cardinals,4.0,6.0,-2.0,False
+2021-03-13,1.7,2.14,Washington Nationals,New York Mets,4.0,3.0,1.0,True
+2021-03-13,1.71,2.11,Colorado Rockies,Seattle Mariners,2.0,1.0,1.0,True
+2021-03-13,1.62,2.27,Milwaukee Brewers,Texas Rangers,4.0,4.0,0.0,False
+2021-03-13,1.46,2.69,San Diego Padres,Arizona Diamondbacks,3.0,6.0,-3.0,False
+2021-03-13,1.57,2.38,Chicago White Sox,Los Angeles Angels,6.0,5.0,1.0,True
+2021-03-13,1.6,2.34,Kansas City Royals,Chicago Cubs,10.0,2.0,8.0,True
+2021-03-13,2.03,1.77,San Francisco Giants,Cleveland Indians,5.0,4.0,1.0,True
+2021-03-13,1.44,2.74,Toronto Blue Jays,Baltimore Orioles,5.0,0.0,5.0,True
+2021-03-13,1.66,2.21,Boston Red Sox,Atlanta Braves,7.0,2.0,5.0,True
+2021-03-13,1.41,2.89,New York Yankees,Pittsburgh Pirates,7.0,5.0,2.0,True
+2021-03-13,1.45,2.73,Philadelphia Phillies,Detroit Tigers,9.0,3.0,6.0,True
+2021-03-13,1.56,2.41,Tampa Bay Rays,Minnesota Twins,0.0,1.0,-1.0,False
+2021-03-12,1.76,2.05,Seattle Mariners,Cincinnati Reds,4.0,3.0,1.0,True
+2021-03-12,1.64,2.23,St.Louis Cardinals,Houston Astros,4.0,3.0,1.0,True
+2021-03-12,1.64,2.23,Los Angeles Angels,Arizona Diamondbacks,4.0,3.0,1.0,True
+2021-03-12,2.09,1.72,Chicago Cubs,Milwaukee Brewers,3.0,8.0,-5.0,False
+2021-03-12,2.28,1.6,Cleveland Indians,Los Angeles Dodgers,2.0,9.0,-7.0,False
+2021-03-12,1.71,2.13,Oakland Athletics,San Diego Padres,5.0,4.0,1.0,True
+2021-03-12,1.85,1.95,San Francisco Giants,Colorado Rockies,9.0,8.0,1.0,True
+2021-03-12,2.04,1.76,Texas Rangers,Chicago White Sox,3.0,2.0,1.0,True
+2021-03-12,1.81,1.97,New York Mets,Miami Marlins,2.0,4.0,-2.0,False
+2021-03-12,1.68,2.18,Baltimore Orioles,Philadelphia Phillies,2.0,6.0,-4.0,False
+2021-03-12,1.81,1.99,Boston Red Sox,Tampa Bay Rays,8.0,2.0,6.0,True
+2021-03-12,2.2,1.66,Detroit Tigers,New York Yankees,2.0,4.0,-2.0,False
+2021-03-12,1.71,2.11,Minnesota Twins,Atlanta Braves,5.0,8.0,-3.0,False
+2021-03-12,2.23,1.65,Pittsburgh Pirates,Toronto Blue Jays,2.0,1.0,1.0,True
+2021-03-11,1.83,1.96,Cincinnati Reds,Chicago White Sox,7.0,4.0,3.0,True
+2021-03-11,1.45,2.7,Los Angeles Dodgers,Seattle Mariners,4.0,4.0,0.0,False
+2021-03-11,2.32,1.6,Houston Astros,New York Mets,0.0,1.0,-1.0,False
+2021-03-11,2.16,1.69,Colorado Rockies,Chicago Cubs,6.0,8.0,-2.0,False
+2021-03-11,1.6,2.31,Los Angeles Angels,San Francisco Giants,5.0,4.0,1.0,True
+2021-03-11,1.75,2.06,Milwaukee Brewers,Kansas City Royals,2.0,4.0,-2.0,False
+2021-03-11,1.62,2.28,San Diego Padres,Cleveland Indians,5.0,4.0,1.0,True
+2021-03-11,1.97,1.83,Texas Rangers,Oakland Athletics,0.0,6.0,-6.0,False
+2021-03-11,1.57,2.41,Toronto Blue Jays,Detroit Tigers,10.0,6.0,4.0,True
+2021-03-11,1.63,2.28,Atlanta Braves,Tampa Bay Rays,2.0,0.0,2.0,True
+2021-03-11,2.23,1.65,Miami Marlins,Washington Nationals,1.0,1.0,0.0,False
+2021-03-11,1.92,1.85,Minnesota Twins,Boston Red Sox,4.0,5.0,-1.0,False
+2021-03-11,1.77,2.02,Philadelphia Phillies,New York Yankees,1.0,6.0,-5.0,False
+2021-03-11,1.64,2.23,Pittsburgh Pirates,Baltimore Orioles,7.0,5.0,2.0,True
+2021-03-10,1.42,2.82,Los Angeles Dodgers,Arizona Diamondbacks,3.0,2.0,1.0,True
+2021-03-10,1.42,2.81,New York Yankees,Pittsburgh Pirates,6.0,5.0,1.0,True
+2021-03-10,2.03,1.77,Miami Marlins,Houston Astros,4.0,4.0,0.0,False
+2021-03-10,1.99,1.8,Colorado Rockies,San Diego Padres,7.0,5.0,2.0,True
+2021-03-10,1.63,2.26,Seattle Mariners,Texas Rangers,5.0,17.0,-12.0,False
+2021-03-10,1.58,2.35,Cleveland Indians,Los Angeles Angels,2.0,4.0,-2.0,False
+2021-03-10,1.7,2.13,Kansas City Royals,Cincinnati Reds,9.0,3.0,6.0,True
+2021-03-10,1.72,2.11,Oakland Athletics,Milwaukee Brewers,9.0,1.0,8.0,True
+2021-03-10,1.81,1.99,San Francisco Giants,Chicago Cubs,7.0,6.0,1.0,True
+2021-03-10,2.12,1.71,Baltimore Orioles,Toronto Blue Jays,4.0,3.0,1.0,True
+2021-03-10,1.6,2.33,Boston Red Sox,Atlanta Braves,5.0,3.0,2.0,True
+2021-03-10,1.65,2.21,Philadelphia Phillies,Detroit Tigers,6.0,4.0,2.0,True
+2021-03-10,1.69,2.15,Tampa Bay Rays,Minnesota Twins,2.0,6.0,-4.0,False
+2021-03-10,1.88,1.9,Washington Nationals,St.Louis Cardinals,3.0,2.0,1.0,True
+2021-03-09,2.0,1.78,Cincinnati Reds,Los Angeles Dodgers,3.0,5.0,-2.0,False
+2021-03-09,1.67,2.2,Houston Astros,Washington Nationals,4.0,4.0,0.0,False
+2021-03-09,1.77,2.04,Arizona Diamondbacks,Colorado Rockies,4.0,11.0,-7.0,False
+2021-03-09,1.67,2.22,Milwaukee Brewers,San Francisco Giants,13.0,7.0,6.0,True
+2021-03-09,1.91,1.88,Seattle Mariners,Kansas City Royals,6.0,3.0,3.0,True
+2021-03-09,1.94,1.84,Chicago Cubs,Oakland Athletics,9.0,8.0,1.0,True
+2021-03-09,1.95,1.85,Chicago White Sox,San Diego Padres,2.0,4.0,-2.0,False
+2021-03-09,1.85,1.95,Texas Rangers,Cleveland Indians,2.0,9.0,-7.0,False
+2021-03-09,1.55,2.44,New York Mets,St.Louis Cardinals,5.0,3.0,2.0,True
+2021-03-09,1.64,2.25,Toronto Blue Jays,Philadelphia Phillies,4.0,1.0,3.0,True
+2021-03-09,1.56,2.43,Atlanta Braves,Pittsburgh Pirates,1.0,10.0,-9.0,False
+2021-03-09,2.36,1.6,Detroit Tigers,New York Yankees,6.0,5.0,1.0,True
+2021-03-09,1.57,2.39,Minnesota Twins,Baltimore Orioles,1.0,0.0,1.0,True
+2021-03-09,1.57,2.41,Tampa Bay Rays,Boston Red Sox,11.0,3.0,8.0,True
+2021-03-08,2.01,1.79,Colorado Rockies,Cincinnati Reds,4.0,6.0,-2.0,False
+2021-03-08,2.21,1.66,Milwaukee Brewers,Los Angeles Angels,10.0,9.0,1.0,True
+2021-03-08,1.66,2.21,Chicago Cubs,Texas Rangers,9.0,0.0,9.0,True
+2021-03-08,1.9,1.89,Cleveland Indians,Seattle Mariners,10.0,0.0,10.0,True
+2021-03-08,1.62,2.3,Kansas City Royals,Oakland Athletics,10.0,3.0,7.0,True
+2021-03-08,1.6,2.32,Los Angeles Dodgers,Chicago White Sox,8.0,0.0,8.0,True
+2021-03-08,1.74,2.07,San Francisco Giants,Arizona Diamondbacks,2.0,2.0,0.0,False
+2021-03-08,1.71,2.12,St.Louis Cardinals,Miami Marlins,7.0,7.0,0.0,False
+2021-03-08,1.96,1.84,Washington Nationals,New York Mets,9.0,5.0,4.0,True
+2021-03-07,1.9,1.89,Arizona Diamondbacks,Chicago Cubs,5.0,4.0,1.0,True
+2021-03-07,1.58,2.36,Los Angeles Angels,Seattle Mariners,6.0,2.0,4.0,True
+2021-03-07,1.49,2.59,San Diego Padres,Kansas City Royals,3.0,4.0,-1.0,False
+2021-03-07,1.66,2.2,Chicago White Sox,Colorado Rockies,0.0,1.0,-1.0,False
+2021-03-07,1.65,2.23,Cincinnati Reds,San Francisco Giants,4.0,9.0,-5.0,False
+2021-03-07,1.67,2.21,Oakland Athletics,Cleveland Indians,9.0,4.0,5.0,True
+2021-03-07,2.4,1.56,Texas Rangers,Los Angeles Dodgers,4.0,3.0,1.0,True
+2021-03-07,1.53,2.48,New York Mets,Miami Marlins,4.0,4.0,0.0,False
+2021-03-07,1.57,2.38,Atlanta Braves,Boston Red Sox,5.0,4.0,1.0,True
+2021-03-07,1.81,2.0,Detroit Tigers,Toronto Blue Jays,5.0,1.0,4.0,True
+2021-03-07,1.91,1.88,Minnesota Twins,Tampa Bay Rays,8.0,4.0,4.0,True
+2021-03-07,1.64,2.23,New York Yankees,Philadelphia Phillies,4.0,0.0,4.0,True
+2021-03-07,1.9,1.88,Pittsburgh Pirates,Baltimore Orioles,13.0,1.0,12.0,True
+2021-03-07,1.68,2.18,St.Louis Cardinals,Houston Astros,8.0,5.0,3.0,True
+2021-03-06,1.74,2.09,Baltimore Orioles,Detroit Tigers,5.0,6.0,-1.0,False
+2021-03-06,1.71,2.14,Arizona Diamondbacks,Texas Rangers,6.0,7.0,-1.0,False
+2021-03-06,1.73,2.08,Los Angeles Angels,Colorado Rockies,2.0,8.0,-6.0,False
+2021-03-06,1.61,2.29,Milwaukee Brewers,Chicago Cubs,1.0,3.0,-2.0,False
+2021-03-06,1.7,2.16,Seattle Mariners,Oakland Athletics,1.0,1.0,0.0,False
+2021-03-06,1.89,1.91,Cleveland Indians,Chicago White Sox,0.0,7.0,-7.0,False
+2021-03-06,1.69,2.15,Los Angeles Dodgers,San Diego Padres,1.0,2.0,-1.0,False
+2021-03-06,1.8,2.01,San Francisco Giants,Kansas City Royals,6.0,8.0,-2.0,False
+2021-03-06,1.57,2.39,Toronto Blue Jays,Philadelphia Phillies,7.0,1.0,6.0,True
+2021-03-06,2.32,1.61,Houston Astros,New York Mets,1.0,6.0,-5.0,False
+2021-03-06,2.02,1.78,Miami Marlins,Washington Nationals,3.0,5.0,-2.0,False
+2021-03-06,2.43,1.56,Pittsburgh Pirates,New York Yankees,3.0,2.0,1.0,True
+2021-03-05,1.52,2.54,San Diego Padres,San Francisco Giants,9.0,3.0,6.0,True
+2021-03-05,1.72,2.1,Cincinnati Reds,Arizona Diamondbacks,3.0,5.0,-2.0,False
+2021-03-05,1.73,2.11,Washington Nationals,St.Louis Cardinals,7.0,6.0,1.0,True
+2021-03-05,1.71,2.14,Colorado Rockies,Milwaukee Brewers,3.0,12.0,-9.0,False
+2021-03-05,1.71,2.13,Chicago Cubs,Cleveland Indians,4.0,10.0,-6.0,False
+2021-03-05,1.66,2.21,Chicago White Sox,Seattle Mariners,2.0,2.0,0.0,False
+2021-03-05,2.24,1.64,Kansas City Royals,Los Angeles Dodgers,5.0,7.0,-2.0,False
+2021-03-05,1.76,2.04,Oakland Athletics,Los Angeles Angels,3.0,7.0,-4.0,False
+2021-03-05,1.57,2.39,Toronto Blue Jays,Baltimore Orioles,13.0,4.0,9.0,True
+2021-03-05,1.64,2.26,Atlanta Braves,Minnesota Twins,4.0,0.0,4.0,True
+2021-03-05,1.76,2.06,Boston Red Sox,Tampa Bay Rays,6.0,5.0,1.0,True
+2021-03-05,1.68,2.19,Miami Marlins,Houston Astros,1.0,0.0,1.0,True
+2021-03-05,1.47,2.66,New York Yankees,Detroit Tigers,1.0,1.0,0.0,False
+2021-03-05,1.52,2.52,Philadelphia Phillies,Pittsburgh Pirates,3.0,0.0,3.0,True
+2021-03-04,1.69,2.17,Cincinnati Reds,Kansas City Royals,3.0,5.0,-2.0,False
+2021-03-04,1.55,2.44,Los Angeles Dodgers,Chicago Cubs,0.0,7.0,-7.0,False
+2021-03-04,1.82,1.99,Houston Astros,St.Louis Cardinals,14.0,0.0,14.0,True
+2021-03-04,1.73,2.09,Arizona Diamondbacks,Los Angeles Angels,9.0,2.0,7.0,True
+2021-03-04,1.66,2.2,Milwaukee Brewers,Cleveland Indians,1.0,5.0,-4.0,False
+2021-03-04,1.63,2.25,Seattle Mariners,Colorado Rockies,9.0,9.0,0.0,False
+2021-03-04,1.98,1.82,San Francisco Giants,Chicago White Sox,3.0,1.0,2.0,True
+2021-03-04,1.8,2.0,Texas Rangers,San Diego Padres,5.0,3.0,2.0,True
+2021-03-04,1.6,2.31,New York Mets,Washington Nationals,8.0,4.0,4.0,True
+2021-03-04,1.65,2.24,Baltimore Orioles,Boston Red Sox,6.0,3.0,3.0,True
+2021-03-04,2.04,1.77,Detroit Tigers,Toronto Blue Jays,8.0,2.0,6.0,True
+2021-03-04,1.89,1.89,Minnesota Twins,Tampa Bay Rays,2.0,5.0,-3.0,False
+2021-03-04,2.06,1.76,Philadelphia Phillies,New York Yankees,15.0,0.0,15.0,True
+2021-03-04,1.86,1.92,Pittsburgh Pirates,Atlanta Braves,6.0,1.0,5.0,True
+2021-03-03,1.62,2.28,Los Angeles Dodgers,Cincinnati Reds,4.0,4.0,0.0,False
+2021-03-03,1.61,2.33,New York Yankees,Toronto Blue Jays,4.0,1.0,3.0,True
+2021-03-03,2.23,1.66,Colorado Rockies,Oakland Athletics,10.0,7.0,3.0,True
+2021-03-03,1.57,2.39,Los Angeles Angels,Texas Rangers,6.0,2.0,4.0,True
+2021-03-03,1.57,2.39,San Diego Padres,Milwaukee Brewers,5.0,8.0,-3.0,False
+2021-03-03,1.63,2.26,Chicago Cubs,Seattle Mariners,8.0,8.0,0.0,False
+2021-03-03,1.6,2.34,Cleveland Indians,Arizona Diamondbacks,4.0,9.0,-5.0,False
+2021-03-03,1.79,2.02,Kansas City Royals,Chicago White Sox,6.0,5.0,1.0,True
+2021-03-03,1.64,2.27,Atlanta Braves,Baltimore Orioles,1.0,8.0,-7.0,False
+2021-03-03,1.9,1.89,Detroit Tigers,Philadelphia Phillies,2.0,4.0,-2.0,False
+2021-03-03,1.88,1.9,Minnesota Twins,Boston Red Sox,6.0,14.0,-8.0,False
+2021-03-03,1.7,2.12,St.Louis Cardinals,New York Mets,14.0,9.0,5.0,True
+2021-03-03,1.51,2.54,Tampa Bay Rays,Pittsburgh Pirates,3.0,1.0,2.0,True
+2021-03-03,1.66,2.21,Washington Nationals,Miami Marlins,5.0,8.0,-3.0,False
+2021-03-02,2.2,1.65,San Francisco Giants,Los Angeles Dodgers,1.0,1.0,0.0,False
+2021-03-02,1.68,2.18,Cincinnati Reds,Los Angeles Angels,7.0,5.0,2.0,True
+2021-03-02,2.19,1.67,Arizona Diamondbacks,San Diego Padres,2.0,7.0,-5.0,False
+2021-03-02,1.72,2.13,Milwaukee Brewers,Oakland Athletics,1.0,2.0,-1.0,False
+2021-03-02,1.73,2.11,Seattle Mariners,Cleveland Indians,1.0,6.0,-5.0,False
+2021-03-02,1.81,1.98,Chicago Cubs,Kansas City Royals,3.0,2.0,1.0,True
+2021-03-02,1.62,2.28,Chicago White Sox,Texas Rangers,5.0,5.0,0.0,False
+2021-03-02,1.65,2.22,New York Mets,Houston Astros,2.0,0.0,2.0,True
+2021-03-02,1.62,2.3,Toronto Blue Jays,Philadelphia Phillies,4.0,2.0,2.0,True
+2021-03-02,1.77,2.03,Atlanta Braves,Minnesota Twins,6.0,0.0,6.0,True
+2021-03-02,2.32,1.6,Baltimore Orioles,New York Yankees,2.0,4.0,-2.0,False
+2021-03-02,1.87,1.91,Boston Red Sox,Tampa Bay Rays,9.0,3.0,6.0,True
+2021-03-02,2.15,1.69,Miami Marlins,St.Louis Cardinals,0.0,0.0,0.0,False
+2021-03-02,1.84,1.94,Pittsburgh Pirates,Detroit Tigers,1.0,6.0,-5.0,False
+2021-03-01,1.9,1.9,Arizona Diamondbacks,Milwaukee Brewers,1.0,7.0,-6.0,False
+2021-03-01,1.68,2.17,Los Angeles Angels,Chicago White Sox,4.0,4.0,0.0,False
+2021-03-01,1.87,1.92,San Diego Padres,Chicago Cubs,0.0,1.0,-1.0,False
+2021-03-01,1.59,2.35,Cleveland Indians,Kansas City Royals,6.0,8.0,-2.0,False
+2021-03-01,1.43,2.79,Los Angeles Dodgers,Colorado Rockies,10.0,0.0,10.0,True
+2021-03-01,1.65,2.24,Oakland Athletics,Cincinnati Reds,13.0,5.0,8.0,True
+2021-03-01,1.81,1.98,Texas Rangers,San Francisco Giants,1.0,1.0,0.0,False
+2021-03-01,1.56,2.44,Toronto Blue Jays,Pittsburgh Pirates,2.0,2.0,0.0,False
+2021-03-01,1.9,1.88,Boston Red Sox,Atlanta Braves,3.0,5.0,-2.0,False
+2021-03-01,1.91,1.88,Miami Marlins,New York Mets,2.0,0.0,2.0,True
+2021-03-01,1.57,2.38,New York Yankees,Detroit Tigers,5.0,4.0,1.0,True
+2021-03-01,1.78,2.01,Philadelphia Phillies,Baltimore Orioles,4.0,4.0,0.0,False
+2021-03-01,1.64,2.22,Tampa Bay Rays,Minnesota Twins,5.0,6.0,-1.0,False
+2021-03-01,1.81,1.99,Washington Nationals,Houston Astros,6.0,7.0,-1.0,False
+2021-02-28,1.99,1.82,Colorado Rockies,Arizona Diamondbacks,5.0,2.0,3.0,True
+2021-02-28,2.07,1.75,Seattle Mariners,San Diego Padres,5.0,4.0,1.0,True
+2021-02-28,1.71,2.11,Chicago White Sox,Milwaukee Brewers,2.0,7.0,-5.0,False
+2021-02-28,1.84,1.93,Cleveland Indians,Cincinnati Reds,5.0,1.0,4.0,True
+2021-02-28,1.72,2.12,Kansas City Royals,Texas Rangers,3.0,2.0,1.0,True
+2021-02-28,2.04,1.77,Oakland Athletics,Los Angeles Dodgers,1.0,2.0,-1.0,False
+2021-02-28,1.79,2.0,San Francisco Giants,Los Angeles Angels,2.0,5.0,-3.0,False
+2021-02-28,1.7,2.13,Baltimore Orioles,Pittsburgh Pirates,4.0,6.0,-2.0,False
+2021-02-28,1.84,1.95,Detroit Tigers,Philadelphia Phillies,10.0,2.0,8.0,True
+2021-02-28,1.62,2.27,Houston Astros,Miami Marlins,1.0,6.0,-5.0,False
+2021-02-28,1.7,2.14,Minnesota Twins,Boston Red Sox,7.0,6.0,1.0,True
+2021-02-28,1.72,2.08,New York Yankees,Toronto Blue Jays,4.0,6.0,-2.0,False
+2021-02-28,1.64,2.23,St.Louis Cardinals,Washington Nationals,4.0,4.0,0.0,False
+2021-02-28,1.73,2.1,Tampa Bay Rays,Atlanta Braves,9.0,7.0,2.0,True
